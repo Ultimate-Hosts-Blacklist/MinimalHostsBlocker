@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/MinimalHostsBlocker.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/MinimalHostsBlocker)
 
 ```
-ReddestDream's Cydia Repo! ^_^
+ ReddestDream's Cydia Repo! ^_^
 ```
 
 --------------------------------------------------------------------------------
