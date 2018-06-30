@@ -1,0 +1,32 @@
+env:
+  global:
+    - secure: PbOZEl7MuANgC1qI7Y1QuZTrlHIsMNn52u/cL/DKT+AR7+OaSXKE5haKVopCNkbm7RkFVXjd1l9labn9k7nndokzuofl9KFeEcIkKoHTSiSJEa9m9oWZpdsPXgF/a83nPdHJagWFdmXTuJ2WJztjj17xEGYHueYj0ijMzsIElCDGfkhVk5p9qlgp89Uyo75ga3zWka6pY0IXLGoIwNM7kgB/ogHSCNARfRIyWgaCumCsI8Exf/ryQtR8vzOVJBc28ZEuGMXMkN7B+7wEKj8oGyY/x7bLVCREpKmXJmRM7N+nxIUmD9t59RCAIVIrBLUtMUGHAosxQ/2Uqpye+tu88jaieQK0CuJXCTaFUqs03I70kBS/ukVAOcc3mFGzRUZL9fttkBtkM6SEAHovAjaq8yO/w0Ey/1cGWIMpjLADuOI1YFQYMawXgwmn5LcUKKalCf9tiUUr5VBFuP8l2qP4UBqANb5E90krLFZ/B9Xl9cjq2BdIGAGR6+7F5OuMTl/U/xMx8qFKIbXaIVOfeEcDIw+InQTHEEM20SvZS+67CxOeN8lNfCunyLRuk+ODkenDcDKMbiHJ7V+Wrsb2+aYdH+HLNnml53TdhHtItJbcrUDn1yRMHrRuAiuBU5lLgiRFUSTtJnU2FpFpsMN0yrccwzxIkY10kt31YSLpERkAMmY=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/MinimalHostsBlocker
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+before_install:
+  - pip3 install colorama
+  - sudo apt-get -y install dos2unix
+
+script:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update.py
+
+notifications:
+  on_success:   change
+  on_failure:   always
