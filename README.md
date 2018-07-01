@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/MinimalHostsBlocker.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/MinimalHostsBlocker)
 
 ```
- ReddestDream's Cydia Repo! ^_^
+ReddestDream's Cydia Repo! ^_^
 ```
 
 --------------------------------------------------------------------------------
@@ -18,7 +18,7 @@ As [Ultimate Hosts Blacklist](https://github.com/mitchellkrogza/Ultimate.Hosts.B
 
 # About PyFunceble
 
-PyFunceble like [Funceble](https://github.com/funilrys/funceble) is A tool to check domains or IP availability by returning 3 possible [status](https://pyfunceble.readthedocs.io/en/latest/colomns.html#status): ACTIVE, INACTIVE or INVALID.
+PyFunceble like [Funceble](https://github.com/funilrys/funceble) is A tool to check domains or IP availability by returning 3 possible [status](https://github.com/funilrys/PyFunceble/wiki/Columns#status): ACTIVE, INACTIVE or INVALID.
 
 It also has been described by one of its most active user as:
 
@@ -28,7 +28,7 @@ If you need further informations about PyFunceble or Funceble please report to o
 
 ## About the status returned by PyFunceble
 
-For an up to date version of this part please report to the [Status](https://pyfunceble.readthedocs.io/en/latest/colomns.html#status) section of our Wiki.
+For an up to date version of this part please report to the [Status](https://github.com/funilrys/PyFunceble/wiki/Columns#status) section of our Wiki.
 
 ### ACTIVE
 
@@ -40,7 +40,7 @@ This status is returned when **one of the following cases** is met:
 
 - `Lookup().nslookup()` don't return `server can't find domain-name.me: NXDOMAIN`.
 
-- `HTTPCode().get()` return one the following code `[100, 101, 200, 201, 202, 203, 204, 205, 206]`.
+- `HTTOCode().get()` return one the following code `[100, 101, 200, 201, 202, 203, 204, 205, 206]`.
 
 ### INACTIVE
 
