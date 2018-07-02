@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 01 Jul 09:07:11 UTC 2018 
+# Date of generation: Mon 02 Jul 19:07:22 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net 
 0.0.0.0 a.ad-sys.com 
@@ -149,8 +149,8 @@
 0.0.0.0 s.zkcdn.net 
 0.0.0.0 s1.2mdn.net 
 0.0.0.0 s2.video.doubleclick.net 
+0.0.0.0 script.tailsweep.com 
 0.0.0.0 securepubads.g.doubleclick.net 
-0.0.0.0 serve.vdopia.com 
 0.0.0.0 server.cpmstar.com 
 0.0.0.0 spcdnsp.i-mobile.co.jp 
 0.0.0.0 spdeliver.i-mobile.co.jp 
@@ -172,7 +172,6 @@
 0.0.0.0 tcr.tynt.com 
 0.0.0.0 tpc.googlesyndication.com 
 0.0.0.0 track.netshelter.net 
-0.0.0.0 trends.revcontent.com 
 0.0.0.0 video-stats.video.google.com 
 0.0.0.0 w.inmobi.com 
 0.0.0.0 w.sharethis.com 

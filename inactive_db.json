@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1530436333": [
-            "5be16.v.fwmrm.net",
+        "1530558925": [
             "9cf9.v.fwmrm.net",
             "a.jumptap.com",
             "ad.directrev.com",
@@ -19,6 +18,7 @@
             "assets.kixer.com",
             "austria1.adverserve.net",
             "b.grvcdn.com",
+            "banners.unibet.com",
             "cache.blogads.com",
             "cdn.adbrau.com",
             "cdn.adnotch.com",
@@ -44,6 +44,9 @@
             "rma-api.gravity.com",
             "sdt1.corp.inmobi.com",
             "www.adshost2.com"
+        ],
+        "to_test": [
+            "5be16.v.fwmrm.net"
         ]
     }
 }
