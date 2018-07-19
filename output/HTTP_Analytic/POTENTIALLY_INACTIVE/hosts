@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 17 Jul 19:07:52 UTC 2018 
+# Date of generation: Thu 19 Jul 19:07:08 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net 
 0.0.0.0 a.ad-sys.com 
@@ -7,6 +7,8 @@
 0.0.0.0 a.adorika.net 
 0.0.0.0 a.adroll.com 
 0.0.0.0 a.kat.cr 
+0.0.0.0 a.ligatus.com 
+0.0.0.0 a.scorecardresearch.com 
 0.0.0.0 a.tribalfusion.com 
 0.0.0.0 a.visualrevenue.com 
 0.0.0.0 a02.korrelate.net 
@@ -34,6 +36,7 @@
 0.0.0.0 ads.flurry.com 
 0.0.0.0 ads.footballaddicts.com 
 0.0.0.0 ads.juicyads.com 
+0.0.0.0 ads.pro-market.net 
 0.0.0.0 ads.yieldmo.com 
 0.0.0.0 ads.yimg.com 
 0.0.0.0 ads2.contentabc.com 
@@ -62,6 +65,7 @@
 0.0.0.0 cdn.hgdat.com 
 0.0.0.0 cdn.krxd.net 
 0.0.0.0 cdn.media.innity.net 
+0.0.0.0 cdn.pubexchange.com 
 0.0.0.0 cdn.viglink.com 
 0.0.0.0 cdn1.inner-active.mobi 
 0.0.0.0 cdn1.smartadserver.com 
@@ -108,7 +112,6 @@
 0.0.0.0 inmobisdk-a.akamaihd.net 
 0.0.0.0 inneractive-assets.s3.amazonaws.com 
 0.0.0.0 ir-na.amazon-adsystem.com 
-0.0.0.0 j.adlooxtracking.com 
 0.0.0.0 js.adsonar.com 
 0.0.0.0 js.grt02.com 
 0.0.0.0 js.moatads.com 
@@ -148,12 +151,15 @@
 0.0.0.0 s.zkcdn.net 
 0.0.0.0 s1.2mdn.net 
 0.0.0.0 s2.video.doubleclick.net 
+0.0.0.0 script.tailsweep.com 
 0.0.0.0 securepubads.g.doubleclick.net 
+0.0.0.0 serve.vdopia.com 
 0.0.0.0 server.cpmstar.com 
 0.0.0.0 spcdnsp.i-mobile.co.jp 
 0.0.0.0 spdeliver.i-mobile.co.jp 
 0.0.0.0 spnet5.i-mobile.co.jp 
 0.0.0.0 spsvc3.i-mobile.co.jp 
+0.0.0.0 srv.bebi.com 
 0.0.0.0 static.2mdn.net 
 0.0.0.0 static.adzerk.net 
 0.0.0.0 static.emsservice.de 
