@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1532522370": [
+        "1532631022": [
             "9cf9.v.fwmrm.net",
             "a.jumptap.com",
             "ad.directrev.com",
@@ -43,6 +43,7 @@
             "rad.live.com",
             "rma-api.gravity.com",
             "sdt1.corp.inmobi.com",
+            "track.netshelter.net",
             "www.adshost2.com"
         ],
         "to_test": [
