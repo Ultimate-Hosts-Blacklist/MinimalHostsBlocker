@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 27 Aug 19:08:28 UTC 2018 
+# Date of generation: Wed 29 Aug 19:08:58 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a.ad-sys.com
@@ -74,6 +74,7 @@
 0.0.0.0 choices.truste.com
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 creative.cc-dt.com
+0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.plugrush.com
 0.0.0.0 dart-apac.l.doubleclick.net
@@ -131,7 +132,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 partners.swoop.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 r.w.inmobi.com
