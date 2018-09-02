@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1535831560": [
+        "1535918607": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "a.jumptap.com",
@@ -31,6 +31,7 @@
             "cache.blogads.com",
             "cdn.adbrau.com",
             "cdn.adnotch.com",
+            "cdn.adshexa.com",
             "cdn.castplatform.com",
             "cdn.cpsoft86.com",
             "cdn.directrev.com",
