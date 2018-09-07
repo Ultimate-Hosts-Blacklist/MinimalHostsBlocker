@@ -1,12 +1,11 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 05 Sep 19:09:14 UTC 2018 
+# Date of generation: Fri 07 Sep 19:09:43 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a.ad-sys.com
 0.0.0.0 a.adnium.com
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adroll.com
-0.0.0.0 a.kat.cr
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a02.korrelate.net
@@ -110,6 +109,7 @@
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.grt02.com
 0.0.0.0 js.moatads.com
@@ -143,6 +143,7 @@
 0.0.0.0 revmob-creatives.s3.amazonaws.com
 0.0.0.0 router.infolinks.com
 0.0.0.0 s-static.innovid.com
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.moatads.com
 0.0.0.0 s.zkcdn.net
 0.0.0.0 s1.2mdn.net
