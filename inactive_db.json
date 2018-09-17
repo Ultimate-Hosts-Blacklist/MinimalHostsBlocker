@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1537037213": [
+        "1537214965": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ad1.netshelter.net",
@@ -39,10 +39,10 @@
             "cdn.kixer.com",
             "cdn.merchenta.com",
             "cdn.static.zdtag.com",
+            "creative.wwwpromoter.com",
             "ctl1.buyt.in",
             "de.cisive.net",
             "gomotrak.com",
-            "i.w.inmobi.com",
             "i.w.sandbox.inmobi.com",
             "kona.kontera.com",
             "ma.inmobi.com",
@@ -56,6 +56,7 @@
             "rma-api.gravity.com",
             "sdt1.corp.inmobi.com",
             "track.netshelter.net",
+            "w.inmobi.com",
             "www.adshost2.com"
         ],
         "to_test": []

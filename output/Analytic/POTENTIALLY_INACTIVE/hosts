@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 15 Sep 18:09:50 UTC 2018 
+# Date of generation: Mon 17 Sep 20:09:22 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -72,7 +72,6 @@
 0.0.0.0 choices.truste.com
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 creative.cc-dt.com
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 d.adroll.com
 0.0.0.0 dart-apac.l.doubleclick.net
 0.0.0.0 directrev.blob.core.windows.net
@@ -106,6 +105,7 @@
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
+0.0.0.0 i.w.inmobi.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 jsc.adskeeper.co.uk
@@ -142,7 +142,6 @@
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 script.tailsweep.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 server.cpmstar.com
 0.0.0.0 s.moatads.com
@@ -173,7 +172,6 @@
 0.0.0.0 wd.sharethis.com
 0.0.0.0 web-jp.ad-v.jp
 0.0.0.0 widgets.outbrain.com
-0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com

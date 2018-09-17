@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 15 Sep 18:09:50 UTC 2018 
+# Date of generation: Mon 17 Sep 20:09:22 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 2912a.v.fwmrm.net
@@ -270,7 +270,6 @@
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creatives.doubleclick.net
-0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 crp-concursos.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctxt.tribalfusion.com
@@ -360,6 +359,7 @@
 0.0.0.0 i.tapit.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 iv.doubleclick.net
+0.0.0.0 i.w.inmobi.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 japan.inmobi.com
@@ -531,7 +531,6 @@
 0.0.0.0 web-jp.ad-v.jp
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.progrids.com
-0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
