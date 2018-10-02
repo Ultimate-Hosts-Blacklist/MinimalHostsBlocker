@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 26 Sep 20:09:05 UTC 2018 
+# Date of generation: Tue 02 Oct 22:10:24 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -93,7 +93,6 @@
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
-0.0.0.0 i.ad-v.jp
 0.0.0.0 igpiphone.gameloft.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.revmob.com
@@ -106,14 +105,12 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.grt02.com
-0.0.0.0 js.moatads.com
 0.0.0.0 jsn.dt07.net
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m2m1.inner-active.mobi
@@ -124,7 +121,6 @@
 0.0.0.0 modmyi.us.intellitxt.com
 0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 motifcdn.doubleclick.net
-0.0.0.0 my.hellobar.com
 0.0.0.0 ocsp.apple.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead.l.google.com
@@ -158,7 +154,6 @@
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.trafficjunky.net
-0.0.0.0 static.yieldmo.com
 0.0.0.0 static.zucks.net.zimg.jp
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 s.zkcdn.net
@@ -170,14 +165,12 @@
 0.0.0.0 trends.revcontent.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 wd.sharethis.com
-0.0.0.0 web-jp.ad-v.jp
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wv.inner-active.mobi
-0.0.0.0 ww400.smartadserver.fr
 0.0.0.0 www.burstnet.com
 0.0.0.0 www.clickterra.net
 0.0.0.0 www.terraclicks.com

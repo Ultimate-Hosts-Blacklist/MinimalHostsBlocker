@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1537993148": [
+        "1538518466": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ad1.netshelter.net",
@@ -55,8 +55,7 @@
             "rad.live.com",
             "rma-api.gravity.com",
             "sdt1.corp.inmobi.com",
-            "track.netshelter.net",
-            "www.adshost2.com"
+            "track.netshelter.net"
         ],
         "to_test": []
     }
