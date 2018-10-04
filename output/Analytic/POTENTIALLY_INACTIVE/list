@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 02 Oct 22:10:24 UTC 2018 
+# Date of generation: Thu 04 Oct 20:10:20 UTC 2018 
 
 1app.blob.core.windows.net
 a02.korrelate.net
@@ -66,6 +66,7 @@ cdn.cpmstar.com
 cdn.elasticad.net
 cdn.hgdat.com
 cdn.krxd.net
+cdn.mdotm.com
 cdn.media.innity.net
 cdn.viglink.com
 cf.cdn.inmobi.com
@@ -105,12 +106,14 @@ inneractive-assets.s3.amazonaws.com
 ir-na.amazon-adsystem.com
 i.t.webtracker.jp
 i.w.inmobi.com
+j.adlooxtracking.com
 js.adsonar.com
 jsc.adskeeper.co.uk
 jsc.dt07.net
 jsc.marketgid.com
 jsc.mgid.com
 js.grt02.com
+js.moatads.com
 jsn.dt07.net
 m1.2mdn.net
 m2m1.inner-active.mobi
@@ -121,6 +124,7 @@ media.trafficfactory.biz
 modmyi.us.intellitxt.com
 motifcdn2.doubleclick.net
 motifcdn.doubleclick.net
+my.hellobar.com
 ocsp.apple.com
 pagead2.googlesyndication.com
 pagead.l.google.com
@@ -154,6 +158,7 @@ staticd.cdn.adblade.com
 static.emsservice.de
 static.exoclick.com
 static.trafficjunky.net
+static.yieldmo.com
 static.zucks.net.zimg.jp
 strikeadcdn.s3.amazonaws.com
 s.zkcdn.net
