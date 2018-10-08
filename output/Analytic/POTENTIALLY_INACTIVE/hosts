@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 07 Oct 11:10:27 UTC 2018 
+# Date of generation: Mon 08 Oct 20:10:25 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -9,6 +9,7 @@
 0.0.0.0 a.ad-sys.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 ace.advertising.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad8.adfarm1.adition.com
 0.0.0.0 ad.ams.mcdstorage.com
@@ -38,7 +39,6 @@
 0.0.0.0 affiliate.2mdn.net
 0.0.0.0 agomwefq.com
 0.0.0.0 ah.yimg.jp
-0.0.0.0 a.ligatus.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.viglink.com
@@ -107,7 +107,6 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
@@ -116,6 +115,7 @@
 0.0.0.0 js.grt02.com
 0.0.0.0 js.moatads.com
 0.0.0.0 jsn.dt07.net
+0.0.0.0 leadback.advertising.com
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.2mdn.net
@@ -143,7 +143,9 @@
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 servedby2.advertising.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 s.moatads.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
@@ -165,7 +167,6 @@
 0.0.0.0 s.zkcdn.net
 0.0.0.0 tag.contextweb.com
 0.0.0.0 tags.bkrtx.com
-0.0.0.0 tcr.tynt.com
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trends.revcontent.com
