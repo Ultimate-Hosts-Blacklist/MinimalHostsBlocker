@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 08 Oct 20:10:25 UTC 2018 
+# Date of generation: Sat 13 Oct 20:10:23 UTC 2018 
 
 1app.blob.core.windows.net
 a02.korrelate.net
@@ -9,7 +9,6 @@ a.adroll.com
 a.ad-sys.com
 aan.amazon.com
 aax-us-east.amazon-adsystem.com
-ace.advertising.com
 ad.360yield.com
 ad8.adfarm1.adition.com
 ad.ams.mcdstorage.com
@@ -47,7 +46,6 @@ assets.applovin.com
 atdmt-a.akamaihd.net
 a.tribalfusion.com
 az708531.vo.msecnd.net
-bannerfarm.ace.advertising.com
 banners.proboards.com
 build-cdn.liftoff.io
 bullseye.backbeatmedia.com
@@ -67,7 +65,6 @@ cdn.cpmstar.com
 cdn.elasticad.net
 cdn.hgdat.com
 cdn.krxd.net
-cdn.mdotm.com
 cdn.media.innity.net
 cdn.viglink.com
 cf.cdn.inmobi.com
@@ -107,6 +104,7 @@ inneractive-assets.s3.amazonaws.com
 ir-na.amazon-adsystem.com
 i.t.webtracker.jp
 i.w.inmobi.com
+j.adlooxtracking.com
 js.adsonar.com
 jsc.adskeeper.co.uk
 jsc.dt07.net
@@ -115,17 +113,16 @@ jsc.mgid.com
 js.grt02.com
 js.moatads.com
 jsn.dt07.net
-leadback.advertising.com
 m1.2mdn.net
 m2m1.inner-active.mobi
 m.2mdn.net
 mads.advertising.com
-mads.at.atwola.com
 media.trafficfactory.biz
 modmyi.us.intellitxt.com
 motifcdn2.doubleclick.net
 motifcdn.doubleclick.net
 my.hellobar.com
+nyyed.com
 ocsp.apple.com
 pagead2.googlesyndication.com
 pagead.l.google.com
@@ -143,9 +140,7 @@ r.w.inmobi.com
 s1.2mdn.net
 s2.video.doubleclick.net
 s.amazon-adsystem.com
-secure.leadback.advertising.com
 securepubads.g.doubleclick.net
-servedby2.advertising.com
 server.cpmstar.com
 s.moatads.com
 spcdnsp.i-mobile.co.jp
@@ -167,9 +162,11 @@ strikeadcdn.s3.amazonaws.com
 s.zkcdn.net
 tag.contextweb.com
 tags.bkrtx.com
+tcr.tynt.com
 t.neodatagroup.com
 tpc.googlesyndication.com
 trends.revcontent.com
+uac.advertising.com
 video-stats.video.google.com
 wd.sharethis.com
 widgets.outbrain.com

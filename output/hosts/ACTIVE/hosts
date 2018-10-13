@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 08 Oct 20:10:25 UTC 2018 
+# Date of generation: Sat 13 Oct 20:10:23 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 2912a.v.fwmrm.net
@@ -15,7 +15,6 @@
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-west.amazon-adsystem.com
-0.0.0.0 ace.advertising.com
 0.0.0.0 activity.serving-sys.com
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad2.doubleclick.net
@@ -195,7 +194,6 @@
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 avnads.com
 0.0.0.0 az708531.vo.msecnd.net
-0.0.0.0 bannerfarm.ace.advertising.com
 0.0.0.0 banners.proboards.com
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
@@ -242,7 +240,6 @@
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.hgdat.com
 0.0.0.0 cdn.krxd.net
-0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.millennialmedia.com
@@ -375,14 +372,12 @@
 0.0.0.0 ko.snstatic.fi
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 lax1.ib.adnxs.com
-0.0.0.0 leadback.advertising.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.admob.com
 0.0.0.0 mads.advertising.com
-0.0.0.0 mads.at.atwola.com
 0.0.0.0 marketing.888.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 m.doubleclick.net
@@ -465,9 +460,7 @@
 0.0.0.0 script.tailsweep.com
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secure.adnxs.com
-0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 serve.adplxmd.com
-0.0.0.0 servedby2.advertising.com
 0.0.0.0 servedby.hrnorth.se
 0.0.0.0 serve.popads.net
 0.0.0.0 server.cpmstar.com
