@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 16 Oct 20:10:36 UTC 2018 
+# Date of generation: Thu 18 Oct 20:10:26 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -66,6 +66,7 @@
 0.0.0.0 cdn.hgdat.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.media.innity.net
+0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 choices.truste.com
@@ -104,6 +105,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.w.inmobi.com
+0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
