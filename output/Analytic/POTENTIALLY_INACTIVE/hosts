@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 20 Oct 20:10:08 UTC 2018 
+# Date of generation: Sun 21 Oct 20:10:50 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -105,7 +105,6 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 j.adlooxtracking.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
@@ -176,5 +175,6 @@
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wv.inner-active.mobi
+0.0.0.0 www.burstnet.com
 0.0.0.0 www.clickterra.net
 0.0.0.0 www.terraclicks.com
