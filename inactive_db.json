@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1540154993": [
+        "1540326734": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -46,6 +46,7 @@
             "de.cisive.net",
             "gomotrak.com",
             "i.w.sandbox.inmobi.com",
+            "js.adsonar.com",
             "kona.kontera.com",
             "leadback.advertising.com",
             "mads.at.atwola.com",
