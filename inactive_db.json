@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1540751678": [
+        "1540845403": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -20,6 +20,7 @@
             "adtracker.inmobi.com",
             "advm.svd.se",
             "adv.svd.se",
+            "a.goember.com",
             "a.jumptap.com",
             "api.gravity.com",
             "assets.kixer.com",
@@ -44,6 +45,7 @@
             "creative.wwwpromoter.com",
             "ctl1.buyt.in",
             "de.cisive.net",
+            "go.goroost.com",
             "gomotrak.com",
             "i.w.sandbox.inmobi.com",
             "js.adsonar.com",
