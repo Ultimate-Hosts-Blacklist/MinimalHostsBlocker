@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 29 Oct 20:10:41 UTC 2018 
+# Date of generation: Tue 30 Oct 20:10:23 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -58,6 +58,7 @@
 0.0.0.0 cdn2.reporo.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn.adnxs.com
+0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.bidvertiser.com
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.elasticad.net
