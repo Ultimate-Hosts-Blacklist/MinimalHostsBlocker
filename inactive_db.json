@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1541623187": [
+        "1541968229": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -46,6 +46,7 @@
             "de.cisive.net",
             "go.goroost.com",
             "gomotrak.com",
+            "i.ad-v.jp",
             "i.w.sandbox.inmobi.com",
             "js.adsonar.com",
             "kona.kontera.com",
@@ -66,7 +67,8 @@
             "sdt1.corp.inmobi.com",
             "secure.leadback.advertising.com",
             "servedby2.advertising.com",
-            "track.netshelter.net"
+            "track.netshelter.net",
+            "web-jp.ad-v.jp"
         ],
         "to_test": []
     }
