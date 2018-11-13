@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 11 Nov 20:11:26 UTC 2018 
+# Date of generation: Tue 13 Nov 20:11:14 UTC 2018 
 
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 a02.korrelate.net
@@ -37,6 +37,7 @@
 0.0.0.0 affiliate.2mdn.net
 0.0.0.0 agomwefq.com
 0.0.0.0 ah.yimg.jp
+0.0.0.0 a.ligatus.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.viglink.com
@@ -104,7 +105,6 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.marketgid.com
@@ -141,6 +141,7 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 spnet5.i-mobile.co.jp
 0.0.0.0 spsvc3.i-mobile.co.jp
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 s-static.innovid.com
