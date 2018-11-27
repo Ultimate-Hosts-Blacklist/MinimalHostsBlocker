@@ -233,7 +233,7 @@
         "ecpmrocks.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "etarg.ru": {
             "epoch": "1570924800",
