@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1544647652": [
+        "1544907516": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -43,6 +43,7 @@
             "creative.wwwpromoter.com",
             "ctl1.buyt.in",
             "de.cisive.net",
+            "delivery.switchadhub.com",
             "delivery.us.myswitchads.com",
             "go.goroost.com",
             "gomotrak.com",
@@ -61,6 +62,7 @@
             "origin.collective-media.net",
             "ox-d.wuv.servedbyopenx.com",
             "pds.directrev.com",
+            "pixel.redditmedia.com",
             "pub.mobiright.com",
             "rad.live.com",
             "rma-api.gravity.com",
