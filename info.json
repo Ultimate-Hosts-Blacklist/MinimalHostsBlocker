@@ -6,7 +6,7 @@
     "days_until_next_test": "1",
     "last_test": "1547155183",
     "list_name": "domains.list",
-    "name": "Domain Status Testing for Ultimate Hosts Blacklist",
+    "name": "MinimalHostsBlocker",
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
     "stable": "1"
 }

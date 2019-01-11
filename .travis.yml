@@ -1,10 +1,13 @@
 env:
   global:
-    - secure: cVlyPXg66StsiqndQHnGdzdTfzysUfulWHQ6LCFLo38h22PI/xQLoXOq5xNaCSt3pyAeA/oJSDKgsxu+OvuebOidFFXb/ttADHYk6cs/lTbktYcvjcSqK9nvsJ/cauONdaH9e9ZfaWpBZQxU1C6pSE/ASs8A11vOixheDfz/YMpzA27zqd/I1mpZ34VJaz0ExuG4uccNywwsBmTmGuadRzt6rZw5NbA7qL1h8QlaU/SM9vbVhfQMaOAdlw+glxkREDAs4760sYv1t0LxNsgdGvYsFpeHrFE8rRzgelZx4En2INHsPpWTZgPem9ZeZkeJoxOCZPifi9hCtanUg2QKN5wizmuZReMdcRRDdj7+DlOHZjmTf1GVqK4Z/vAyh21zAERDzsm/0CMqPCnWvgg8P9j+2u2nGHBQpkHzTwyiLUPm8lr13ntSswQlag8pgYIqwJidJPtYl1pXmMOo2ygDWvwGSD4X7O1W9FuJoW0MSVZJspnYkk22LN1LZFVtg6s9Ud5Jj3/JDH+tHSryMBauRlOxNiTE0AV5DgntCoKs0/vAT7Nw1QbH91sr7YuFYnRVteNh2619fRJrvJfc0a5JQ3NMIkxqaLz699VuQXARkF78RvIHnoS7L9M2wDvmw8+P3jJ6jamgPPrQUYt0aD+slW1NAa6hTI9VXN2oqVJHX4k=
+    - secure: lWSZus6Mcwh4OFXkZbie2cmsJIUKX8LkXubDkBKeaRQTkFIqW+uVmOAUqcnvbYOy9oHK3BPdAnEIoqOqnrEsbAJnSOCMGGEzcVtEv7BP3aS7H3yalqUsOOd+PlnaWxjYVI9zLgtTyEeh/82M/dED8szC1Zc0vXyiR+qWMtclbQ/IjZROH9vafrdCmLlJqeh1iYCgrf69VHpZD03vK6mQ9D1/J77UhGpRRS9wYy62/ufqyuOqY+x536mHyB1v5Vu8NsNAN8XB035YgkEFCMY38/PTQWTEMzJm8WdFABBH0Vz/y9dwLl9EacX25ZUo+wGRKpbPUJWWcklpfW6SsXM2FM46oifNJr6BkGY93O6Pul52Fhle7dkpjI0O6KbObuiSEhmw0OjhNN+XhCWHvTiVaVqEUhX9scHyR7UJgkd18VkKG4i5VN83AttMMIGfChV661WI6mS7kojE7gp6FyW5Dpiri0yMLFVD/hlyCxIE2D+9fKVeV6ytLTciKn6lO37rk7fBA0AxZcMsn52fHhoYyTYNwm2Dt3y3f/9/fmea4sop90fz/CwU5/yBfMgAzyN1ebQNdHQmUkGuph8iZDpTvw+tAVwr01WBXOocUP/EK3rf7Oj2dN8hriihQBQnEiS7zobT12BRxAYTLMawxPigdD+KnhOHtyEszP2RmHxqfhA=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/MinimalHostsBlocker
     - GIT_BRANCH: master
+    - WHITELISTING_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py
+    - UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
+    - ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
 
 dist: xenial
 sudo: required
@@ -27,10 +30,13 @@ addons:
 install:
   - pip3 install --upgrade pip
   - pip3 install requests
+  - wget "${WHITELISTING_LOCATION}" -o /dev/null -O whitelisting.py && chmod +x whitelisting.py
+  - if [[ ! -f .admin ]]; then wget "${UPDATE_LOCATION}" -o /dev/null -O update.py && chmod +x update.py; else echo "No need to download/update update.py."; fi
+  - if [[ ! -f .admin ]]; then wget "${ADMINISTATION_LOCATION}" -o /dev/null -O administration.py && chmod +x administration.py; else echo "No need to download/update administration.py."; fi
 
 script:
   - python3 ./update.py
 
 notifications:
-  on_success:   change
-  on_failure:   always
+  on_success: change
+  on_failure: always
