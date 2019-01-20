@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1547846254": [
+        "1548018973": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -42,6 +42,7 @@
             "cdn.static.zdtag.com",
             "creative.wwwpromoter.com",
             "ctl1.buyt.in",
+            "cv.apprupt.com",
             "de.cisive.net",
             "delivery.switchadhub.com",
             "delivery.us.myswitchads.com",
@@ -69,7 +70,8 @@
             "secure.leadback.advertising.com",
             "servedby2.advertising.com",
             "track.netshelter.net",
-            "web-jp.ad-v.jp"
+            "web-jp.ad-v.jp",
+            "www.adshost2.com"
         ],
         "to_test": []
     }
