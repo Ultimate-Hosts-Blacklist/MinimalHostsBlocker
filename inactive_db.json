@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1549229464": [
+        "1549402334": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "ace.advertising.com",
@@ -61,6 +61,8 @@
             "media.trafficfactory.biz",
             "motifcdn2.doubleclick.net",
             "motifcdn.doubleclick.net",
+            "ns1.backbeatmedia.com",
+            "ns2.backbeatmedia.com",
             "openad.tf1.fr",
             "origin.collective-media.net",
             "ox-d.wuv.servedbyopenx.com",
