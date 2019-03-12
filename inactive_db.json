@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1552254627": [
+        "1552428537": [
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
             "a.goember.com",
@@ -28,6 +28,7 @@
             "advm.svd.se",
             "adx.g.doubleclick.net",
             "api.gravity.com",
+            "as.ebz.io",
             "assets.kixer.com",
             "au-01.adtomafusion.com",
             "austria1.adverserve.net",
@@ -35,6 +36,7 @@
             "ba2b687.se",
             "bannerfarm.ace.advertising.com",
             "banners.unibet.com",
+            "bn-01.adtomafusion.com",
             "cache.blogads.com",
             "cdn.adbrau.com",
             "cdn.adnotch.com",
