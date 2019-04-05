@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/MinimalHostsBlocker/domains.list": {
-        "1554330283": [
+        "1554502692": [
             "2912a.v.fwmrm.net",
             "5be16.v.fwmrm.net",
             "9cf9.v.fwmrm.net",
@@ -102,6 +102,7 @@
             "www.mxpopad.com",
             "www.mydas.mobi",
             "www.overture.com",
+            "www.softonicads.com",
             "www.yieldmanager.com"
         ],
         "to_test": []
