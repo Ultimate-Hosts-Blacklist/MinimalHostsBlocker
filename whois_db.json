@@ -83,7 +83,7 @@
         "admob.it": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "admob.kr": {
             "epoch": "1561507200",
@@ -223,7 +223,7 @@
         "coinurl.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crp-concursos.com": {
             "epoch": "1581984000",
