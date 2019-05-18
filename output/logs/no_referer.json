@@ -1,34 +1,34 @@
 {
-    "1558045637.3320491": {
-        "domain": "admob.dk",
-        "extension": "dk"
-    },
-    "1558045637.3530862": {
-        "domain": "www.admob.dk",
-        "extension": "dk"
-    },
-    "1558045637.5677516": {
-        "domain": "admob.co.uk",
-        "extension": "uk"
-    },
-    "1558045637.5937543": {
-        "domain": "www.admob.co.uk",
-        "extension": "uk"
-    },
-    "1558045638.9377224": {
-        "domain": "mresell.macworld.co.uk",
-        "extension": "uk"
-    },
-    "1558045645.429777": {
+    "1558218334.600599": {
         "domain": "ad1.emediate.dk",
         "extension": "dk"
     },
-    "1558045648.8368526": {
-        "domain": "jsc.adskeeper.co.uk",
+    "1558218336.9745846": {
+        "domain": "www.admob.co.uk",
         "extension": "uk"
     },
-    "1558045651.7487428": {
+    "1558218336.9866493": {
+        "domain": "admob.co.uk",
+        "extension": "uk"
+    },
+    "1558218339.8083525": {
+        "domain": "mresell.macworld.co.uk",
+        "extension": "uk"
+    },
+    "1558218344.5269802": {
+        "domain": "admob.dk",
+        "extension": "dk"
+    },
+    "1558218344.5404036": {
+        "domain": "www.admob.dk",
+        "extension": "dk"
+    },
+    "1558218349.5392225": {
         "domain": "a.kat.cr",
         "extension": "cr"
+    },
+    "1558218354.1369357": {
+        "domain": "jsc.adskeeper.co.uk",
+        "extension": "uk"
     }
 }
