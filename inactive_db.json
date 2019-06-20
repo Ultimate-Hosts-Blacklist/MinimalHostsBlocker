@@ -162,6 +162,30 @@
             "www.gomotrak.com": "INACTIVE",
             "www.softonicads.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1561070906": {
+            "ad.omni.se": "INACTIVE",
+            "bn-01.adtomafusion.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "cdn.mdotm.com": "INACTIVE",
+            "cdn.merchenta.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE",
+            "fls.doubleclick.net": "INACTIVE",
+            "i.ad-v.jp": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "max.crwd.io": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "openad.tf1.fr": "INACTIVE",
+            "secure.leadback.advertising.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.overture.com": "INACTIVE"
         }
     }
 }
