@@ -107,7 +107,6 @@
             "rad.live.com": "",
             "rma-api.gravity.com": "",
             "royale-ssl.spongecell.com": "",
-            "s.send.microad.jp": "",
             "s2.video.doubleclick.net": "",
             "sdt1.corp.inmobi.com": "",
             "secure.leadback.advertising.com": "",
@@ -218,6 +217,28 @@
             "www.mxpopad.com": "INACTIVE",
             "www.softonicads.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1561415250": {
+            "1app.blob.core.windows.net": "INACTIVE",
+            "ad.taptica.com": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "ba2b687.se": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "rad.live.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "s2.video.doubleclick.net": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "servedby2.advertising.com": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }
