@@ -45,8 +45,8 @@
         "state": "future"
     },
     "admob.co.kr": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "admob.co.uk": {
@@ -85,8 +85,8 @@
         "state": "future"
     },
     "admob.kr": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "admob.mobi": {
@@ -95,8 +95,8 @@
         "state": "future"
     },
     "admob.sg": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "admob.tw": {

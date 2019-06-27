@@ -65,7 +65,6 @@
             "cache.blogads.com": "",
             "cdn.adnotch.com": "",
             "cdn.castplatform.com": "",
-            "cdn.cpsoft86.com": "",
             "cdn.directrev.com": "",
             "cdn.kixer.com": "",
             "cdn.mdotm.com": "",
@@ -255,6 +254,31 @@
             "s2.video.doubleclick.net": "INACTIVE",
             "www.agomwefq.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE"
+        },
+        "1561674642": {
+            "a.jumptap.com": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "assets.kixer.com": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "cdn.millennialmedia.com": "INACTIVE",
+            "cdn.static.zdtag.com": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "fls.doubleclick.net": "INACTIVE",
+            "gomotrak.com": "INACTIVE",
+            "kona.kontera.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "mm.chitika.net": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "rad.live.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.softonicads.com": "INACTIVE"
         }
     }
 }
