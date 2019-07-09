@@ -42,7 +42,6 @@
             "ad4.netshelter.net": "",
             "adb.nikkei.co.jp": "",
             "adclick.g.doubleclick.net": "",
-            "ads.mocean.mobi": "",
             "ads.qadservice.com": "",
             "ads.saymedia.com": "",
             "adservices.picadmedia.com": "",
@@ -369,7 +368,6 @@
         "1562539447": {
             "a.visualrevenue.com": "INACTIVE",
             "ad2.netshelter.net": "INACTIVE",
-            "ads.mocean.mobi": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ctl1.buyt.in": "INACTIVE",
             "fls.uk.doubleclick.net": "INACTIVE",
@@ -386,6 +384,30 @@
             "www.herezera.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE",
             "www.softonicads.com": "INACTIVE"
+        },
+        "1562712382": {
+            "ad.kixer.com": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "ads.mocean.mobi": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "dart-apac.l.doubleclick.net": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "mads.at.atwola.com": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "motifcdn.doubleclick.net": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
