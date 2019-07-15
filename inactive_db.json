@@ -10,7 +10,6 @@
             "au-01.adtomafusion.com": "",
             "bannerfarm.ace.advertising.com": "",
             "cdn.directrev.com": "",
-            "creative.wwwpromoter.com": "",
             "de.cisive.net": "",
             "feedads.g.doubleclick.net": "",
             "i.tapit.com": "",
@@ -68,7 +67,6 @@
             "cdn.merchenta.com": "",
             "cdn.millennialmedia.com": "",
             "cdn.static.zdtag.com": "",
-            "creative.wwwpromoter.com": "",
             "ctl1.buyt.in": "",
             "dart-apac.l.doubleclick.net": "",
             "de.cisive.net": "",
@@ -155,7 +153,6 @@
             "broadcasthost": "INVALID",
             "cdn.mdotm.com": "INACTIVE",
             "cdn.merchenta.com": "INACTIVE",
-            "creative.wwwpromoter.com": "INACTIVE",
             "feedads.g.doubleclick.net": "INACTIVE",
             "fls.doubleclick.net": "INACTIVE",
             "i.ad-v.jp": "INACTIVE",
@@ -230,7 +227,6 @@
             "ad3.netshelter.net": "INACTIVE",
             "adv.svd.se": "INACTIVE",
             "assets.kixer.com": "INACTIVE",
-            "creative.wwwpromoter.com": "INACTIVE",
             "fls.uk.doubleclick.net": "INACTIVE",
             "i.tapit.com": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
@@ -452,6 +448,26 @@
             "www.appfly.mobi": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
             "www.softonicads.com": "INACTIVE"
+        },
+        "1563230877": {
+            "adservices.picadmedia.com": "INACTIVE",
+            "adv.svd.se": "INACTIVE",
+            "api.gravity.com": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "bannerfarm.ace.advertising.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE",
+            "fls.doubleclick.net": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "max.crwd.io": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.clkmon.com": "INACTIVE"
         }
     }
 }
