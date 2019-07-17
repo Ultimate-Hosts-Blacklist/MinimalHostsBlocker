@@ -24,7 +24,6 @@
             "www.yieldmanager.com": ""
         },
         "1560812022": {
-            "2912a.v.fwmrm.net": "",
             "5be16.v.fwmrm.net": "",
             "9cf9.v.fwmrm.net": "",
             "a.jumptap.com": "",
@@ -468,6 +467,22 @@
             "www.appfly.mobi": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
             "www.clkmon.com": "INACTIVE"
+        },
+        "1563403871": {
+            "2912a.v.fwmrm.net": "INACTIVE",
+            "a.visualrevenue.com": "INACTIVE",
+            "assets.kixer.com": "INACTIVE",
+            "austria1.adverserve.net": "INACTIVE",
+            "bannerfarm.ace.advertising.com": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.static.zdtag.com": "INACTIVE",
+            "fls.doubleclick.net": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "secure.leadback.advertising.com": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE"
         }
     }
 }
