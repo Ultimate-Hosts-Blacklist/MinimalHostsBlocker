@@ -420,7 +420,6 @@
         },
         "1563058001": {
             "a.visualrevenue.com": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.cpsoft86.com": "INACTIVE",
             "cdn2.cpmstar.com": "INACTIVE",
             "ctl1.buyt.in": "INACTIVE",
@@ -467,7 +466,6 @@
             "a.visualrevenue.com": "INACTIVE",
             "assets.kixer.com": "INACTIVE",
             "austria1.adverserve.net": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.static.zdtag.com": "INACTIVE",
             "fls.doubleclick.net": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
@@ -480,7 +478,6 @@
         "1563576268": {
             "1app.blob.core.windows.net": "INACTIVE",
             "bannerfarm.ace.advertising.com": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.mdotm.com": "INACTIVE",
             "js.adsonar.com": "INACTIVE",
             "ns2.backbeatmedia.com": "INACTIVE",
@@ -494,6 +491,30 @@
             "www.gomotrak.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE",
             "www.softonicads.com": "INACTIVE"
+        },
+        "1563749457": {
+            "adservices.picadmedia.com": "INACTIVE",
+            "austria1.adverserve.net": "INACTIVE",
+            "b.grvcdn.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "cdn.mdotm.com": "INACTIVE",
+            "de.cisive.net": "INACTIVE",
+            "directrev.blob.core.windows.net": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "kona.kontera.com": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "motifcdn2.doubleclick.net": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
