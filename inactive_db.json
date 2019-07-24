@@ -81,7 +81,6 @@
             "kona.kontera.com": "",
             "ma.inmobi.com": "",
             "mads.at.atwola.com": "",
-            "max.crwd.io": "",
             "media.trafficfactory.biz": "",
             "mm.chitika.net": "",
             "motifcdn.doubleclick.net": "",
@@ -155,7 +154,6 @@
             "i.ad-v.jp": "INACTIVE",
             "i.tapit.com": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
-            "max.crwd.io": "INACTIVE",
             "media.trafficfactory.biz": "INACTIVE",
             "ns2.backbeatmedia.com": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
@@ -207,7 +205,7 @@
             "ma.inmobi.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "pds.directrev.com": "INACTIVE",
-            "rad.live.com": "INACTIVE",
+        : "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
             "s2.video.doubleclick.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
@@ -236,7 +234,6 @@
         "1561674642": {
             "a.jumptap.com": "INACTIVE",
             "ad1.netshelter.net": "INACTIVE",
-            "adtracker.inmobi.com": "INACTIVE",
             "assets.kixer.com": "INACTIVE",
             "cdn.cpsoft86.com": "INACTIVE",
             "cdn.millennialmedia.com": "INACTIVE",
@@ -538,6 +535,34 @@
             "www.mxpopad.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE",
             "www.overture.com": "INACTIVE"
+        },
+        "1564009331": {
+            "a.jumptap.com": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "b.grvcdn.com": "INACTIVE",
+            "ba2b687.se": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "gomotrak.com": "INACTIVE",
+            "mm.chitika.net": "INACTIVE",
+            "motifcdn.doubleclick.net": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "s2.video.doubleclick.net": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE",
+            "www.overture.com": "INACTIVE"
+        }
+    }
+}
         }
     }
 }
