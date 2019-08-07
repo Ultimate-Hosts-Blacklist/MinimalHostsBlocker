@@ -94,7 +94,6 @@
             "mm.chitika.net": "INACTIVE",
             "motifcdn2.doubleclick.net": "INACTIVE",
             "s2.video.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
@@ -162,6 +161,33 @@
             "www.agomwefq.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1565219569": {
+            "9cf9.v.fwmrm.net": "INACTIVE",
+            "a.jumptap.com": "INACTIVE",
+            "a.visualrevenue.com": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "api.gravity.com": "INACTIVE",
+            "bn-01.adtomafusion.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "cdn.millennialmedia.com": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "gomotrak.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "motifcdn.doubleclick.net": "INACTIVE",
+            "openad.tf1.fr": "INACTIVE",
+            "rad.live.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "servedby2.advertising.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }
