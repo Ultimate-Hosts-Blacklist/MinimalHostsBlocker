@@ -188,6 +188,33 @@
             "www.appfly.mobi": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
+        },
+        "1565391908": {
+            "ad.omni.se": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "ad4.netshelter.net": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "adv.svd.se": "INACTIVE",
+            "api.gravity.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "cdn.static.zdtag.com": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "dart-apac.l.doubleclick.net": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "fls.uk.doubleclick.net": "INACTIVE",
+            "kona.kontera.com": "INACTIVE",
+            "pub.mobiright.com": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.herezera.com": "INACTIVE"
         }
     }
 }
