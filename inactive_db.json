@@ -142,7 +142,6 @@
         },
         "1565045408": {
             "ad.directrev.com": "INACTIVE",
-            "ads.mocean.mobi": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
             "adv.svd.se": "INACTIVE",
             "cache.blogads.com": "INACTIVE",
@@ -220,7 +219,6 @@
             "5be16.v.fwmrm.net": "INACTIVE",
             "ad1.netshelter.net": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
-            "ads.mocean.mobi": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
             "advm.svd.se": "INACTIVE",
@@ -242,6 +240,34 @@
             "www.clkmon.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
+        },
+        "1565737891": {
+            "a.jumptap.com": "INACTIVE",
+            "ace.advertising.com": "INACTIVE",
+            "ad-ch.jp": "INACTIVE",
+            "ad.directrev.com": "INACTIVE",
+            "ad.omni.se": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "adb.nikkei.co.jp": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "ads.mocean.mobi": "INACTIVE",
+            "adx.g.doubleclick.net": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "engine.4chan-ads.org": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "rad.live.com": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE",
+            "www.clkmon.com": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
