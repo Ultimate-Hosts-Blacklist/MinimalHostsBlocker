@@ -97,7 +97,6 @@
             "secure.leadback.advertising.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
-            "www.appfly.mobi": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.gomotrak.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
@@ -129,7 +128,6 @@
             "securepubads.g.doubleclick.net": "INACTIVE",
             "web-jp.ad-v.jp": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
-            "www.appfly.mobi": "INACTIVE",
             "www.mydas.mobi": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
         },
@@ -184,7 +182,6 @@
             "track.netshelter.net": "INACTIVE",
             "www.admomi.com": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
-            "www.appfly.mobi": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
         },
@@ -292,6 +289,26 @@
             "www.clkmon.com": "INACTIVE",
             "www.softonicads.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1566083646": {
+            "ace.advertising.com": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "assets.kixer.com": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "directrev.blob.core.windows.net": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "pub.mobiright.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
         }
     }
 }
