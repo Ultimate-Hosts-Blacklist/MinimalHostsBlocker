@@ -33,7 +33,6 @@
             "pixel.redditmedia.com": "INACTIVE",
             "pub.mobiright.com": "INACTIVE",
             "rma-api.gravity.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.agomwefq.com": "INACTIVE",
@@ -93,7 +92,6 @@
             "mads.at.atwola.com": "INACTIVE",
             "mm.chitika.net": "INACTIVE",
             "motifcdn2.doubleclick.net": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
@@ -124,7 +122,6 @@
             "openad.tf1.fr": "INACTIVE",
             "ox-d.wuv.servedbyopenx.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "web-jp.ad-v.jp": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
@@ -227,7 +224,6 @@
             "origin.collective-media.net": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "pub.mobiright.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE",
@@ -326,6 +322,25 @@
             "www.clkmon.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1566428357": {
+            "a.visualrevenue.com": "INACTIVE",
+            "ad-ch.jp": "INACTIVE",
+            "ad.taptica.com": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "adx.g.doubleclick.net": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "mm.chitika.net": "INACTIVE",
+            "s2.video.doubleclick.net": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "servedby2.advertising.com": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }
