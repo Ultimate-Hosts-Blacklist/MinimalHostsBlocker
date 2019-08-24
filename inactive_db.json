@@ -13,7 +13,6 @@
             "adservices.picadmedia.com": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "cdn.merchenta.com": "INACTIVE",
             "cdn.millennialmedia.com": "INACTIVE",
@@ -76,7 +75,6 @@
             "bannerfarm.ace.advertising.com": "INACTIVE",
             "broadcasthost": "INVALID",
             "cache.blogads.com": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "ctl1.buyt.in": "INACTIVE",
@@ -129,7 +127,6 @@
             "www.yieldmanager.com": "INACTIVE"
         },
         "1564872838": {
-            "cdn.castplatform.com": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.clkmon.com": "INACTIVE",
@@ -191,7 +188,6 @@
             "adv.svd.se": "INACTIVE",
             "api.gravity.com": "INACTIVE",
             "broadcasthost": "INVALID",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "cdn.static.zdtag.com": "INACTIVE",
             "cdn2.cpmstar.com": "INACTIVE",
@@ -328,7 +324,6 @@
             "ad.taptica.com": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
-            "cdn.castplatform.com": "INACTIVE",
             "cdn.cpsoft86.com": "INACTIVE",
             "feedads.g.doubleclick.net": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
@@ -370,6 +365,28 @@
             "www.gomotrak.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
+        },
+        "1566688785": {
+            "ad3.netshelter.net": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "adx.g.doubleclick.net": "INACTIVE",
+            "ba2b687.se": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.merchenta.com": "INACTIVE",
+            "cdn.millennialmedia.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "dart-apac.l.doubleclick.net": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "gomotrak.com": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "s2.video.doubleclick.net": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
