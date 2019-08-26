@@ -360,9 +360,9 @@
         "state": "future"
     },
     "projectwonderful.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "q1mediahydraplatform.com": {
         "epoch": 1592611200,
