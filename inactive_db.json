@@ -427,6 +427,29 @@
             "mm.chitika.net": "INACTIVE",
             "motifcdn.doubleclick.net": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1567206183": {
+            "ad.kixer.com": "INACTIVE",
+            "ad.taptica.com": "INACTIVE",
+            "advm.svd.se": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.mdotm.com": "INACTIVE",
+            "cdn.merchenta.com": "INACTIVE",
+            "cdn.static.zdtag.com": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "engine.4chan-ads.org": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "media.trafficfactory.biz": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "pub.mobiright.com": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
