@@ -244,7 +244,6 @@
             "pixel.redditmedia.com": "INACTIVE",
             "rad.live.com": "INACTIVE",
             "rma-api.gravity.com": "INACTIVE",
-            "royale-ssl.spongecell.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE",
             "www.clkmon.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
@@ -450,6 +449,29 @@
             "www.gomotrak.com": "INACTIVE",
             "www.softonicads.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
+        },
+        "1567379857": {
+            "a.visualrevenue.com": "INACTIVE",
+            "ace.advertising.com": "INACTIVE",
+            "ad.directrev.com": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "bannerfarm.ace.advertising.com": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "de.cisive.net": "INACTIVE",
+            "fls.uk.doubleclick.net": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "openad.tf1.fr": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "servedby2.advertising.com": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE"
         }
     }
 }
