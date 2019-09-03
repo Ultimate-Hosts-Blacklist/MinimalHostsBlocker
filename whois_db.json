@@ -410,9 +410,9 @@
         "state": "future"
     },
     "terrapops.com": {
-        "epoch": "1567468800",
+        "epoch": 1567468800,
         "expiration_date": "03-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "tqlkg.com": {
         "epoch": "1586131200",

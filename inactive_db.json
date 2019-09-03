@@ -464,7 +464,6 @@
             "openad.tf1.fr": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE",
-            "royale-ssl.spongecell.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
@@ -472,6 +471,30 @@
             "www.ba2b687.se": "INACTIVE",
             "www.gomotrak.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE"
+        },
+        "1567552788": {
+            "ad-ch.jp": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }
