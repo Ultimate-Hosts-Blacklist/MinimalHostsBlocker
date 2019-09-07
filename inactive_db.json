@@ -463,8 +463,7 @@
             "servedby2.advertising.com": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
-            "www.gomotrak.com": "INACTIVE",
-            "www.mxpopad.com": "INACTIVE"
+            "www.gomotrak.com": "INACTIVE"
         },
         "1567552788": {
             "ad-ch.jp": "INACTIVE",
@@ -515,6 +514,23 @@
             "web-jp.ad-v.jp": "INACTIVE",
             "www.appfly.mobi": "INACTIVE",
             "www.clkmon.com": "INACTIVE"
+        },
+        "1567898889": {
+            "ad3.netshelter.net": "INACTIVE",
+            "ad4.netshelter.net": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "assets.kixer.com": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }
