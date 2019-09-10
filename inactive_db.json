@@ -29,7 +29,6 @@
             "openad.tf1.fr": "INACTIVE",
             "ox-d.wuv.servedbyopenx.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
             "pub.mobiright.com": "INACTIVE",
             "rma-api.gravity.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
@@ -238,7 +237,6 @@
             "engine.4chan-ads.org": "INACTIVE",
             "go.goroost.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
             "rad.live.com": "INACTIVE",
             "rma-api.gravity.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE",
@@ -281,7 +279,6 @@
             "i.w.sandbox.inmobi.com": "INACTIVE",
             "js.adsonar.com": "INACTIVE",
             "ma.inmobi.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
             "pub.mobiright.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
@@ -400,9 +397,7 @@
             "www.appfly.mobi": "INACTIVE",
             "www.ebdr3.com": "INACTIVE"
         },
-        "1567034030": {
-            "pixel.redditmedia.com": "INACTIVE"
-        },
+        "1567034030": {},
         "1567034031": {
             "dart-apac.l.doubleclick.net": "INACTIVE"
         },
@@ -457,7 +452,6 @@
             "go.goroost.com": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
@@ -531,6 +525,28 @@
             "www.herezera.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
+        },
+        "1568074449": {
+            "fls.doubleclick.net": "INACTIVE"
+        },
+        "1568074450": {
+            "ad.kixer.com": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "banners.unibet.com": "INACTIVE",
+            "cdn.adnotch.com": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "kona.kontera.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "max.crwd.io": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
         }
     }
 }
