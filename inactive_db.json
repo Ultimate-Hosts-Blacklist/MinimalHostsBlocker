@@ -64,7 +64,6 @@
             "www.herezera.com": "INACTIVE"
         },
         "1564527459": {
-            "ad-ch.jp": "INACTIVE",
             "ad.directrev.com": "INACTIVE",
             "ad2.netshelter.net": "INACTIVE",
             "as.ebz.io": "INACTIVE",
@@ -223,7 +222,6 @@
         "1565737891": {
             "a.jumptap.com": "INACTIVE",
             "ace.advertising.com": "INACTIVE",
-            "ad-ch.jp": "INACTIVE",
             "ad.directrev.com": "INACTIVE",
             "ad.omni.se": "INACTIVE",
             "ad1.netshelter.net": "INACTIVE",
@@ -249,7 +247,6 @@
             "1app.blob.core.windows.net": "INACTIVE",
             "2912a.v.fwmrm.net": "INACTIVE",
             "ace.advertising.com": "INACTIVE",
-            "ad-ch.jp": "INACTIVE",
             "adb.nikkei.co.jp": "INACTIVE",
             "ads.mocean.mobi": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
@@ -308,7 +305,6 @@
         },
         "1566428357": {
             "a.visualrevenue.com": "INACTIVE",
-            "ad-ch.jp": "INACTIVE",
             "ad.taptica.com": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
@@ -460,7 +456,6 @@
             "www.gomotrak.com": "INACTIVE"
         },
         "1567552788": {
-            "ad-ch.jp": "INACTIVE",
             "ad1.netshelter.net": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
@@ -485,7 +480,6 @@
         },
         "1567725686": {
             "a.jumptap.com": "INACTIVE",
-            "ad-ch.jp": "INACTIVE",
             "ad.directrev.com": "INACTIVE",
             "ad3.netshelter.net": "INACTIVE",
             "api.gravity.com": "INACTIVE",
@@ -547,6 +541,28 @@
             "sdt1.corp.inmobi.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE",
             "www.gomotrak.com": "INACTIVE"
+        },
+        "1568244482": {
+            "ace.advertising.com": "INACTIVE",
+            "ad-ch.jp": "INACTIVE",
+            "ad.kixer.com": "INACTIVE",
+            "ad4.netshelter.net": "INACTIVE",
+            "adservices.picadmedia.com": "INACTIVE",
+            "banners.unibet.com": "INACTIVE",
+            "cache.blogads.com": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "servedby2.advertising.com": "INACTIVE",
+            "web-jp.ad-v.jp": "INACTIVE",
+            "www.admomi.com": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE",
+            "www.clkmon.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.yieldmanager.com": "INACTIVE"
         }
     }
 }
