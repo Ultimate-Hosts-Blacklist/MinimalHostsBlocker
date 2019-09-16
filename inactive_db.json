@@ -117,7 +117,6 @@
             "ox-d.wuv.servedbyopenx.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
-            "web-jp.ad-v.jp": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
             "www.mydas.mobi": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
@@ -498,7 +497,6 @@
             "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
-            "web-jp.ad-v.jp": "INACTIVE",
             "www.appfly.mobi": "INACTIVE",
             "www.clkmon.com": "INACTIVE"
         },
@@ -575,7 +573,6 @@
             "sdt1.corp.inmobi.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
-            "web-jp.ad-v.jp": "INACTIVE",
             "www.admomi.com": "INACTIVE",
             "www.appfly.mobi": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
@@ -601,6 +598,28 @@
             "www.admomi.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.gomotrak.com": "INACTIVE"
+        },
+        "1568592730": {
+            "ad3.netshelter.net": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "advm.svd.se": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "de.cisive.net": "INACTIVE",
+            "engine.4chan-ads.org": "INACTIVE",
+            "ns2.backbeatmedia.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "secure.leadback.advertising.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "web-jp.ad-v.jp": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE",
+            "www.adrotator.se": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.overture.com": "INACTIVE"
         }
     }
 }
