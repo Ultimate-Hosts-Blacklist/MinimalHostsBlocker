@@ -485,7 +485,6 @@
             "dart-apac.l.doubleclick.net": "INACTIVE",
             "engine.4chan-ads.org": "INACTIVE",
             "fls.uk.doubleclick.net": "INACTIVE",
-            "i.ad-v.jp": "INACTIVE",
             "leadback.advertising.com": "INACTIVE",
             "ma.inmobi.com": "INACTIVE",
             "media.trafficfactory.biz": "INACTIVE",
@@ -620,6 +619,22 @@
             "www.appfly.mobi": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.overture.com": "INACTIVE"
+        },
+        "1568762540": {
+            "ace.advertising.com": "INACTIVE",
+            "ad2.netshelter.net": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "advm.svd.se": "INACTIVE",
+            "b.grvcdn.com": "INACTIVE",
+            "cdn.static.zdtag.com": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "i.ad-v.jp": "INACTIVE",
+            "mm.chitika.net": "INACTIVE",
+            "motifcdn.doubleclick.net": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
         }
     }
 }

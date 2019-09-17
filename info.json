@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Mon Sep 16 00:12:33 2019",
-    "end_epoch": 1568592753.511857,
+    "end_datetime": "Tue Sep 17 23:22:50 2019",
+    "end_epoch": 1568762570.036067,
     "name": "MinimalHostsBlocker",
     "previous_stats": {
         "builds": 1,
@@ -16,6 +16,6 @@
         "whitelisted.list": 627
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "Mon Sep 16 00:09:11 2019",
-    "start_epoch": 1568592551.933384
+    "start_datetime": "Tue Sep 17 23:19:27 2019",
+    "start_epoch": 1568762367.262645
 }
