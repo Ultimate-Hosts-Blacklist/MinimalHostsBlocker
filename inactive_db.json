@@ -85,7 +85,6 @@
             "ma.inmobi.com": "INACTIVE",
             "mads.at.atwola.com": "INACTIVE",
             "mm.chitika.net": "INACTIVE",
-            "motifcdn2.doubleclick.net": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
@@ -635,6 +634,30 @@
             "www.appfly.mobi": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
+        },
+        "1568935810": {
+            "a.visualrevenue.com": "INACTIVE",
+            "ad.taptica.com": "INACTIVE",
+            "ads.saymedia.com": "INACTIVE",
+            "assets.kixer.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE",
+            "directrev.blob.core.windows.net": "INACTIVE",
+            "e.admob.com": "INACTIVE",
+            "gomotrak.com": "INACTIVE",
+            "i.ad-v.jp": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE",
+            "motifcdn.doubleclick.net": "INACTIVE",
+            "motifcdn2.doubleclick.net": "INACTIVE",
+            "origin.collective-media.net": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "www.overture.com": "INACTIVE"
         }
     }
 }
