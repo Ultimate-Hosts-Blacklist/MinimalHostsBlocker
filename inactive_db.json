@@ -46,7 +46,6 @@
             "ads.saymedia.com": "INACTIVE",
             "adservices.picadmedia.com": "INACTIVE",
             "adv.aftonbladet.se": "INACTIVE",
-            "austria1.adverserve.net": "INACTIVE",
             "banners.unibet.com": "INACTIVE",
             "broadcasthost": "INVALID",
             "creative.wwwpromoter.com": "INACTIVE",
@@ -658,6 +657,27 @@
             "securepubads.g.doubleclick.net": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.overture.com": "INACTIVE"
+        },
+        "1569704187": {
+            "9cf9.v.fwmrm.net": "INACTIVE",
+            "ad.kixer.com": "INACTIVE",
+            "ad1.netshelter.net": "INACTIVE",
+            "austria1.adverserve.net": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "cdn.mdotm.com": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "ma.inmobi.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "s.ad131m.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE",
+            "www.overture.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE"
         }
     }
 }
