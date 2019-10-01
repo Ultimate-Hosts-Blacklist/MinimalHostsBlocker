@@ -284,7 +284,6 @@
             "motifcdn.doubleclick.net": "INACTIVE",
             "ns2.backbeatmedia.com": "INACTIVE",
             "pds.directrev.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
@@ -329,7 +328,6 @@
             "mm.chitika.net": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
             "s2.video.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
@@ -374,7 +372,6 @@
             "kona.kontera.com": "INACTIVE",
             "ns1.backbeatmedia.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
             "www.agomwefq.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE"
@@ -395,8 +392,7 @@
             "ma.inmobi.com": "INACTIVE",
             "media.trafficfactory.biz": "INACTIVE",
             "mm.chitika.net": "INACTIVE",
-            "motifcdn.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE"
+            "motifcdn.doubleclick.net": "INACTIVE"
         },
         "1567206183": {
             "ad.kixer.com": "INACTIVE",
@@ -435,7 +431,6 @@
             "openad.tf1.fr": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
             "www.ba2b687.se": "INACTIVE",
@@ -456,7 +451,6 @@
             "rma-api.gravity.com": "INACTIVE",
             "royale-ssl.spongecell.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
             "www.adrotator.se": "INACTIVE",
             "www.agomwefq.com": "INACTIVE",
@@ -480,7 +474,6 @@
             "pds.directrev.com": "INACTIVE",
             "pub.mobiright.com": "INACTIVE",
             "s2.video.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.clkmon.com": "INACTIVE"
@@ -495,7 +488,6 @@
             "ctl1.buyt.in": "INACTIVE",
             "e.admob.com": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE",
             "www.gomotrak.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
@@ -520,7 +512,6 @@
             "prm.europacash.com": "INACTIVE",
             "rma-api.gravity.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE",
             "www.gomotrak.com": "INACTIVE"
         },
@@ -555,7 +546,6 @@
             "partnerad.l.doubleclick.net": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE",
             "royale-ssl.spongecell.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
@@ -594,7 +584,6 @@
             "ns2.backbeatmedia.com": "INACTIVE",
             "partnerad.l.doubleclick.net": "INACTIVE",
             "prm.europacash.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "secure.leadback.advertising.com": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "web-jp.ad-v.jp": "INACTIVE",
@@ -614,7 +603,6 @@
             "i.ad-v.jp": "INACTIVE",
             "mm.chitika.net": "INACTIVE",
             "motifcdn.doubleclick.net": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
         },
@@ -637,7 +625,6 @@
             "motifcdn2.doubleclick.net": "INACTIVE",
             "origin.collective-media.net": "INACTIVE",
             "royale-ssl.spongecell.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "track.netshelter.net": "INACTIVE",
             "www.overture.com": "INACTIVE"
@@ -663,7 +650,6 @@
             "pixel.redditmedia.com": "INACTIVE",
             "s.ad131m.com": "INACTIVE",
             "s.send.microad.jp": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE",
             "www.admomi.com": "INACTIVE",
@@ -689,6 +675,24 @@
             "www.ad-ch.jp": "INACTIVE",
             "www.appfly.mobi": "INACTIVE",
             "www.ebdr3.com": "INACTIVE"
+        },
+        "1569972792": {
+            "ad.directrev.com": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "adx.g.doubleclick.net": "INACTIVE",
+            "b.grvcdn.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "cdn.castplatform.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "engine.4chan-ads.org": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "origin.collective-media.net": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.herezera.com": "INACTIVE",
+            "www.mxpopad.com": "INACTIVE"
         }
     }
 }
