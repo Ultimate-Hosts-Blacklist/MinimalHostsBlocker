@@ -690,11 +690,19 @@
             "ns1.backbeatmedia.com": "INACTIVE",
             "origin.collective-media.net": "INACTIVE",
             "royale-ssl.spongecell.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE"
         },
         "1570165309": {
+            "a.visualrevenue.com": "INACTIVE",
+            "cdn.castplatform.com": "INACTIVE",
+            "directrev.blob.core.windows.net": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "s.send.microad.jp": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "track.netshelter.net": "INACTIVE",
+            "web-jp.ad-v.jp": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
             "www.overture.com": "INACTIVE"
         }
     }
