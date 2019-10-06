@@ -222,7 +222,6 @@
             "ads.mocean.mobi": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
             "as.ebz.io": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "engine.4chan-ads.org": "INACTIVE",
             "go.goroost.com": "INACTIVE",
@@ -276,7 +275,6 @@
         "1566256229": {
             "ad1.netshelter.net": "INACTIVE",
             "broadcasthost": "INVALID",
-            "cdn.cpsoft86.com": "INACTIVE",
             "cdn.static.zdtag.com": "INACTIVE",
             "fls.doubleclick.net": "INACTIVE",
             "js.adsonar.com": "INACTIVE",
@@ -296,7 +294,6 @@
             "ad.taptica.com": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "feedads.g.doubleclick.net": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
             "js.adsonar.com": "INACTIVE",
@@ -363,7 +360,6 @@
             "adservices.picadmedia.com": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
             "banners.unibet.com": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "cdn.mdotm.com": "INACTIVE",
             "cdn.merchenta.com": "INACTIVE",
@@ -423,7 +419,6 @@
             "ad.directrev.com": "INACTIVE",
             "as.ebz.io": "INACTIVE",
             "bannerfarm.ace.advertising.com": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "de.cisive.net": "INACTIVE",
             "fls.uk.doubleclick.net": "INACTIVE",
@@ -484,7 +479,6 @@
             "ads.saymedia.com": "INACTIVE",
             "assets.kixer.com": "INACTIVE",
             "cdn.castplatform.com": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "ctl1.buyt.in": "INACTIVE",
             "e.admob.com": "INACTIVE",
             "i.w.sandbox.inmobi.com": "INACTIVE",
@@ -530,7 +524,6 @@
             "banners.unibet.com": "INACTIVE",
             "bn-01.adtomafusion.com": "INACTIVE",
             "cache.blogads.com": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "cdn.mdotm.com": "INACTIVE",
             "cdn.millennialmedia.com": "INACTIVE",
@@ -665,7 +658,6 @@
         "1569842761": {
             "adservices.picadmedia.com": "INACTIVE",
             "adx.g.doubleclick.net": "INACTIVE",
-            "cdn.cpsoft86.com": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "cdn.mdotm.com": "INACTIVE",
             "ns1.backbeatmedia.com": "INACTIVE",
@@ -706,7 +698,19 @@
             "www.overture.com": "INACTIVE"
         },
         "1570331804": {
-            "www.agomwefq.com": "INACTIVE"
+            "ad-ch.jp": "INACTIVE",
+            "ad.omni.se": "INACTIVE",
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "cache.blogads.com": "INACTIVE",
+            "cdn.cpsoft86.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE",
+            "js.adsonar.com": "INACTIVE",
+            "mads.at.atwola.com": "INACTIVE",
+            "royale-ssl.spongecell.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE",
+            "www.agomwefq.com": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE"
         }
     }
 }
