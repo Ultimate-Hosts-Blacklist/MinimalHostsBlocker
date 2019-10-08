@@ -1,22 +1,13 @@
 {
-    "current_stats": {
-        "builds": 8,
-        "counter": {
-            "down": 45,
-            "invalid": 0,
-            "tested": 673,
-            "up": 628
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Sun Oct  6 09:08:29 2019",
-    "end_epoch": 1570352909.583788,
+    "end_datetime": "Tue Oct  8 20:55:09 2019",
+    "end_epoch": 1570568109.418635,
     "last_autosave_datetime": "Tue Oct  8 18:13:28 2019",
     "last_autosave_epoch": 1570558408.521115,
     "name": "MinimalHostsBlocker",
     "previous_stats": {
-        "builds": 8,
+        "builds": 9,
         "clean.list": 628,
         "counter": {
             "down": 108,
