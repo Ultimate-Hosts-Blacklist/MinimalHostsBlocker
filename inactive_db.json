@@ -369,7 +369,6 @@
             "www.agomwefq.com": "INACTIVE",
             "www.ebdr3.com": "INACTIVE"
         },
-        "1567034030": {},
         "1567034031": {
             "dart-apac.l.doubleclick.net": "INACTIVE"
         },
@@ -722,6 +721,35 @@
             "www.adrotator.se": "INACTIVE",
             "www.herezera.com": "INACTIVE",
             "www.mxpopad.com": "INACTIVE"
+        },
+        "1570658531": {
+            "adnxs.revsci.net": "INACTIVE",
+            "api.adsnative.com": "INACTIVE"
+        },
+        "1570658562": {
+            "ctxt.tribalfusion.com": "INACTIVE",
+            "widgets.progrids.com": "INACTIVE"
+        },
+        "1570658695": {
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1570658698": {
+            "ws.tapjoyads.com": "INACTIVE"
+        },
+        "1570658829": {
+            "ad.adtoma.com": "INACTIVE"
+        },
+        "1570658962": {
+            "adsyndication.msn.com": "INACTIVE"
+        },
+        "1570659093": {
+            "expo9.exponential.com": "INACTIVE"
+        },
+        "1570659125": {
+            "a.scorecardresearch.com": "INACTIVE"
+        },
+        "1570659255": {
+            "connect.decknetwork.net": "INACTIVE"
         }
     }
 }
