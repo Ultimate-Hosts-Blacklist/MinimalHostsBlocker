@@ -42,6 +42,42 @@
         },
         "1570674319": {
             "s.send.microad.jp": "INACTIVE"
+        },
+        "1570706459": {
+            "log.outbrain.com": "INACTIVE",
+            "tpc.googlesyndication.com": "INACTIVE"
+        },
+        "1570706460": {
+            "ads.mocean.mobi": "INACTIVE"
+        },
+        "1570706592": {
+            "ad.adtoma.com": "INACTIVE"
+        },
+        "1570706723": {
+            "1app.blob.core.windows.net": "INACTIVE",
+            "ctxt.tribalfusion.com": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE",
+            "track.netshelter.net": "INACTIVE"
+        },
+        "1570706854": {
+            "ad.linkexchange.com": "INACTIVE",
+            "leadback.advertising.com": "INACTIVE"
+        },
+        "1570706856": {
+            "admaster.heyos.com": "INACTIVE"
+        },
+        "1570706857": {
+            "9cf9.v.fwmrm.net": "INACTIVE",
+            "ad.360yield.com": "INACTIVE"
+        },
+        "1570706987": {
+            "a.adnium.com": "INACTIVE",
+            "i.w.inmobi.com": "INACTIVE",
+            "imads.integral-marketing.com": "INACTIVE",
+            "widgets.outbrain.com": "INACTIVE"
+        },
+        "1570707118": {
+            "expo9.exponential.com": "INACTIVE"
         }
     }
 }
