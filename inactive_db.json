@@ -771,6 +771,24 @@
         },
         "1570662853": {
             "cdn.directtrk.com": "INACTIVE"
+        },
+        "1570668757": {
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1570668888": {
+            "cdn.hgdat.com": "INACTIVE",
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1570669019": {
+            "ads.aftonbladet.se": "INACTIVE",
+            "mads.advertising.com": "INACTIVE"
+        },
+        "1570669150": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1570669281": {
+            "tracking.trafficjunky.net": "INACTIVE"
         }
     }
+}}
 }
