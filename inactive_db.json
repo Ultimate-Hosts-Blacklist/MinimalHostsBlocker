@@ -96,9 +96,6 @@
             "pagead.l.google.com": "INACTIVE",
             "www.admob.tk": "INACTIVE"
         },
-        "1570712154": {
-            "ko.snstatic.fi": "INACTIVE"
-        },
         "1570716225": {
             "pds.directrev.com": "INACTIVE"
         },
@@ -238,6 +235,20 @@
         },
         "1570798649": {
             "ad.adtoma.com": "INACTIVE"
+        },
+        "1570802819": {
+            "ctl1.buyt.in": "INACTIVE"
+        },
+        "1570802820": {
+            "fls.doubleclick.net": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1570802951": {
+            "ad.linkexchange.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE"
+        },
+        "1570803082": {
+            "ko.snstatic.fi": "INACTIVE"
         }
     }
 }
