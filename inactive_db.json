@@ -103,8 +103,7 @@
             "adsyndication.msn.com": "INACTIVE"
         },
         "1570716487": {
-            "ad.kixer.com": "INACTIVE",
-            "x888x.myserver.org": "INACTIVE"
+            "ad.kixer.com": "INACTIVE"
         },
         "1570716488": {
             "adtracker.inmobi.com": "INACTIVE"
@@ -282,6 +281,53 @@
         },
         "1570925851": {
             "req.startappservice.com": "INACTIVE"
+        },
+        "1570929126": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1570929259": {
+            "assets.kixer.com": "INACTIVE"
+        },
+        "1570929261": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1570929262": {
+            "www.adrotator.se": "INACTIVE"
+        },
+        "1570929263": {
+            "modmyi.us.intellitxt.com": "INACTIVE",
+            "www.admob.sg": "INACTIVE"
+        },
+        "1570929393": {
+            "tracking.trafficjunky.net": "INACTIVE"
+        },
+        "1570929395": {
+            "ads.saymedia.com": "INACTIVE",
+            "cdn.bidvertiser.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1570929397": {
+            "pub.clicksor.net": "INACTIVE"
+        },
+        "1570929398": {
+            "ad2.netshelter.net": "INACTIVE",
+            "adv.aftonbladet.se": "INACTIVE",
+            "wv.inner-active.mobi": "INACTIVE"
+        },
+        "1570929400": {
+            "choices.truste.com": "INACTIVE"
+        },
+        "1570929531": {
+            "ad.taptica.com": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "bullseye.backbeatmedia.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1570929662": {
+            "widgets.progrids.com": "INACTIVE"
+        },
+        "1570929793": {
+            "x888x.myserver.org": "INACTIVE"
         }
     }
 }
