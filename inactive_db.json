@@ -99,9 +99,6 @@
         "1570716225": {
             "pds.directrev.com": "INACTIVE"
         },
-        "1570716356": {
-            "adsyndication.msn.com": "INACTIVE"
-        },
         "1570716487": {
             "ad.kixer.com": "INACTIVE"
         },
@@ -388,6 +385,75 @@
         },
         "1570965744": {
             "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1570969860": {
+            "cdn.kixer.com": "INACTIVE"
+        },
+        "1570969861": {
+            "ad8.adfarm1.adition.com": "INACTIVE",
+            "adv.svd.se": "INACTIVE"
+        },
+        "1570969994": {
+            "www.adrotator.se": "INACTIVE"
+        },
+        "1570969995": {
+            "cdn.media.innity.net": "INACTIVE",
+            "js.revsci.net": "INACTIVE",
+            "kona.kontera.com": "INACTIVE"
+        },
+        "1570969997": {
+            "ads.yimg.com": "INACTIVE",
+            "engine2.adzerk.net": "INACTIVE"
+        },
+        "1570969998": {
+            "www.herezera.com": "INACTIVE"
+        },
+        "1570969999": {
+            "tag.contextweb.com": "INACTIVE"
+        },
+        "1570970000": {
+            "c.greystripe.com": "INACTIVE"
+        },
+        "1570970001": {
+            "5be16.v.fwmrm.net": "INACTIVE",
+            "partner.googleadservices.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1570970002": {
+            "cdn.merchenta.com": "INACTIVE",
+            "engine.4chan-ads.org": "INACTIVE",
+            "log.outbrain.com": "INACTIVE"
+        },
+        "1570970132": {
+            "ctxt.tribalfusion.com": "INACTIVE"
+        },
+        "1570970133": {
+            "a.adnium.com": "INACTIVE",
+            "ad.kixer.com": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "s2.video.doubleclick.net": "INACTIVE"
+        },
+        "1570970263": {
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1570970264": {
+            "a.jumptap.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "origin.collective-media.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "router.infolinks.com": "INACTIVE"
+        },
+        "1570970395": {
+            "ad.adtoma.com": "INACTIVE",
+            "ad4.netshelter.net": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "ba2b687.se": "INACTIVE",
+            "p22.atemda.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "www.admob.biz": "INACTIVE"
+        },
+        "1570970526": {
+            "adsyndication.msn.com": "INACTIVE"
         }
     }
 }
