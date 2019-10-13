@@ -249,6 +249,39 @@
         },
         "1570803082": {
             "ko.snstatic.fi": "INACTIVE"
+        },
+        "1570925321": {
+            "cdn.adnxs.com": "INACTIVE",
+            "de.cisive.net": "INACTIVE"
+        },
+        "1570925453": {
+            "a.tribalfusion.com": "INACTIVE",
+            "broadcasthost": "INVALID",
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1570925454": {
+            "m1.2mdn.net": "INACTIVE",
+            "motifcdn2.doubleclick.net": "INACTIVE"
+        },
+        "1570925455": {
+            "bannerfarm.ace.advertising.com": "INACTIVE"
+        },
+        "1570925589": {
+            "video-stats.video.google.com": "INACTIVE",
+            "www.admob.vn": "INACTIVE"
+        },
+        "1570925590": {
+            "b.grvcdn.com": "INACTIVE",
+            "cache.blogads.com": "INACTIVE"
+        },
+        "1570925719": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1570925720": {
+            "atdmt-a.akamaihd.net": "INACTIVE"
+        },
+        "1570925851": {
+            "req.startappservice.com": "INACTIVE"
         }
     }
 }
