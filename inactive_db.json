@@ -189,9 +189,6 @@
         "1570793212": {
             "ads.yieldmo.com": "INACTIVE"
         },
-        "1570793342": {
-            "script.tailsweep.com": "INACTIVE"
-        },
         "1570793474": {
             "ad1.netshelter.net": "INACTIVE",
             "traffic.outbrain.com": "INACTIVE"
@@ -454,6 +451,9 @@
         },
         "1570970526": {
             "adsyndication.msn.com": "INACTIVE"
+        },
+        "1570974945": {
+            "script.tailsweep.com": "INACTIVE"
         }
     }
 }
