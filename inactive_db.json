@@ -106,7 +106,6 @@
             "adtracker.inmobi.com": "INACTIVE"
         },
         "1570716618": {
-            "bb.crwdcntrl.net": "INACTIVE",
             "ox-d.wuv.servedbyopenx.com": "INACTIVE"
         },
         "1570716619": {
@@ -490,6 +489,45 @@
         },
         "1571098923": {
             "www.admob.mobi": "INACTIVE"
+        },
+        "1571102838": {
+            "www.softonicads.com": "INACTIVE"
+        },
+        "1571102850": {
+            "cdn.cpsoft86.com": "INACTIVE"
+        },
+        "1571102851": {
+            "www.yieldmanager.com": "INACTIVE"
+        },
+        "1571102988": {
+            "partnerad.l.doubleclick.net": "INACTIVE"
+        },
+        "1571102990": {
+            "cdn.static.zdtag.com": "INACTIVE"
+        },
+        "1571103120": {
+            "ad.adtoma.com": "INACTIVE",
+            "ad.taptica.com": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "ads2.contentabc.com": "INACTIVE",
+            "dtm.advertising.com": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE",
+            "mm.chitika.net": "INACTIVE"
+        },
+        "1571103251": {
+            "ad8.adfarm1.adition.com": "INACTIVE",
+            "ads.aftonbladet.se": "INACTIVE",
+            "atdmt-a.akamaihd.net": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "directrev.blob.core.windows.net": "INACTIVE",
+            "modmyi.us.intellitxt.com": "INACTIVE",
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1571103382": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1571103513": {
+            "bb.crwdcntrl.net": "INACTIVE"
         }
     }
 }
