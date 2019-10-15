@@ -47,9 +47,6 @@
             "log.outbrain.com": "INACTIVE",
             "tpc.googlesyndication.com": "INACTIVE"
         },
-        "1570706460": {
-            "ads.mocean.mobi": "INACTIVE"
-        },
         "1570706723": {
             "1app.blob.core.windows.net": "INACTIVE",
             "ctxt.tribalfusion.com": "INACTIVE",
@@ -602,6 +599,32 @@
         },
         "1571144514": {
             "script.tailsweep.com": "INACTIVE"
+        },
+        "1571149624": {
+            "ads.yimg.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE"
+        },
+        "1571149754": {
+            "widgets.progrids.com": "INACTIVE"
+        },
+        "1571149755": {
+            "1app.blob.core.windows.net": "INACTIVE",
+            "adb.nikkei.co.jp": "INACTIVE",
+            "admaster.heyos.com": "INACTIVE",
+            "ads.flurry.com": "INACTIVE",
+            "router.infolinks.com": "INACTIVE"
+        },
+        "1571149885": {
+            "ctxt.tribalfusion.com": "INACTIVE"
+        },
+        "1571149886": {
+            "cdn.directtrk.com": "INACTIVE"
+        },
+        "1571150016": {
+            "adsyndication.msn.com": "INACTIVE"
+        },
+        "1571150017": {
+            "ads.mocean.mobi": "INACTIVE"
         }
     }
 }
