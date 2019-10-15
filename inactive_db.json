@@ -528,6 +528,27 @@
         },
         "1571103513": {
             "bb.crwdcntrl.net": "INACTIVE"
+        },
+        "1571107079": {
+            "ads.flurry.com": "INACTIVE",
+            "engine.adzerk.net": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1571107080": {
+            "c.admob.com": "INACTIVE"
+        },
+        "1571107210": {
+            "i.w.inmobi.com": "INACTIVE",
+            "pagead.l.google.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "staticd.cdn.adblade.com": "INACTIVE"
+        },
+        "1571107341": {
+            "ad.omni.se": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "partner.googleadservices.com": "INACTIVE",
+            "x888x.myserver.org": "INACTIVE"
         }
     }
 }
