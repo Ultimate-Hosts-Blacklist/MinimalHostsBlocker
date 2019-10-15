@@ -442,9 +442,6 @@
         "1570970526": {
             "adsyndication.msn.com": "INACTIVE"
         },
-        "1570974945": {
-            "script.tailsweep.com": "INACTIVE"
-        },
         "1571098354": {
             "api.adsnative.com": "INACTIVE"
         },
@@ -511,9 +508,6 @@
             "modmyi.us.intellitxt.com": "INACTIVE",
             "video-stats.video.google.com": "INACTIVE"
         },
-        "1571103382": {
-            "script.tailsweep.com": "INACTIVE"
-        },
         "1571103513": {
             "bb.crwdcntrl.net": "INACTIVE"
         },
@@ -555,6 +549,59 @@
         },
         "1571138292": {
             "www.fresh8.co": "INACTIVE"
+        },
+        "1571143961": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1571143962": {
+            "e.admob.com": "INACTIVE"
+        },
+        "1571143967": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1571144100": {
+            "ah.yimg.jp": "INACTIVE"
+        },
+        "1571144101": {
+            "www.admob.mobi": "INACTIVE"
+        },
+        "1571144106": {
+            "js.adsonar.com": "INACTIVE"
+        },
+        "1571144108": {
+            "royale-ssl.spongecell.com": "INACTIVE"
+        },
+        "1571144111": {
+            "austria1.adverserve.net": "INACTIVE",
+            "www.buzzea.com": "INACTIVE"
+        },
+        "1571144112": {
+            "videoslots.888.com": "INACTIVE"
+        },
+        "1571144119": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1571144120": {
+            "cdn.static.zdtag.com": "INACTIVE",
+            "uac.advertising.com": "INACTIVE"
+        },
+        "1571144121": {
+            "adclick.g.doubleclick.net": "INACTIVE",
+            "cdn.merchenta.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1571144252": {
+            "ad.adtoma.com": "INACTIVE",
+            "ad3.netshelter.net": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "pds.directrev.com": "INACTIVE",
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1571144253": {
+            "track.netshelter.net": "INACTIVE"
+        },
+        "1571144514": {
+            "script.tailsweep.com": "INACTIVE"
         }
     }
 }
