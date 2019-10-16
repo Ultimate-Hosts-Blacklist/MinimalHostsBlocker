@@ -216,9 +216,6 @@
             "router.infolinks.com": "INACTIVE",
             "www.admob.mobi": "INACTIVE"
         },
-        "1570798649": {
-            "ad.adtoma.com": "INACTIVE"
-        },
         "1570802819": {
             "ctl1.buyt.in": "INACTIVE"
         },
@@ -320,7 +317,6 @@
         },
         "1570932811": {
             "a.visualrevenue.com": "INACTIVE",
-            "ad.adtoma.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
             "cdn.merchenta.com": "INACTIVE",
             "s.ad131m.com": "INACTIVE"
@@ -428,7 +424,6 @@
             "router.infolinks.com": "INACTIVE"
         },
         "1570970395": {
-            "ad.adtoma.com": "INACTIVE",
             "ad4.netshelter.net": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
             "ba2b687.se": "INACTIVE",
@@ -488,7 +483,6 @@
             "cdn.static.zdtag.com": "INACTIVE"
         },
         "1571103120": {
-            "ad.adtoma.com": "INACTIVE",
             "ad.taptica.com": "INACTIVE",
             "ad3.netshelter.net": "INACTIVE",
             "ads2.contentabc.com": "INACTIVE",
@@ -588,7 +582,6 @@
             "pagead2.googlesyndication.com": "INACTIVE"
         },
         "1571144252": {
-            "ad.adtoma.com": "INACTIVE",
             "ad3.netshelter.net": "INACTIVE",
             "i.tapit.com": "INACTIVE",
             "pds.directrev.com": "INACTIVE",
@@ -648,6 +641,44 @@
         },
         "1571225813": {
             "www.agomwefq.com": "INACTIVE"
+        },
+        "1571231305": {
+            "c.admob.com": "INACTIVE",
+            "cdn.millennialmedia.com": "INACTIVE",
+            "mads.advertising.com": "INACTIVE",
+            "rma-api.gravity.com": "INACTIVE"
+        },
+        "1571231306": {
+            "ad2.netshelter.net": "INACTIVE",
+            "engine.adzerk.net": "INACTIVE",
+            "mm.chitika.net": "INACTIVE",
+            "pds.directrev.com": "INACTIVE"
+        },
+        "1571231437": {
+            "i.w.sandbox.inmobi.com": "INACTIVE",
+            "widgets.outbrain.com": "INACTIVE"
+        },
+        "1571231567": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1571231568": {
+            "api.gravity.com": "INACTIVE"
+        },
+        "1571231698": {
+            "x888x.myserver.org": "INACTIVE"
+        },
+        "1571231699": {
+            "a02.korrelate.net": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE"
+        },
+        "1571231829": {
+            "ko.snstatic.fi": "INACTIVE"
+        },
+        "1571231830": {
+            "ad1.netshelter.net": "INACTIVE"
+        },
+        "1571231961": {
+            "ad.adtoma.com": "INACTIVE"
         }
     }
 }
