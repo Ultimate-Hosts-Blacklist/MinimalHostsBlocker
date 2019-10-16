@@ -189,9 +189,6 @@
         "1570793475": {
             "staticd.cdn.adblade.com": "INACTIVE"
         },
-        "1570793607": {
-            "connect.decknetwork.net": "INACTIVE"
-        },
         "1570797962": {
             "pq-direct.revsci.net": "INACTIVE"
         },
@@ -679,6 +676,29 @@
         },
         "1571231961": {
             "ad.adtoma.com": "INACTIVE"
+        },
+        "1571236650": {
+            "cdn.merchenta.com": "INACTIVE",
+            "de.cisive.net": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1571236780": {
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1571236781": {
+            "feedads.g.doubleclick.net": "INACTIVE",
+            "ns1.backbeatmedia.com": "INACTIVE",
+            "tags.bkrtx.com": "INACTIVE"
+        },
+        "1571236782": {
+            "tag.contextweb.com": "INACTIVE",
+            "www.ad-ch.jp": "INACTIVE"
+        },
+        "1571236792": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1571236922": {
+            "connect.decknetwork.net": "INACTIVE"
         }
     }
 }
