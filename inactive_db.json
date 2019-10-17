@@ -535,9 +535,6 @@
         "1571138161": {
             "www.projectwonderful.com": "INACTIVE"
         },
-        "1571138292": {
-            "www.fresh8.co": "INACTIVE"
-        },
         "1571143961": {
             "www.adsafeprotected.com": "INACTIVE"
         },
@@ -624,7 +621,6 @@
             "exchange.nativeads.com": "INACTIVE"
         },
         "1571225666": {
-            "www.fresh8.co": "INACTIVE",
             "www.terrapops.com": "INACTIVE"
         },
         "1571225674": {
@@ -717,6 +713,32 @@
         },
         "1571311824": {
             "cdn.popcash.net": "INACTIVE"
+        },
+        "1571315697": {
+            "ws.tapjoyads.com": "INACTIVE",
+            "www.admob.sg": "INACTIVE"
+        },
+        "1571315828": {
+            "www.coinurl.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1571315829": {
+            "ads.saymedia.com": "INACTIVE"
+        },
+        "1571315830": {
+            "cdn.bidvertiser.com": "INACTIVE"
+        },
+        "1571315961": {
+            "adb.nikkei.co.jp": "INACTIVE",
+            "cdn.directrev.com": "INACTIVE",
+            "cdn2.cpmstar.com": "INACTIVE",
+            "expo9.exponential.com": "INACTIVE"
+        },
+        "1571316092": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1571316223": {
+            "www.fresh8.co": "INACTIVE"
         }
     }
 }
