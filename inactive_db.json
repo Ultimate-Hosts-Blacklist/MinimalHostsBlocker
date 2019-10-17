@@ -428,9 +428,6 @@
             "pixel.redditmedia.com": "INACTIVE",
             "www.admob.biz": "INACTIVE"
         },
-        "1570970526": {
-            "adsyndication.msn.com": "INACTIVE"
-        },
         "1571098354": {
             "api.adsnative.com": "INACTIVE"
         },
@@ -607,9 +604,6 @@
         "1571149886": {
             "cdn.directtrk.com": "INACTIVE"
         },
-        "1571150016": {
-            "adsyndication.msn.com": "INACTIVE"
-        },
         "1571150017": {
             "ads.mocean.mobi": "INACTIVE"
         },
@@ -739,6 +733,47 @@
         },
         "1571316223": {
             "www.fresh8.co": "INACTIVE"
+        },
+        "1571320039": {
+            "p22.atemda.com": "INACTIVE"
+        },
+        "1571320040": {
+            "ad.omni.se": "INACTIVE",
+            "az708531.vo.msecnd.net": "INACTIVE",
+            "m.2mdn.net": "INACTIVE"
+        },
+        "1571320171": {
+            "ads.aftonbladet.se": "INACTIVE",
+            "au-01.adtomafusion.com": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1571320172": {
+            "videoslots.888.com": "INACTIVE"
+        },
+        "1571320302": {
+            "imads.integral-marketing.com": "INACTIVE",
+            "mads.advertising.com": "INACTIVE"
+        },
+        "1571320433": {
+            "adcel.vrvm.com": "INACTIVE",
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1571320434": {
+            "ad3.netshelter.net": "INACTIVE"
+        },
+        "1571320564": {
+            "ad.adtoma.com": "INACTIVE",
+            "atdmt-a.akamaihd.net": "INACTIVE",
+            "cdn.adnxs.com": "INACTIVE"
+        },
+        "1571320565": {
+            "ad.taptica.com": "INACTIVE"
+        },
+        "1571320575": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1571320705": {
+            "adsyndication.msn.com": "INACTIVE"
         }
     }
 }
