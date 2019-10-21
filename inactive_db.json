@@ -37,7 +37,6 @@
         "1570674318": {
             "ace.advertising.com": "INACTIVE",
             "cdn.static.zdtag.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE"
         },
         "1570674319": {
@@ -671,9 +670,6 @@
             "tag.contextweb.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE"
         },
-        "1571236792": {
-            "sdt1.corp.inmobi.com": "INACTIVE"
-        },
         "1571236922": {
             "connect.decknetwork.net": "INACTIVE"
         },
@@ -756,9 +752,6 @@
         "1571320565": {
             "ad.taptica.com": "INACTIVE"
         },
-        "1571320575": {
-            "sdt1.corp.inmobi.com": "INACTIVE"
-        },
         "1571433776": {
             "banners.proboards.com": "INACTIVE"
         },
@@ -787,8 +780,7 @@
             "www.admob.vn": "INACTIVE"
         },
         "1571433850": {
-            "modmyi.us.intellitxt.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE"
+            "modmyi.us.intellitxt.com": "INACTIVE"
         },
         "1571433855": {
             "tracking.trafficjunky.net": "INACTIVE"
@@ -849,7 +841,6 @@
             "ads2.contentabc.com": "INACTIVE",
             "as.ebz.io": "INACTIVE",
             "banners.proboards.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "w.inmobi.com": "INACTIVE"
         },
         "1571528677": {
@@ -932,7 +923,6 @@
         },
         "1571567423": {
             "router.infolinks.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE",
             "www.ba2b687.se": "INACTIVE"
         },
         "1571567424": {
@@ -1003,8 +993,7 @@
         },
         "1571653368": {
             "adv.svd.se": "INACTIVE",
-            "bn-01.adtomafusion.com": "INACTIVE",
-            "sdt1.corp.inmobi.com": "INACTIVE"
+            "bn-01.adtomafusion.com": "INACTIVE"
         },
         "1571653374": {
             "ad3.netshelter.net": "INACTIVE",
@@ -1037,6 +1026,76 @@
         },
         "1571653409": {
             "adsyndication.msn.com": "INACTIVE"
+        },
+        "1571696937": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1571696943": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1571696950": {
+            "www.adrotator.se": "INACTIVE"
+        },
+        "1571696969": {
+            "a.scorecardresearch.com": "INACTIVE"
+        },
+        "1571696979": {
+            "ad8.adfarm1.adition.com": "INACTIVE",
+            "dart-apac.l.doubleclick.net": "INACTIVE",
+            "mads.at.atwola.com": "INACTIVE"
+        },
+        "1571696987": {
+            "cdn.bidvertiser.com": "INACTIVE",
+            "www.admob.tk": "INACTIVE"
+        },
+        "1571696988": {
+            "ads.yimg.com": "INACTIVE",
+            "partner.googleadservices.com": "INACTIVE",
+            "tag.contextweb.com": "INACTIVE"
+        },
+        "1571696993": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1571696994": {
+            "www.clkmon.com": "INACTIVE"
+        },
+        "1571696998": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1571696999": {
+            "engine.adzerk.net": "INACTIVE"
+        },
+        "1571697004": {
+            "e2.emediate.se": "INACTIVE",
+            "i.w.sandbox.inmobi.com": "INACTIVE"
+        },
+        "1571697005": {
+            "ns2.backbeatmedia.com": "INACTIVE"
+        },
+        "1571697009": {
+            "ads.aftonbladet.se": "INACTIVE"
+        },
+        "1571697010": {
+            "cdn.adnxs.com": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "max.crwd.io": "INACTIVE",
+            "tpc.googlesyndication.com": "INACTIVE"
+        },
+        "1571697015": {
+            "x888x.myserver.org": "INACTIVE"
+        },
+        "1571697021": {
+            "ad.adtoma.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE"
+        },
+        "1571697022": {
+            "ads.yieldmo.com": "INACTIVE"
+        },
+        "1571697023": {
+            "royale-ssl.spongecell.com": "INACTIVE"
+        },
+        "1571697037": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
         }
     }
 }
