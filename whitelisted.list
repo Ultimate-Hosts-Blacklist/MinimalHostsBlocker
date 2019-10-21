@@ -9,6 +9,7 @@ a.adtech.de
 a.goember.com
 a.kat.cr
 a.ligatus.com
+aan.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 activity.serving-sys.com
@@ -19,6 +20,7 @@ ad.adverticum.net
 ad.adxcore.com
 ad.ae.doubleclick.net
 ad.ams.mcdstorage.com
+ad.ar.doubleclick.net
 ad.at.doubleclick.net
 ad.au.doubleclick.net
 ad.be.doubleclick.net
@@ -36,6 +38,7 @@ ad.doubleclick.net
 ad.es.doubleclick.net
 ad.fi.doubleclick.net
 ad.fr.doubleclick.net
+ad.hk.doubleclick.net
 ad.hr.doubleclick.net
 ad.hu.doubleclick.net
 ad.ie.doubleclick.net
@@ -149,6 +152,7 @@ ap.lijit.com
 api.content.ad
 api.unthem.com
 api9.net
+app.brightinfo.com
 appfly.mobi
 applab-sdk.amazon.com
 appnexus.com
@@ -232,8 +236,10 @@ doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
 doubleclick.net
+dp.g.doubleclick.net
 dpbolvw.net
 dra.amazon-adsystem.com
+ds.serving-sys.com
 dsp.adledge.com
 dynaserv.ads360.com
 ebdr3.com
@@ -243,6 +249,7 @@ ecpmrocks.com
 edge.quantserve.com
 embed.insticator.com
 engine.rbc.medialand.ru
+engine.widespace.com
 et.w.inmobi.com
 etarg.ru
 eu2.madsone.com
@@ -272,6 +279,7 @@ images.intellitxt.com
 images.outbrain.com
 images.revmob.com
 img-cdn.mediaplex.com
+img.adinte.jp
 img.ak.impact-ad.jp
 img1.nend.net
 ingameads.gameloft.com
@@ -301,6 +309,7 @@ m.admob.com
 m.doubleclick.net
 m.servebom.com
 marketing.888.com
+mc.yandex.ru
 media.888.com
 media.admob.com
 media.fastclick.net
@@ -367,6 +376,7 @@ serve.adplxmd.com
 serve.popads.net
 serve.vdopia.com
 servedby.hrnorth.se
+server.cpmstar.com
 sin1.g.adnxs.com
 smartadserver.com
 smartadserver.fr
@@ -426,6 +436,7 @@ www.adledge.com
 www.admarvel.s3.amazonaws.com
 www.admob.co.kr
 www.admob.co.nz
+www.admob.co.uk
 www.admob.com
 www.admob.cz
 www.admob.de
@@ -474,6 +485,7 @@ www.inneractive-assets.s3.amazonaws.com
 www.integral-marketing.com
 www.invitemedia.com
 www.lduhtrp.net
+www.mediaplex.fr
 www.novadune.com
 www.nyyed.com
 www.onclickads.net
