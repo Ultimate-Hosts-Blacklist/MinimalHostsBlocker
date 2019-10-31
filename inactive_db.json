@@ -350,8 +350,7 @@
             "dtm.advertising.com": "INACTIVE"
         },
         "1570965614": {
-            "ads2.contentabc.com": "INACTIVE",
-            "cdn.directtrk.com": "INACTIVE"
+            "ads2.contentabc.com": "INACTIVE"
         },
         "1570965744": {
             "www.adsafeprotected.com": "INACTIVE"
@@ -584,9 +583,6 @@
             "admaster.heyos.com": "INACTIVE",
             "ads.flurry.com": "INACTIVE",
             "router.infolinks.com": "INACTIVE"
-        },
-        "1571149886": {
-            "cdn.directtrk.com": "INACTIVE"
         },
         "1571150017": {
             "ads.mocean.mobi": "INACTIVE"
@@ -1340,6 +1336,74 @@
         },
         "1572474404": {
             "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572520063": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572520075": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1572520098": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1572520107": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1572520125": {
+            "video-stats.video.google.com": "INACTIVE",
+            "www.fresh8.co": "INACTIVE",
+            "www.terrapops.com": "INACTIVE"
+        },
+        "1572520126": {
+            "ads2.contentabc.com": "INACTIVE"
+        },
+        "1572520131": {
+            "pq-direct.revsci.net": "INACTIVE",
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1572520136": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1572520137": {
+            "ad.taptica.com": "INACTIVE",
+            "m.2mdn.net": "INACTIVE"
+        },
+        "1572520142": {
+            "ad.adtoma.com": "INACTIVE"
+        },
+        "1572520143": {
+            "adservices.picadmedia.com": "INACTIVE"
+        },
+        "1572520147": {
+            "cdn1.media.trafficjunky.net": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1572520148": {
+            "a.visualrevenue.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE"
+        },
+        "1572520153": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1572520159": {
+            "cdn.mdotm.com": "INACTIVE",
+            "ctxt.tribalfusion.com": "INACTIVE"
+        },
+        "1572520160": {
+            "ad.kixer.com": "INACTIVE"
+        },
+        "1572520165": {
+            "ad.linkexchange.com": "INACTIVE",
+            "www.buzzea.com": "INACTIVE"
+        },
+        "1572520166": {
+            "www.overture.com": "INACTIVE"
+        },
+        "1572520176": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1572520182": {
+            "cdn.directtrk.com": "INACTIVE"
         }
     }
 }
