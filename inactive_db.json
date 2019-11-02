@@ -289,8 +289,7 @@
         "1570929531": {
             "ad.taptica.com": "INACTIVE",
             "ad3.netshelter.net": "INACTIVE",
-            "bullseye.backbeatmedia.com": "INACTIVE",
-            "www.gomotrak.com": "INACTIVE"
+            "bullseye.backbeatmedia.com": "INACTIVE"
         },
         "1570929662": {
             "widgets.progrids.com": "INACTIVE"
@@ -488,8 +487,7 @@
         "1571107079": {
             "ads.flurry.com": "INACTIVE",
             "engine.adzerk.net": "INACTIVE",
-            "pagead2.googlesyndication.com": "INACTIVE",
-            "www.gomotrak.com": "INACTIVE"
+            "pagead2.googlesyndication.com": "INACTIVE"
         },
         "1571107080": {
             "c.admob.com": "INACTIVE"
@@ -887,8 +885,7 @@
             "script.tailsweep.com": "INACTIVE"
         },
         "1571567430": {
-            "ads.yimg.com": "INACTIVE",
-            "www.gomotrak.com": "INACTIVE"
+            "ads.yimg.com": "INACTIVE"
         },
         "1571567437": {
             "admob.tk": "INACTIVE"
@@ -1463,6 +1460,62 @@
         },
         "1572652214": {
             "ko.snstatic.fi": "INACTIVE"
+        },
+        "1572690418": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1572690453": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1572690459": {
+            "www.adrotator.se": "INACTIVE",
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572690462": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1572690483": {
+            "revmob-creatives.s3.amazonaws.com": "INACTIVE"
+        },
+        "1572690496": {
+            "ad.th.doubleclick.net": "INACTIVE"
+        },
+        "1572690504": {
+            "www.appnexus.com": "INACTIVE"
+        },
+        "1572690523": {
+            "router.infolinks.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1572690529": {
+            "connect.decknetwork.net": "INACTIVE"
+        },
+        "1572690535": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1572690536": {
+            "adtgs.adk2x.com": "INACTIVE"
+        },
+        "1572690547": {
+            "ad.linkexchange.com": "INACTIVE",
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1572690552": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1572690558": {
+            "ctxt.tribalfusion.com": "INACTIVE"
+        },
+        "1572690564": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1572690565": {
+            "cdn.media.innity.net": "INACTIVE",
+            "trends.revcontent.com": "INACTIVE"
+        },
+        "1572690566": {
+            "m.2mdn.net": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
         }
     }
 }
