@@ -280,7 +280,6 @@
         },
         "1570929398": {
             "ad2.netshelter.net": "INACTIVE",
-            "adv.aftonbladet.se": "INACTIVE",
             "wv.inner-active.mobi": "INACTIVE"
         },
         "1570929400": {
@@ -1516,6 +1515,65 @@
         "1572690566": {
             "m.2mdn.net": "INACTIVE",
             "www.gomotrak.com": "INACTIVE"
+        },
+        "1572825307": {
+            "my.mobfox.com": "INACTIVE"
+        },
+        "1572825320": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1572825355": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572825371": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1572825373": {
+            "broadcasthost": "INVALID"
+        },
+        "1572825375": {
+            "engine.adzerk.net": "INACTIVE",
+            "exchange.nativeads.com": "INACTIVE"
+        },
+        "1572825381": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1572825383": {
+            "a.adnium.com": "INACTIVE",
+            "js.adsonar.com": "INACTIVE"
+        },
+        "1572825388": {
+            "tracking.trafficjunky.net": "INACTIVE"
+        },
+        "1572825394": {
+            "leadback.advertising.com": "INACTIVE",
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572825395": {
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1572825400": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1572825401": {
+            "api.gravity.com": "INACTIVE"
+        },
+        "1572825406": {
+            "imads.integral-marketing.com": "INACTIVE"
+        },
+        "1572825413": {
+            "bannerfarm.ace.advertising.com": "INACTIVE",
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1572825427": {
+            "e.admob.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1572825433": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1572825434": {
+            "adv.aftonbladet.se": "INACTIVE"
         }
     }
 }

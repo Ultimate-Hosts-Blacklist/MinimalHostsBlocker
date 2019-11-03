@@ -12,6 +12,7 @@ a.ligatus.com
 aan.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
+activity.serving-sys.com
 ad-apac.doubleclick.net
 ad-emea.doubleclick.net
 ad-g.doubleclick.net
@@ -33,6 +34,7 @@ ad.cn.doubleclick.net
 ad.crwdcntrl.net
 ad.dc2.adtech.de
 ad.de.doubleclick.net
+ad.dk.doubleclick.net
 ad.doubleclick.net
 ad.es.doubleclick.net
 ad.fi.doubleclick.net
@@ -45,6 +47,7 @@ ad.in.doubleclick.net
 ad.it.doubleclick.net
 ad.jp.doubleclick.net
 ad.kr.doubleclick.net
+ad.leadbolt.net
 ad.leadboltads.net
 ad.mo.doubleclick.net
 ad.n2434.doubleclick.net
@@ -58,6 +61,8 @@ ad.rs.doubleclick.net
 ad.se.doubleclick.net
 ad.sg.doubleclick.net
 ad.si.doubleclick.net
+ad.terra.doubleclick.net
+ad.th.doubleclick.net
 ad.tw.doubleclick.net
 ad.uk.doubleclick.net
 ad.us.doubleclick.net
@@ -114,14 +119,19 @@ ads.cb-cdn.com
 ads.cleveland.com
 ads.cricbuzz.com
 ads.exoclick.com
+ads.footballaddicts.com
 ads.heyzap.com
+ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
 ads.mp.mydas.mobi
 ads.nordichardware.se
+ads.pinger.com
 ads.pro-market.net
+ads.qadservice.com
 ads.reddit.com
+ads.rubiconproject.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -148,6 +158,7 @@ app.brightinfo.com
 appfly.mobi
 applab-sdk.amazon.com
 appnexus.com
+as.chango.com
 assets.applovin.com
 at.atwola.com
 avnads.com
@@ -166,7 +177,10 @@ buzzea.com
 c.amazon-adsystem.com
 c.betrad.com
 c.w.inmobi.com
+c1.nend.net
+c1.popads.net
 c2.popads.net
+cas.criteo.com
 cdn-01.yumenetworks.com
 cdn.adbrau.com
 cdn.adf.ly
@@ -179,11 +193,13 @@ cdn.bttrack.com
 cdn.cpmstar.com
 cdn.elasticad.net
 cdn.engine.phn.doublepimp.com
+cdn.fastclick.net
 cdn.flashtalking.com
 cdn.krxd.net
 cdn.mediative.ca
 cdn.mxpnl.com
 cdn.pubexchange.com
+cdn.pubnative.net
 cdn.viglink.com
 cdn1.inner-active.mobi
 cdn1.reporo.net
@@ -202,6 +218,7 @@ clktag.com
 cm.g.doubleclick.net
 coinurl.com
 contextual.media.net
+cre.adjust-net.jp
 creative1cdn.mobfox.com
 creatives.doubleclick.net
 crp-concursos.com
@@ -244,6 +261,7 @@ fresh8.co
 fusion.di.se
 fusion.dn.se
 fusion.expressen.se
+fusion.va.se
 g1.v.fwmrm.net
 g2.gumgum.com
 gam.adnxs.com
@@ -274,8 +292,11 @@ integral-marketing.com
 invitemedia.com
 ios.bcfads.com
 ir-na.amazon-adsystem.com
+ir.doubleclick.net
 iv.doubleclick.net
 j.adlooxtracking.com
+jadserve.postrelease.com
+japan.inmobi.com
 js.grt02.com
 js.moatads.com
 jsc.adskeeper.co.uk
@@ -284,6 +305,7 @@ jsc.marketgid.com
 jsc.mgid.com
 jsn.dt07.net
 ktu.sv2.biz
+lax1.ib.adnxs.com
 lduhtrp.net
 localhost
 m.admob.com
@@ -315,6 +337,7 @@ nyyed.com
 ocsp.apple.com
 onceux.unicornmedia.com
 onclickads.net
+out.popads.net
 outbrain.com
 overture.com
 pagead2.googleadservices.com
@@ -336,6 +359,7 @@ rcm-images.amazon.com
 rcm-it.amazon.it
 rcm-na.amazon-adsystem.com
 resources.infolinks.com
+revmob-creatives.s3.amazonaws.com
 richmedia.yimg.com
 rmbn.net
 rss.buysellads.com
@@ -349,10 +373,12 @@ s0.doubleclick.net
 s2.adform.net
 s3.buysellads.com
 scorecardresearch.com
+secserv.adtech.de
 secure.adnxs.com
 serve.adplxmd.com
 serve.popads.net
 serve.vdopia.com
+servedby.hrnorth.se
 server.cpmstar.com
 sin1.g.adnxs.com
 smartadserver.com
@@ -364,6 +390,7 @@ spdeliver.i-mobile.co.jp
 spnet5.i-mobile.co.jp
 spsvc3.i-mobile.co.jp
 srv.bebi.com
+srv.buysellads.com
 srv.clickfuse.com
 srvpub.com
 static.adzerk.net
@@ -377,9 +404,11 @@ static.yieldmo.com
 static.zucks.net.zimg.jp
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
+syndication.exoclick.com
 t.neodatagroup.com
 tap-cdn.rubiconproject.com
 tap.rubiconproject.com
+tcr.tynt.com
 tempest.services.disqus.com
 terraclicks.com
 terrapops.com
@@ -392,6 +421,7 @@ trc.taboola.com
 uedata.amazon.com
 veoxa.com
 w.sharethis.com
+wd.sharethis.com
 web.adblade.com
 ws-na.amazon-adsystem.com
 ww251.smartadserver.com
@@ -409,11 +439,13 @@ www.adledge.com
 www.admarvel.s3.amazonaws.com
 www.admob.co.kr
 www.admob.co.nz
+www.admob.co.uk
 www.admob.com
 www.admob.cz
 www.admob.de
 www.admob.dk
 www.admob.es
+www.admob.eu
 www.admob.fi
 www.admob.fr
 www.admob.gr
@@ -421,6 +453,7 @@ www.admob.it
 www.admob.jp
 www.admob.no
 www.admob.pt
+www.adnxs.com
 www.adshost2.com
 www.adzerk.net
 www.amung.us
@@ -462,11 +495,14 @@ www.onclickads.net
 www.outbrain.com
 www.q1mediahydraplatform.com
 www.quantserve.com
+www.revmob-creatives.s3.amazonaws.com
 www.rmbn.net
+www.scorecardresearch.com
 www.smartadserver.com
 www.smartadserver.fr
 www.srvpub.com
 www.strikeadcdn.s3.amazonaws.com
+www.terraclicks.com
 www.tqlkg.com
 www.veoxa.com
 www.yllix.com
