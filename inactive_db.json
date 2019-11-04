@@ -364,7 +364,6 @@
             "www.adrotator.se": "INACTIVE"
         },
         "1570969995": {
-            "cdn.media.innity.net": "INACTIVE",
             "js.revsci.net": "INACTIVE",
             "kona.kontera.com": "INACTIVE"
         },
@@ -1509,7 +1508,6 @@
             "script.tailsweep.com": "INACTIVE"
         },
         "1572690565": {
-            "cdn.media.innity.net": "INACTIVE",
             "trends.revcontent.com": "INACTIVE"
         },
         "1572690566": {
@@ -1574,6 +1572,82 @@
         },
         "1572825434": {
             "adv.aftonbladet.se": "INACTIVE"
+        },
+        "1572865882": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1572865888": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1572865894": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1572865901": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1572865906": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1572865930": {
+            "cdn-01.yumenetworks.com": "INACTIVE"
+        },
+        "1572865939": {
+            "ad-ch.jp": "INACTIVE"
+        },
+        "1572865945": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1572865946": {
+            "creative.wwwpromoter.com": "INACTIVE",
+            "motifcdn2.doubleclick.net": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1572865952": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1572865953": {
+            "adx.g.doubleclick.net": "INACTIVE",
+            "fls.uk.doubleclick.net": "INACTIVE",
+            "req.startappservice.com": "INACTIVE"
+        },
+        "1572865958": {
+            "x888x.myserver.org": "INACTIVE"
+        },
+        "1572865965": {
+            "ad.adtoma.com": "INACTIVE",
+            "kona.kontera.com": "INACTIVE",
+            "router.infolinks.com": "INACTIVE"
+        },
+        "1572865970": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1572865971": {
+            "ad.omni.se": "INACTIVE",
+            "creative.cc-dt.com": "INACTIVE"
+        },
+        "1572865981": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1572865982": {
+            "p22.atemda.com": "INACTIVE"
+        },
+        "1572865987": {
+            "ko.snstatic.fi": "INACTIVE"
+        },
+        "1572865994": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1572865995": {
+            "ad.directrev.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "ox-d.wuv.servedbyopenx.com": "INACTIVE",
+            "www.ba2b687.se": "INACTIVE"
+        },
+        "1572866000": {
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1572866001": {
+            "cdn.media.innity.net": "INACTIVE"
         }
     }
 }
