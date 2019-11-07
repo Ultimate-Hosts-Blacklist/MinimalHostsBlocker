@@ -152,9 +152,6 @@
             "adclick.g.doubleclick.net": "INACTIVE",
             "az708531.vo.msecnd.net": "INACTIVE"
         },
-        "1570793063": {
-            "a.jumptap.com": "INACTIVE"
-        },
         "1570793064": {
             "adservices.picadmedia.com": "INACTIVE"
         },
@@ -400,7 +397,6 @@
             "cdn1.media.trafficjunky.net": "INACTIVE"
         },
         "1570970264": {
-            "a.jumptap.com": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "origin.collective-media.net": "INACTIVE",
             "pds.directrev.com": "INACTIVE",
@@ -1698,6 +1694,71 @@
         },
         "1572998610": {
             "ad.linkexchange.com": "INACTIVE"
+        },
+        "1573125468": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1573125469": {
+            "www.buzzea.com": "INACTIVE"
+        },
+        "1573125496": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1573125515": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1573125535": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1573125536": {
+            "go.goroost.com": "INACTIVE"
+        },
+        "1573125546": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1573125551": {
+            "ad.linkexchange.com": "INACTIVE"
+        },
+        "1573125553": {
+            "api.gravity.com": "INACTIVE",
+            "gomotrak.com": "INACTIVE"
+        },
+        "1573125559": {
+            "s.ad131m.com": "INACTIVE",
+            "widgets.progrids.com": "INACTIVE"
+        },
+        "1573125560": {
+            "i.ad-v.jp": "INACTIVE"
+        },
+        "1573125565": {
+            "ad.adtoma.com": "INACTIVE",
+            "impact.applifier.com": "INACTIVE",
+            "www.admob.biz": "INACTIVE"
+        },
+        "1573125570": {
+            "cdn-01.yumenetworks.com": "INACTIVE"
+        },
+        "1573125572": {
+            "partnerad.l.doubleclick.net": "INACTIVE"
+        },
+        "1573125576": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1573125577": {
+            "secure.leadback.advertising.com": "INACTIVE"
+        },
+        "1573125582": {
+            "bb.crwdcntrl.net": "INACTIVE"
+        },
+        "1573125583": {
+            "cdn.merchenta.com": "INACTIVE",
+            "uac.advertising.com": "INACTIVE"
+        },
+        "1573125588": {
+            "e2.emediate.se": "INACTIVE"
+        },
+        "1573125589": {
+            "a.jumptap.com": "INACTIVE"
         }
     }
 }
