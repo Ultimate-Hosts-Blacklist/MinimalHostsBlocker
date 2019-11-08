@@ -118,9 +118,6 @@
         "1570716750": {
             "mads.at.atwola.com": "INACTIVE"
         },
-        "1570716880": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1570721025": {
             "ad.taptica.com": "INACTIVE",
             "s.ad131m.com": "INACTIVE"
@@ -855,9 +852,6 @@
         "1571567390": {
             "ad-apac.doubleclick.net": "INACTIVE"
         },
-        "1571567400": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1571567401": {
             "cdn.adnotch.com": "INACTIVE",
             "www.yieldmanager.com": "INACTIVE"
@@ -1051,9 +1045,6 @@
             "partner.googleadservices.com": "INACTIVE",
             "www.admob.tk": "INACTIVE"
         },
-        "1571742698": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1571742699": {
             "router.infolinks.com": "INACTIVE"
         },
@@ -1111,9 +1102,6 @@
         "1572046640": {
             "ads.appia.com": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE"
-        },
-        "1572046646": {
-            "ad1.emediate.dk": "INACTIVE"
         },
         "1572046647": {
             "tpc.googlesyndication.com": "INACTIVE"
@@ -1191,9 +1179,6 @@
         "1572221198": {
             "fls-na.amazon.com": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE"
-        },
-        "1572221210": {
-            "ad1.emediate.dk": "INACTIVE"
         },
         "1572221211": {
             "creative.cc-dt.com": "INACTIVE"
@@ -1352,9 +1337,6 @@
             "pq-direct.revsci.net": "INACTIVE",
             "www.adsafeprotected.com": "INACTIVE"
         },
-        "1572520136": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1572520137": {
             "ad.taptica.com": "INACTIVE",
             "m.2mdn.net": "INACTIVE"
@@ -1407,9 +1389,6 @@
         },
         "1572652150": {
             "www.coinurl.com": "INACTIVE"
-        },
-        "1572652156": {
-            "ad1.emediate.dk": "INACTIVE"
         },
         "1572652157": {
             "ad.360yield.com": "INACTIVE"
@@ -1494,9 +1473,6 @@
             "ad.linkexchange.com": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
         },
-        "1572690552": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1572690558": {
             "ctxt.tribalfusion.com": "INACTIVE"
         },
@@ -1562,9 +1538,6 @@
         "1572825427": {
             "e.admob.com": "INACTIVE",
             "sdt1.corp.inmobi.com": "INACTIVE"
-        },
-        "1572825433": {
-            "ad1.emediate.dk": "INACTIVE"
         },
         "1572825434": {
             "adv.aftonbladet.se": "INACTIVE"
@@ -1661,9 +1634,6 @@
             "a.visualrevenue.com": "INACTIVE",
             "www.admob.tk": "INACTIVE"
         },
-        "1572998568": {
-            "ad1.emediate.dk": "INACTIVE"
-        },
         "1572998569": {
             "cdn.directrev.com": "INACTIVE"
         },
@@ -1759,6 +1729,72 @@
         },
         "1573125589": {
             "a.jumptap.com": "INACTIVE"
+        },
+        "1573256889": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1573256904": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1573256910": {
+            "www.clkmon.com": "INACTIVE"
+        },
+        "1573256947": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1573256950": {
+            "static.2mdn.net": "INACTIVE"
+        },
+        "1573256952": {
+            "e.admob.com": "INACTIVE",
+            "exchange.nativeads.com": "INACTIVE",
+            "feedads.g.doubleclick.net": "INACTIVE"
+        },
+        "1573256953": {
+            "impact.applifier.com": "INACTIVE"
+        },
+        "1573256957": {
+            "bb.crwdcntrl.net": "INACTIVE"
+        },
+        "1573256962": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1573256963": {
+            "de.cisive.net": "INACTIVE"
+        },
+        "1573256968": {
+            "i.w.inmobi.com": "INACTIVE",
+            "tracking.trafficjunky.net": "INACTIVE"
+        },
+        "1573256969": {
+            "ads.saymedia.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1573256974": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1573256985": {
+            "adx.g.doubleclick.net": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1573256986": {
+            "ace.advertising.com": "INACTIVE",
+            "trends.revcontent.com": "INACTIVE"
+        },
+        "1573256991": {
+            "e2.emediate.se": "INACTIVE"
+        },
+        "1573256997": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1573257003": {
+            "cdn.mobicow.com": "INACTIVE"
+        },
+        "1573257004": {
+            "content.yieldmanager.edgesuite.net": "INACTIVE"
+        },
+        "1573257009": {
+            "imads.integral-marketing.com": "INACTIVE"
         }
     }
 }
