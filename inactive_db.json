@@ -198,8 +198,7 @@
             "ads.flurry.com": "INACTIVE"
         },
         "1570798518": {
-            "router.infolinks.com": "INACTIVE",
-            "www.admob.mobi": "INACTIVE"
+            "router.infolinks.com": "INACTIVE"
         },
         "1570802819": {
             "ctl1.buyt.in": "INACTIVE"
@@ -437,9 +436,6 @@
         "1571098661": {
             "d.adroll.com": "INACTIVE"
         },
-        "1571098923": {
-            "www.admob.mobi": "INACTIVE"
-        },
         "1571102838": {
             "www.softonicads.com": "INACTIVE"
         },
@@ -518,9 +514,6 @@
         },
         "1571144100": {
             "ah.yimg.jp": "INACTIVE"
-        },
-        "1571144101": {
-            "www.admob.mobi": "INACTIVE"
         },
         "1571144106": {
             "js.adsonar.com": "INACTIVE"
@@ -1795,6 +1788,62 @@
         },
         "1573257009": {
             "imads.integral-marketing.com": "INACTIVE"
+        },
+        "1573296766": {
+            "advm.svd.se": "INACTIVE"
+        },
+        "1573296776": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1573296784": {
+            "www.adsafeprotected.com": "INACTIVE"
+        },
+        "1573296790": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1573296797": {
+            "www.projectwonderful.com": "INACTIVE"
+        },
+        "1573296801": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1573296807": {
+            "cdn1.media.trafficjunky.net": "INACTIVE"
+        },
+        "1573296808": {
+            "impact.applifier.com": "INACTIVE"
+        },
+        "1573296814": {
+            "script.tailsweep.com": "INACTIVE"
+        },
+        "1573296819": {
+            "www.fresh8.co": "INACTIVE"
+        },
+        "1573296820": {
+            "ace.advertising.com": "INACTIVE"
+        },
+        "1573296830": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1573296831": {
+            "www.coinurl.com": "INACTIVE"
+        },
+        "1573296836": {
+            "e2.emediate.se": "INACTIVE"
+        },
+        "1573296842": {
+            "gomotrak.com": "INACTIVE",
+            "ko.snstatic.fi": "INACTIVE"
+        },
+        "1573296850": {
+            "m.2mdn.net": "INACTIVE"
+        },
+        "1573296854": {
+            "ads.aftonbladet.se": "INACTIVE"
+        },
+        "1573296861": {
+            "ad.linkexchange.com": "INACTIVE",
+            "www.admob.mobi": "INACTIVE"
         }
     }
 }
