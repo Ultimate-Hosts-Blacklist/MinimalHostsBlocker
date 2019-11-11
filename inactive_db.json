@@ -119,8 +119,7 @@
             "mads.at.atwola.com": "INACTIVE"
         },
         "1570721025": {
-            "ad.taptica.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE"
+            "ad.taptica.com": "INACTIVE"
         },
         "1570721026": {
             "static.2mdn.net": "INACTIVE"
@@ -300,8 +299,7 @@
         "1570932811": {
             "a.visualrevenue.com": "INACTIVE",
             "cdn.directrev.com": "INACTIVE",
-            "cdn.merchenta.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE"
+            "cdn.merchenta.com": "INACTIVE"
         },
         "1570932812": {
             "ad4.netshelter.net": "INACTIVE"
@@ -1300,8 +1298,7 @@
             "www.ba2b687.se": "INACTIVE"
         },
         "1572474393": {
-            "log.outbrain.com": "INACTIVE",
-            "s.ad131m.com": "INACTIVE"
+            "log.outbrain.com": "INACTIVE"
         },
         "1572474404": {
             "www.projectwonderful.com": "INACTIVE"
@@ -1687,7 +1684,6 @@
             "gomotrak.com": "INACTIVE"
         },
         "1573125559": {
-            "s.ad131m.com": "INACTIVE",
             "widgets.progrids.com": "INACTIVE"
         },
         "1573125560": {
@@ -1844,6 +1840,12 @@
         "1573296861": {
             "ad.linkexchange.com": "INACTIVE",
             "www.admob.mobi": "INACTIVE"
+        },
+        "1573431571": {
+            "s2.video.doubleclick.net": "INACTIVE"
+        },
+        "1573431733": {
+            "fls.doubleclick.net": "INACTIVE"
         }
     }
 }
