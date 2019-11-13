@@ -108,8 +108,7 @@
             "www.admob.sg": "INACTIVE"
         },
         "1570716620": {
-            "ads.appia.com": "INACTIVE",
-            "www.admob.biz": "INACTIVE"
+            "ads.appia.com": "INACTIVE"
         },
         "1570716749": {
             "secure.leadback.advertising.com": "INACTIVE",
@@ -401,8 +400,7 @@
             "adtracker.inmobi.com": "INACTIVE",
             "ba2b687.se": "INACTIVE",
             "p22.atemda.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "www.admob.biz": "INACTIVE"
+            "pixel.redditmedia.com": "INACTIVE"
         },
         "1571098354": {
             "api.adsnative.com": "INACTIVE"
@@ -648,9 +646,6 @@
         },
         "1571311651": {
             "creative.cc-dt.com": "INACTIVE"
-        },
-        "1571311785": {
-            "www.admob.biz": "INACTIVE"
         },
         "1571311786": {
             "www.appfly.mobi": "INACTIVE"
@@ -1691,8 +1686,7 @@
         },
         "1573125565": {
             "ad.adtoma.com": "INACTIVE",
-            "impact.applifier.com": "INACTIVE",
-            "www.admob.biz": "INACTIVE"
+            "impact.applifier.com": "INACTIVE"
         },
         "1573125570": {
             "cdn-01.yumenetworks.com": "INACTIVE"
@@ -1846,6 +1840,12 @@
         },
         "1573431733": {
             "fls.doubleclick.net": "INACTIVE"
+        },
+        "1573604599": {
+            "adclick.g.doubleclick.net": "INACTIVE"
+        },
+        "1573604663": {
+            "dart-apac.l.doubleclick.net": "INACTIVE"
         }
     }
 }
