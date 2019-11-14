@@ -354,8 +354,7 @@
             "www.adrotator.se": "INACTIVE"
         },
         "1570969995": {
-            "js.revsci.net": "INACTIVE",
-            "kona.kontera.com": "INACTIVE"
+            "js.revsci.net": "INACTIVE"
         },
         "1570969997": {
             "ads.yimg.com": "INACTIVE",
@@ -844,9 +843,6 @@
         },
         "1571567408": {
             "api.viglink.com": "INACTIVE"
-        },
-        "1571567409": {
-            "kona.kontera.com": "INACTIVE"
         },
         "1571567423": {
             "router.infolinks.com": "INACTIVE",
@@ -1569,7 +1565,6 @@
         },
         "1572865965": {
             "ad.adtoma.com": "INACTIVE",
-            "kona.kontera.com": "INACTIVE",
             "router.infolinks.com": "INACTIVE"
         },
         "1572865970": {
@@ -1846,6 +1841,12 @@
         },
         "1573604663": {
             "dart-apac.l.doubleclick.net": "INACTIVE"
+        },
+        "1573731887": {
+            "fls.doubleclick.net": "INACTIVE"
+        },
+        "1573731959": {
+            "securepubads.g.doubleclick.net": "INACTIVE"
         }
     }
 }
