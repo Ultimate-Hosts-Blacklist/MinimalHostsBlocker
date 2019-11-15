@@ -938,9 +938,6 @@
         "1571696950": {
             "www.adrotator.se": "INACTIVE"
         },
-        "1571696969": {
-            "a.scorecardresearch.com": "INACTIVE"
-        },
         "1571696979": {
             "ad8.adfarm1.adition.com": "INACTIVE",
             "dart-apac.l.doubleclick.net": "INACTIVE",
@@ -1260,7 +1257,6 @@
             "ko.snstatic.fi": "INACTIVE"
         },
         "1572474356": {
-            "a.scorecardresearch.com": "INACTIVE",
             "ad.linkexchange.com": "INACTIVE"
         },
         "1572474361": {
@@ -1847,6 +1843,9 @@
         },
         "1573731959": {
             "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1573816399": {
+            "adclick.g.doubleclick.net": "INACTIVE"
         }
     }
 }
