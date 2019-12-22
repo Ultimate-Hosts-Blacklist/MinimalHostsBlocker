@@ -147,8 +147,7 @@
             "c.admob.com": "INACTIVE"
         },
         "1570793210": {
-            "openad.tf1.fr": "INACTIVE",
-            "p22.atemda.com": "INACTIVE"
+            "openad.tf1.fr": "INACTIVE"
         },
         "1570793212": {
             "ads.yieldmo.com": "INACTIVE"
@@ -361,7 +360,6 @@
             "ad4.netshelter.net": "INACTIVE",
             "adtracker.inmobi.com": "INACTIVE",
             "ba2b687.se": "INACTIVE",
-            "p22.atemda.com": "INACTIVE",
             "pixel.redditmedia.com": "INACTIVE"
         },
         "1571098354": {
@@ -625,9 +623,6 @@
         "1571316092": {
             "script.tailsweep.com": "INACTIVE"
         },
-        "1571320039": {
-            "p22.atemda.com": "INACTIVE"
-        },
         "1571320040": {
             "ad.omni.se": "INACTIVE",
             "az708531.vo.msecnd.net": "INACTIVE",
@@ -858,7 +853,6 @@
         },
         "1571653392": {
             "mads.at.atwola.com": "INACTIVE",
-            "p22.atemda.com": "INACTIVE",
             "www.herezera.com": "INACTIVE"
         },
         "1571653397": {
@@ -1047,7 +1041,6 @@
             "a.visualrevenue.com": "INACTIVE",
             "m2m1.inner-active.mobi": "INACTIVE",
             "ma.inmobi.com": "INACTIVE",
-            "p22.atemda.com": "INACTIVE",
             "script.tailsweep.com": "INACTIVE"
         },
         "1572221179": {
@@ -1435,9 +1428,6 @@
         },
         "1572865981": {
             "sdt1.corp.inmobi.com": "INACTIVE"
-        },
-        "1572865982": {
-            "p22.atemda.com": "INACTIVE"
         },
         "1572865987": {
             "ko.snstatic.fi": "INACTIVE"
@@ -2048,7 +2038,6 @@
             "cdn.cpsoft86.com": "INACTIVE"
         },
         "1574073993": {
-            "p22.atemda.com": "INACTIVE",
             "www.ad-ch.jp": "INACTIVE"
         },
         "1574073996": {
@@ -6016,6 +6005,193 @@
         },
         "1576884468": {
             "ace.advertising.com": "INACTIVE"
+        },
+        "1576973589": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1576973604": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1576973637": {
+            "www.overture.com": "INACTIVE"
+        },
+        "1576973639": {
+            "www.agomwefq.com": "INACTIVE"
+        },
+        "1576973681": {
+            "www.softonicads.com": "INACTIVE"
+        },
+        "1576973686": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1576973722": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1576973730": {
+            "www.admomi.com": "INACTIVE"
+        },
+        "1576973798": {
+            "kona.kontera.com": "INACTIVE",
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1576973800": {
+            "ba2b687.se": "INACTIVE"
+        },
+        "1576973801": {
+            "www.ad-ch.jp": "INACTIVE"
+        },
+        "1576973802": {
+            "cdn.directtrk.com": "INACTIVE"
+        },
+        "1576973813": {
+            "s.send.microad.jp": "INACTIVE"
+        },
+        "1576973816": {
+            "www.gomotrak.com": "INACTIVE",
+            "www.overture.com": "INACTIVE"
+        },
+        "1576973817": {
+            "www.agomwefq.com": "INACTIVE"
+        },
+        "1576973818": {
+            "cdn.millennialmedia.com": "INACTIVE"
+        },
+        "1576973819": {
+            "cdn.static.zdtag.com": "INACTIVE"
+        },
+        "1576973831": {
+            "origin.collective-media.net": "INACTIVE"
+        },
+        "1576973832": {
+            "www.admomi.com": "INACTIVE"
+        },
+        "1576973854": {
+            "api.gravity.com": "INACTIVE"
+        },
+        "1576973856": {
+            "2912a.v.fwmrm.net": "INACTIVE"
+        },
+        "1576973857": {
+            "ads.cricbuzz.com": "INACTIVE"
+        },
+        "1576973858": {
+            "adb.nikkei.co.jp": "INACTIVE"
+        },
+        "1576973860": {
+            "adv.svd.se": "INACTIVE"
+        },
+        "1576973861": {
+            "ad.kixer.com": "INACTIVE"
+        },
+        "1576973868": {
+            "cdn.mdotm.com": "INACTIVE"
+        },
+        "1576973875": {
+            "web-jp.ad-v.jp": "INACTIVE"
+        },
+        "1576973880": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1576973881": {
+            "assets.kixer.com": "INACTIVE"
+        },
+        "1576973888": {
+            "s.ad131m.com": "INACTIVE"
+        },
+        "1576973889": {
+            "cdn.kixer.com": "INACTIVE"
+        },
+        "1576973891": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1576973893": {
+            "mads.at.atwola.com": "INACTIVE"
+        },
+        "1576973894": {
+            "rma-api.gravity.com": "INACTIVE"
+        },
+        "1576973895": {
+            "ad1.netshelter.net": "INACTIVE",
+            "adservices.picadmedia.com": "INACTIVE"
+        },
+        "1576973896": {
+            "ad.omni.se": "INACTIVE"
+        },
+        "1576973907": {
+            "pixel.redditmedia.com": "INACTIVE",
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1576973912": {
+            "cdn.castplatform.com": "INACTIVE"
+        },
+        "1576973913": {
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1576973914": {
+            "bannerfarm.ace.advertising.com": "INACTIVE"
+        },
+        "1576973919": {
+            "www.admob.cz": "INACTIVE"
+        },
+        "1576973921": {
+            "cache.blogads.com": "INACTIVE",
+            "www.admob.cz": "INACTIVE"
+        },
+        "1576973924": {
+            "js.adsonar.com": "INACTIVE"
+        },
+        "1576973926": {
+            "ad.directrev.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE"
+        },
+        "1576973928": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1576973929": {
+            "advm.svd.se": "INACTIVE"
+        },
+        "1576973940": {
+            "e.admob.com": "INACTIVE"
+        },
+        "1576973941": {
+            "a.jumptap.com": "INACTIVE"
+        },
+        "1576973942": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1576973943": {
+            "ad-ch.jp": "INACTIVE"
+        },
+        "1576973944": {
+            "cdn.merchenta.com": "INACTIVE"
+        },
+        "1576973951": {
+            "austria1.adverserve.net": "INACTIVE"
+        },
+        "1576973952": {
+            "as.ebz.io": "INACTIVE"
+        },
+        "1576973953": {
+            "leadback.advertising.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE"
+        },
+        "1576973966": {
+            "9cf9.v.fwmrm.net": "INACTIVE"
+        },
+        "1576973973": {
+            "de.cisive.net": "INACTIVE"
+        },
+        "1576973980": {
+            "b.grvcdn.com": "INACTIVE"
+        },
+        "1576973987": {
+            "ba2b687.se": "INACTIVE"
+        },
+        "1576973988": {
+            "i.w.sandbox.inmobi.com": "INACTIVE"
+        },
+        "1576973990": {
+            "5be16.v.fwmrm.net": "INACTIVE"
         }
     }
 }
