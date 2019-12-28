@@ -641,7 +641,8 @@
         "cdn.bidvertiser.com",
         "atdmt-a.akamaihd.net",
         "m2m1.inner-active.mobi",
-        "static.2mdn.net"
+        "static.2mdn.net",
+        "videoslots.888.com"
     ],
     "INACTIVE": [
         "www.adrotator.se",
@@ -732,7 +733,11 @@
         "ma.inmobi.com",
         "prm.europacash.com",
         "ad2.netshelter.net",
-        "9cf9.v.fwmrm.net"
+        "9cf9.v.fwmrm.net",
+        "creative.wwwpromoter.com",
+        "i.w.sandbox.inmobi.com",
+        "ad4.netshelter.net",
+        "web-jp.ad-v.jp"
     ],
     "INVALID": [
         "broadcasthost"
