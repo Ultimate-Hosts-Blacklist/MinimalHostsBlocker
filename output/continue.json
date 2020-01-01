@@ -638,7 +638,14 @@
         "ads.flurry.com",
         "tpc.googlesyndication.com",
         "engine2.adzerk.net",
-        "ko.snstatic.fi"
+        "ko.snstatic.fi",
+        "fls.uk.doubleclick.net",
+        "feedads.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "adcel.vrvm.com",
+        "pagead2.googlesyndication.com",
+        "ads.yimg.com",
+        "au-01.adtomafusion.com"
     ],
     "INACTIVE": [
         "ads.heyzap.com",
@@ -726,7 +733,13 @@
         "adv.svd.se",
         "ace.advertising.com",
         "ma.inmobi.com",
-        "max.crwd.io"
+        "max.crwd.io",
+        "a.jumptap.com",
+        "mads.at.atwola.com",
+        "directrev.blob.core.windows.net",
+        "admob.cz",
+        "cdn.millennialmedia.com",
+        "banners.unibet.com"
     ],
     "INVALID": [
         "broadcasthost"
