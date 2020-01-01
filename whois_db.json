@@ -50,8 +50,8 @@
         "state": "future"
     },
     "admob.co.uk": {
-        "epoch": "1577836800",
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "admob.com": {
