@@ -26,8 +26,7 @@
             "banners.unibet.com": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "ctl1.buyt.in": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE"
+            "pixel.redditmedia.com": "INACTIVE"
         },
         "1570674308": {
             "ns1.backbeatmedia.com": "INACTIVE",
@@ -334,8 +333,7 @@
         "1570970133": {
             "a.adnium.com": "INACTIVE",
             "ad.kixer.com": "INACTIVE",
-            "cdn.directrev.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE"
+            "cdn.directrev.com": "INACTIVE"
         },
         "1570970263": {
             "cdn1.media.trafficjunky.net": "INACTIVE"
@@ -659,7 +657,6 @@
         },
         "1571433840": {
             "a.tribalfusion.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE",
             "www.admob.vn": "INACTIVE"
         },
         "1571433850": {
@@ -1596,9 +1593,6 @@
         },
         "1573296861": {
             "ad.linkexchange.com": "INACTIVE"
-        },
-        "1573431571": {
-            "s2.video.doubleclick.net": "INACTIVE"
         },
         "1573431733": {
             "fls.doubleclick.net": "INACTIVE"
@@ -7334,6 +7328,166 @@
         },
         "1578185915": {
             "www.mxpopad.com": "INACTIVE"
+        },
+        "1578358614": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1578358629": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1578358648": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1578358698": {
+            "www.admomi.com": "INACTIVE"
+        },
+        "1578358701": {
+            "www.overture.com": "INACTIVE"
+        },
+        "1578358799": {
+            "www.softonicads.com": "INACTIVE"
+        },
+        "1578358838": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1578358847": {
+            "s.ad131m.com": "INACTIVE"
+        },
+        "1578358851": {
+            "de.cisive.net": "INACTIVE"
+        },
+        "1578358858": {
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1578358860": {
+            "directrev.blob.core.windows.net": "INACTIVE"
+        },
+        "1578358862": {
+            "www.admob.cz": "INACTIVE"
+        },
+        "1578358863": {
+            "cdn2.cpmstar.com": "INACTIVE"
+        },
+        "1578358866": {
+            "mm.chitika.net": "INACTIVE"
+        },
+        "1578358886": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1578358891": {
+            "www.appfly.mobi": "INACTIVE"
+        },
+        "1578358892": {
+            "kona.kontera.com": "INACTIVE"
+        },
+        "1578358897": {
+            "adservices.picadmedia.com": "INACTIVE"
+        },
+        "1578358898": {
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1578358901": {
+            "ba2b687.se": "INACTIVE"
+        },
+        "1578358902": {
+            "ads.cricbuzz.com": "INACTIVE",
+            "api.gravity.com": "INACTIVE"
+        },
+        "1578358905": {
+            "ad.taptica.com": "INACTIVE",
+            "ctl1.buyt.in": "INACTIVE"
+        },
+        "1578358906": {
+            "1app.blob.core.windows.net": "INACTIVE"
+        },
+        "1578358907": {
+            "banners.unibet.com": "INACTIVE"
+        },
+        "1578358908": {
+            "www.mxpopad.com": "INACTIVE"
+        },
+        "1578358915": {
+            "www.mydas.mobi": "INACTIVE"
+        },
+        "1578358946": {
+            "sdt1.corp.inmobi.com": "INACTIVE"
+        },
+        "1578358947": {
+            "ad1.emediate.dk": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE"
+        },
+        "1578358949": {
+            "9cf9.v.fwmrm.net": "INACTIVE"
+        },
+        "1578358950": {
+            "b.grvcdn.com": "INACTIVE"
+        },
+        "1578358951": {
+            "mads.at.atwola.com": "INACTIVE"
+        },
+        "1578358952": {
+            "go.goroost.com": "INACTIVE",
+            "www.softonicads.com": "INACTIVE"
+        },
+        "1578358970": {
+            "cdn.mdotm.com": "INACTIVE"
+        },
+        "1578358971": {
+            "2912a.v.fwmrm.net": "INACTIVE"
+        },
+        "1578358972": {
+            "a.jumptap.com": "INACTIVE"
+        },
+        "1578358995": {
+            "cdn.castplatform.com": "INACTIVE"
+        },
+        "1578358996": {
+            "secure.leadback.advertising.com": "INACTIVE"
+        },
+        "1578358999": {
+            "cdn.merchenta.com": "INACTIVE"
+        },
+        "1578359007": {
+            "www.ad-ch.jp": "INACTIVE"
+        },
+        "1578359013": {
+            "s.send.microad.jp": "INACTIVE"
+        },
+        "1578359014": {
+            "rma-api.gravity.com": "INACTIVE"
+        },
+        "1578359024": {
+            "adv.svd.se": "INACTIVE"
+        },
+        "1578359033": {
+            "www.overture.com": "INACTIVE"
+        },
+        "1578359039": {
+            "pub.mobiright.com": "INACTIVE"
+        },
+        "1578359075": {
+            "www.admob.tk": "INACTIVE"
+        },
+        "1578359082": {
+            "e.admob.com": "INACTIVE"
+        },
+        "1578359085": {
+            "www.ad-ch.jp": "INACTIVE"
+        },
+        "1578359088": {
+            "www.admob.cz": "INACTIVE"
+        },
+        "1578359089": {
+            "ba2b687.se": "INACTIVE"
+        },
+        "1578359094": {
+            "austria1.adverserve.net": "INACTIVE"
+        },
+        "1578359095": {
+            "bannerfarm.ace.advertising.com": "INACTIVE"
+        },
+        "1578359097": {
+            "js.adsonar.com": "INACTIVE"
         }
     }
 }
