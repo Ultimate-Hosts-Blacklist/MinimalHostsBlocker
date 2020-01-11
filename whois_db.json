@@ -325,9 +325,9 @@
         "state": "future"
     },
     "mediaplex.fr": {
-        "epoch": "1578700800",
+        "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mxpopad.com": {
         "epoch": 1584057600,
