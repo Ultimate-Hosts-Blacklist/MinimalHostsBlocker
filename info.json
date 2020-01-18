@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 69,
+            "invalid": 1,
+            "tested": 673,
+            "up": 603
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Fri Jan 17 00:36:22 2020",
     "end_epoch": 1579221382.573765,
-    "last_autosave_datetime": "Fri Jan 17 00:30:08 2020",
-    "last_autosave_epoch": 1579221008.647455,
+    "last_autosave_datetime": "Sat Jan 18 22:51:49 2020",
+    "last_autosave_epoch": 1579387909.601636,
     "name": "MinimalHostsBlocker",
     "previous_stats": {
         "builds": 2,
@@ -20,6 +29,6 @@
         "whitelisted.list": 643
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "Fri Jan 17 00:20:07 2020",
-    "start_epoch": 1579220407.438311
+    "start_datetime": "Sat Jan 18 22:41:45 2020",
+    "start_epoch": 1579387305.173299
 }
