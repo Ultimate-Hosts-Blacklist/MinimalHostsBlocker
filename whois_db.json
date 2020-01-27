@@ -185,9 +185,9 @@
         "state": "future"
     },
     "burstnet.com": {
-        "epoch": "1580083200",
+        "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "buysellads.com": {
         "epoch": "1825113600",
@@ -360,8 +360,8 @@
         "state": "future"
     },
     "overture.com": {
-        "epoch": "1579910400",
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "projectwonderful.com": {
@@ -395,8 +395,8 @@
         "state": "future"
     },
     "smartadserver.fr": {
-        "epoch": "1579996800",
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "softonicads.com": {
