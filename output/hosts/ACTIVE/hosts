@@ -5,6 +5,7 @@
 0.0.0.0 888casino.com
 0.0.0.0 888media.net
 0.0.0.0 888poker.com
+0.0.0.0 a02.korrelate.net
 0.0.0.0 a.adnium.com
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adroll.com
@@ -32,6 +33,7 @@
 0.0.0.0 ad.br.doubleclick.net
 0.0.0.0 ad.ca.doubleclick.net
 0.0.0.0 adcash.com
+0.0.0.0 adcel.vrvm.com
 0.0.0.0 ad.ch.doubleclick.net
 0.0.0.0 ad.cl.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
@@ -63,6 +65,7 @@
 0.0.0.0 ad.leadboltads.net
 0.0.0.0 ad.leadbolt.net
 0.0.0.0 adledge.com
+0.0.0.0 ad.linkexchange.com
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 admaster.heyos.com
 0.0.0.0 admin.appnext.com
@@ -123,6 +126,7 @@
 0.0.0.0 adserver.exoticads.com
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 ads.exoclick.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads.footballaddicts.com
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 adshost2.com
@@ -149,6 +153,7 @@
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.terra.doubleclick.net
+0.0.0.0 ad.th.doubleclick.net
 0.0.0.0 ad.tw.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.us.doubleclick.net
@@ -170,6 +175,7 @@
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.content.ad
 0.0.0.0 api.unthem.com
+0.0.0.0 api.viglink.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 app.brightinfo.com
 0.0.0.0 appfly.mobi
@@ -212,6 +218,7 @@
 0.0.0.0 cdn1.media.trafficjunky.net
 0.0.0.0 cdn1.reporo.net
 0.0.0.0 cdn1.rhtag.com
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.reporo.net
 0.0.0.0 cdn3.doubleverify.com
@@ -301,6 +308,7 @@
 0.0.0.0 etarg.ru
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 eu2.madsone.com
+0.0.0.0 exchange.nativeads.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
@@ -369,6 +377,7 @@
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.admob.com
+0.0.0.0 mads.advertising.com
 0.0.0.0 marketing.888.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 m.doubleclick.net
@@ -383,6 +392,7 @@
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 modmyi.us.intellitxt.com
 0.0.0.0 motifcdn2.doubleclick.net
+0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 mresell.macworld.co.uk
 0.0.0.0 m.servebom.com
 0.0.0.0 mv.ad.naver.com
@@ -402,11 +412,13 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 onceux.unicornmedia.com
 0.0.0.0 onclickads.net
+0.0.0.0 openad.tf1.fr
 0.0.0.0 outbrain.com
 0.0.0.0 out.popads.net
 0.0.0.0 overture.com
 0.0.0.0 p22.atemda.com
 0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
@@ -498,6 +510,7 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tqlkg.com
 0.0.0.0 track.adform.net
+0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 track.lfstmedia.com
 0.0.0.0 track.netshelter.net
 0.0.0.0 traffic.outbrain.com
@@ -507,14 +520,17 @@
 0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 veoxa.com
+0.0.0.0 videoslots.888.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 wd.sharethis.com
 0.0.0.0 web.adblade.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.progrids.com
 0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww400.smartadserver.fr
 0.0.0.0 ww84.smartadserver.com

@@ -622,7 +622,23 @@
         "adclick.g.doubleclick.net",
         "cdn.adnxs.com",
         "i.w.inmobi.com",
-        "cdn-01.yumenetworks.com"
+        "cdn-01.yumenetworks.com",
+        "mads.advertising.com",
+        "widgets.progrids.com",
+        "exchange.nativeads.com",
+        "cdn1.smartadserver.com",
+        "pagead2.googlesyndication.com",
+        "ads.flurry.com",
+        "motifcdn.doubleclick.net",
+        "ad.th.doubleclick.net",
+        "adcel.vrvm.com",
+        "tracking.trafficjunky.net",
+        "a02.korrelate.net",
+        "openad.tf1.fr",
+        "api.viglink.com",
+        "wv.inner-active.mobi",
+        "ad.linkexchange.com",
+        "videoslots.888.com"
     ],
     "INACTIVE": [
         "www.appfly.mobi",
@@ -706,7 +722,22 @@
         "pub.mobiright.com",
         "a.jumptap.com",
         "b.grvcdn.com",
-        "cdn.static.zdtag.com"
+        "cdn.static.zdtag.com",
+        "prm.europacash.com",
+        "adtgs.adk2x.com",
+        "cache.blogads.com",
+        "ctl1.buyt.in",
+        "advm.svd.se",
+        "ad.directrev.com",
+        "adnxs.revsci.net",
+        "ad.omni.se",
+        "i.ad-v.jp",
+        "cdn.directrev.com",
+        "e2.emediate.se",
+        "ad3.netshelter.net",
+        "go.goroost.com",
+        "i.w.sandbox.inmobi.com",
+        "ma.inmobi.com"
     ],
     "INVALID": [
         "broadcasthost"
