@@ -106,6 +106,7 @@
 0.0.0.0 ad.ro.doubleclick.net
 0.0.0.0 adrotator.se
 0.0.0.0 ad.rs.doubleclick.net
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.addynamix.com
 0.0.0.0 ads.admarvel.com
@@ -148,6 +149,7 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 adsx.greystripe.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.terra.doubleclick.net
@@ -160,6 +162,7 @@
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 adzerk.net
+0.0.0.0 affiliate.2mdn.net
 0.0.0.0 a.goember.com
 0.0.0.0 agomwefq.com
 0.0.0.0 ah.yimg.jp
@@ -188,6 +191,7 @@
 0.0.0.0 avnads.com
 0.0.0.0 awltovhc.com
 0.0.0.0 az708531.vo.msecnd.net
+0.0.0.0 banners.proboards.com
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdv.bidvertiser.com
@@ -204,6 +208,7 @@
 0.0.0.0 c1.nend.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
+0.0.0.0 c.admob.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 c.betrad.com
@@ -212,6 +217,7 @@
 0.0.0.0 cdn1.media.trafficjunky.net
 0.0.0.0 cdn1.reporo.net
 0.0.0.0 cdn1.rhtag.com
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.reporo.net
 0.0.0.0 cdn3.doubleverify.com
@@ -230,10 +236,13 @@
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.flashtalking.com
+0.0.0.0 cdn.hgdat.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 cdn.mediative.ca
+0.0.0.0 cdn.mobicow.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.viglink.com
@@ -249,6 +258,7 @@
 0.0.0.0 clktag.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 coinurl.com
+0.0.0.0 connect.decknetwork.net
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 contextual.media.net
 0.0.0.0 cre.adjust-net.jp
@@ -297,11 +307,13 @@
 0.0.0.0 etarg.ru
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 eu2.madsone.com
+0.0.0.0 exchange.nativeads.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 fresh8.co
 0.0.0.0 fusion.di.se
@@ -342,6 +354,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 i.t.webtracker.jp
 0.0.0.0 iv.doubleclick.net
+0.0.0.0 i.w.inmobi.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 japan.inmobi.com
@@ -359,7 +372,10 @@
 0.0.0.0 localhost
 0.0.0.0 log.outbrain.com
 0.0.0.0 m1.2mdn.net
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 m.2mdn.net
 0.0.0.0 m.admob.com
+0.0.0.0 mads.advertising.com
 0.0.0.0 marketing.888.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 m.doubleclick.net
@@ -371,6 +387,7 @@
 0.0.0.0 mobile.adnxs.com
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.smartadserver.com
+0.0.0.0 modmyi.us.intellitxt.com
 0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 mresell.macworld.co.uk
 0.0.0.0 m.servebom.com
@@ -378,6 +395,7 @@
 0.0.0.0 mxpopad.com
 0.0.0.0 mydas.mobi
 0.0.0.0 my.hellobar.com
+0.0.0.0 my.mobfox.com
 0.0.0.0 n4052ad.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
 0.0.0.0 n4403ad.doubleclick.net
@@ -397,6 +415,8 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead.l.google.com
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.swoop.com
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pixel.adsafeprotected.com
@@ -471,6 +491,7 @@
 0.0.0.0 strikeadcdn.s3.amazonaws.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 s.zkcdn.net
+0.0.0.0 tag.contextweb.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap.rubiconproject.com
@@ -483,12 +504,14 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tqlkg.com
 0.0.0.0 track.adform.net
+0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 track.lfstmedia.com
 0.0.0.0 track.netshelter.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 traffic.trafficposse.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
+0.0.0.0 uac.advertising.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 veoxa.com
 0.0.0.0 videoslots.888.com
@@ -496,10 +519,12 @@
 0.0.0.0 wd.sharethis.com
 0.0.0.0 web.adblade.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.progrids.com
 0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww400.smartadserver.fr
 0.0.0.0 ww84.smartadserver.com
