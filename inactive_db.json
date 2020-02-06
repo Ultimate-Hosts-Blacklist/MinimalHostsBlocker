@@ -391,9 +391,6 @@
             "modmyi.us.intellitxt.com": "INACTIVE",
             "video-stats.video.google.com": "INACTIVE"
         },
-        "1571103513": {
-            "bb.crwdcntrl.net": "INACTIVE"
-        },
         "1571107079": {
             "ads.flurry.com": "INACTIVE",
             "engine.adzerk.net": "INACTIVE",
@@ -756,9 +753,6 @@
         "1571653339": {
             "a.visualrevenue.com": "INACTIVE"
         },
-        "1571653345": {
-            "bb.crwdcntrl.net": "INACTIVE"
-        },
         "1571653353": {
             "www.admob.tk": "INACTIVE"
         },
@@ -927,7 +921,6 @@
             "i.tapit.com": "INACTIVE"
         },
         "1572046669": {
-            "bb.crwdcntrl.net": "INACTIVE",
             "cache.blogads.com": "INACTIVE"
         },
         "1572046670": {
@@ -1004,9 +997,6 @@
         "1572392602": {
             "fls.uk.doubleclick.net": "INACTIVE",
             "tags.bkrtx.com": "INACTIVE"
-        },
-        "1572392607": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1572392608": {
             "mads.advertising.com": "INACTIVE",
@@ -1163,9 +1153,6 @@
             "gomotrak.com": "INACTIVE",
             "m1.2mdn.net": "INACTIVE",
             "www.mydas.mobi": "INACTIVE"
-        },
-        "1572652208": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1572652209": {
             "videoslots.888.com": "INACTIVE"
@@ -1391,9 +1378,6 @@
         "1573125577": {
             "secure.leadback.advertising.com": "INACTIVE"
         },
-        "1573125582": {
-            "bb.crwdcntrl.net": "INACTIVE"
-        },
         "1573125583": {
             "cdn.merchenta.com": "INACTIVE",
             "uac.advertising.com": "INACTIVE"
@@ -1420,9 +1404,6 @@
         },
         "1573256953": {
             "impact.applifier.com": "INACTIVE"
-        },
-        "1573256957": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1573256963": {
             "de.cisive.net": "INACTIVE"
@@ -1545,9 +1526,6 @@
             "adtracker.inmobi.com": "INACTIVE",
             "fls-na.amazon.com": "INACTIVE",
             "gomotrak.com": "INACTIVE"
-        },
-        "1573950067": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1573950075": {
             "5be16.v.fwmrm.net": "INACTIVE",
@@ -1860,9 +1838,6 @@
         "1574074009": {
             "www.ad-ch.jp": "INACTIVE"
         },
-        "1574074015": {
-            "bb.crwdcntrl.net": "INACTIVE"
-        },
         "1574074018": {
             "www.appfly.mobi": "INACTIVE"
         },
@@ -2044,7 +2019,6 @@
             "s.ad131m.com": "INACTIVE"
         },
         "1574161533": {
-            "bb.crwdcntrl.net": "INACTIVE",
             "servedby2.advertising.com": "INACTIVE"
         },
         "1574161534": {
@@ -2234,9 +2208,6 @@
         },
         "1574295580": {
             "www.terrapops.com": "INACTIVE"
-        },
-        "1574295585": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1574295591": {
             "ad.linkexchange.com": "INACTIVE"
@@ -2449,9 +2420,6 @@
         },
         "1574334670": {
             "servedby2.advertising.com": "INACTIVE"
-        },
-        "1574334675": {
-            "bb.crwdcntrl.net": "INACTIVE"
         },
         "1574334680": {
             "ctxt.tribalfusion.com": "INACTIVE"
@@ -9721,6 +9689,27 @@
         },
         "1580952122": {
             "adv.svd.se": "INACTIVE"
+        },
+        "1580955144": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1580955148": {
+            "adtracker.inmobi.com": "INACTIVE"
+        },
+        "1580955149": {
+            "www.gomotrak.com": "INACTIVE"
+        },
+        "1580955155": {
+            "1app.blob.core.windows.net": "INACTIVE"
+        },
+        "1580955160": {
+            "www.admob.cz": "INACTIVE"
+        },
+        "1580955178": {
+            "e2.emediate.se": "INACTIVE"
+        },
+        "1580955185": {
+            "admob.cz": "INACTIVE"
         }
     }
 }

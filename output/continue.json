@@ -630,7 +630,11 @@
         "tpc.googlesyndication.com",
         "mv.ad.naver.com",
         "video-stats.video.google.com",
-        "motifcdn.doubleclick.net"
+        "motifcdn.doubleclick.net",
+        "m.2mdn.net",
+        "admaster.heyos.com",
+        "banners.proboards.com",
+        "bb.crwdcntrl.net"
     ],
     "INACTIVE": [
         "www.softonicads.com",
@@ -724,7 +728,16 @@
         "servedby2.advertising.com",
         "cdn.static.zdtag.com",
         "web-jp.ad-v.jp",
-        "adv.svd.se"
+        "adv.svd.se",
+        "ad1.emediate.dk",
+        "i.tapit.com",
+        "ads.mocean.mobi",
+        "adtracker.inmobi.com",
+        "1app.blob.core.windows.net",
+        "ace.advertising.com",
+        "e2.emediate.se",
+        "assets.kixer.com",
+        "kona.kontera.com"
     ],
     "INVALID": [
         "broadcasthost"
