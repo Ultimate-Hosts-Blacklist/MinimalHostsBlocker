@@ -4,6 +4,7 @@
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 2912a.v.fwmrm.net
 0.0.0.0 5be16.v.fwmrm.net
+0.0.0.0 9cf9.v.fwmrm.net
 0.0.0.0 ace.advertising.com
 0.0.0.0 ad1.emediate.dk
 0.0.0.0 ad1.netshelter.net
@@ -19,6 +20,7 @@
 0.0.0.0 ad.omni.se
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 adservices.picadmedia.com
+0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.mocean.mobi
 0.0.0.0 ad.taptica.com
 0.0.0.0 adtgs.adk2x.com
@@ -28,6 +30,7 @@
 0.0.0.0 a.jumptap.com
 0.0.0.0 api.gravity.com
 0.0.0.0 as.ebz.io
+0.0.0.0 assets.kixer.com
 0.0.0.0 austria1.adverserve.net
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 ba2b687.se
@@ -38,6 +41,7 @@
 0.0.0.0 cdn2.cpmstar.com
 0.0.0.0 cdn.castplatform.com
 0.0.0.0 cdn.cpsoft86.com
+0.0.0.0 cdn.directrev.com
 0.0.0.0 cdn.directtrk.com
 0.0.0.0 cdn.kixer.com
 0.0.0.0 cdn.mdotm.com
@@ -55,6 +59,7 @@
 0.0.0.0 gomotrak.com
 0.0.0.0 i.ad-v.jp
 0.0.0.0 img.adinte.jp
+0.0.0.0 i.tapit.com
 0.0.0.0 i.w.sandbox.inmobi.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.revsci.net
@@ -71,6 +76,8 @@
 0.0.0.0 pds.directrev.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pq-direct.revsci.net
+0.0.0.0 prm.europacash.com
+0.0.0.0 pub.mobiright.com
 0.0.0.0 rma-api.gravity.com
 0.0.0.0 s.ad131m.com
 0.0.0.0 sdt1.corp.inmobi.com

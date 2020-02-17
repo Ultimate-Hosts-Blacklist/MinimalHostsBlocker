@@ -636,7 +636,8 @@
         "adv.aftonbladet.se",
         "tpc.googlesyndication.com",
         "mv.ad.naver.com",
-        "engine.adzerk.net"
+        "engine.adzerk.net",
+        "i.w.inmobi.com"
     ],
     "INACTIVE": [
         "www.overture.com",
@@ -729,7 +730,14 @@
         "ox-d.wuv.servedbyopenx.com",
         "ns2.backbeatmedia.com",
         "leadback.advertising.com",
-        "b.grvcdn.com"
+        "b.grvcdn.com",
+        "cdn.directrev.com",
+        "prm.europacash.com",
+        "assets.kixer.com",
+        "i.tapit.com",
+        "9cf9.v.fwmrm.net",
+        "ads.heyzap.com",
+        "pub.mobiright.com"
     ],
     "INVALID": [
         "broadcasthost"
