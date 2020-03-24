@@ -157,7 +157,7 @@
     "appfly.mobi": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "appnexus.com": {
         "epoch": 1599782400.0,
