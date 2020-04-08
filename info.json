@@ -6,6 +6,8 @@
     "last_autosave_datetime": "2020-03-04T11:20:32.642296",
     "last_autosave_epoch": 1582677906.809471,
     "name": "MinimalHostsBlocker",
+    "link": "https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
+    "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
     "previous_stats": {
         "builds": 1,
         "clean_list": 644,
