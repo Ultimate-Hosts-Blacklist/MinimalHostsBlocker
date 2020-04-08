@@ -3,14 +3,14 @@
     "days_until_next_test": 1,
     "end_datetime": "2020-03-04T11:20:32.642280",
     "end_epoch": 1583235247.781625,
+    "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
     "last_autosave_datetime": "2020-03-04T11:20:32.642296",
     "last_autosave_epoch": 1582677906.809471,
-    "name": "MinimalHostsBlocker",
     "link": "https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
+    "name": "MinimalHostsBlocker",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 644,
+        "clean_list": 643,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 714,
-        "volatile.list": 642,
-        "whitelisted.list": 642
+        "volatile.list": 641,
+        "whitelisted.list": 641
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "2020-04-07T01:52:56.982816",
-    "start_epoch": 1586224376.982816
+    "start_datetime": "2020-04-08T13:20:16.718119",
+    "start_epoch": 1586352016.718119
 }
