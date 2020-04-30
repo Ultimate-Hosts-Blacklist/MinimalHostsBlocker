@@ -20,11 +20,11 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 714,
+        "domains.list": 642,
         "volatile.list": 641,
         "whitelisted.list": 641
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "2020-04-21T02:04:49.153241",
-    "start_epoch": 1587434689.153241
+    "start_datetime": "2020-04-30T17:26:21.436740",
+    "start_epoch": 1588267581.43674
 }
