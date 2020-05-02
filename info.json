@@ -10,7 +10,7 @@
     "name": "MinimalHostsBlocker",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 642,
+        "clean_list": 641,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 642,
-        "volatile.list": 641,
-        "whitelisted.list": 641
+        "volatile.list": 640,
+        "whitelisted.list": 640
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "2020-04-30T17:26:21.436740",
-    "start_epoch": 1588267581.43674
+    "start_datetime": "2020-05-02T02:35:06.591399",
+    "start_epoch": 1588386906.591399
 }
