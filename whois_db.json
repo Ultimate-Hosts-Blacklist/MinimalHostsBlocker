@@ -342,7 +342,7 @@
     "novadune.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nyyed.com": {
         "epoch": 1611100800.0,
