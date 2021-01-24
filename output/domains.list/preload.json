@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "4d1fb0bf9283a2aa4d6f5c770bd474ed851ea8145920f1ea2e51ced1",
+    "line_number": 1457,
+    "output_dir": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/output/domains.list",
+    "previous_hash": "4d1fb0bf9283a2aa4d6f5c770bd474ed851ea8145920f1ea2e51ced1",
+    "rel_source": "domains.list",
+    "session_id": "449b6ed163eb2f4f496d8f9d",
+    "source": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
+    "subject": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
