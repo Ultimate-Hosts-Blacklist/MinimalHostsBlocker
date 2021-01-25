@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 1,
-    "end_datetime": "2021-01-24T13:37:37.404063",
-    "end_epoch": 1611495457.404063,
+    "end_datetime": "2021-01-25T02:21:49.443211",
+    "end_epoch": 1611541309.443211,
     "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
     "link": "https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
     "name": "MinimalHostsBlocker",
