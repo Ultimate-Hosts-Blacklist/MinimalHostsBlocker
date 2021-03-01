@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "bda421e8c7f012c7798bd2916fd4aae2b583e20dc7e86d499705a386",
+    "hash": "8adacb2f7dca07d7cf1192aa0d1474105772be12cd79b1fdf44dbbd5",
     "line_number": 1457,
-    "output_dir": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/output/domains.list",
-    "previous_hash": "bda421e8c7f012c7798bd2916fd4aae2b583e20dc7e86d499705a386",
-    "rel_source": "domains.list",
-    "session_id": "d96f6c50899b869b31673c74",
-    "source": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
-    "subject": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/klist_MinimalHostsBlocker_master/output/domains.list",
+    "previous_hash": "8adacb2f7dca07d7cf1192aa0d1474105772be12cd79b1fdf44dbbd5",
+    "session_id": "3cd66f552ab4898eff48d84e",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
