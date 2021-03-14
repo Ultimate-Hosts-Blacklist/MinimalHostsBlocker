@@ -634,21 +634,21 @@
 0 yieldmanager.com
 0 yllix.com
 ::1
-0 1app.blob.core.windows.net
 1app.blob.core.windows.net
+0 1app.blob.core.windows.net
 ::1 localhost
-0 5be16.v.fwmrm.net
 5be16.v.fwmrm.net
-0 9cf9.v.fwmrm.net
+0 5be16.v.fwmrm.net
 9cf9.v.fwmrm.net
+0 9cf9.v.fwmrm.net
 127.0.0.1
 127.0.0.1 localhost
 255.255.255.255
 255.255.255.255 broadcasthost
 0 888casino.com
 888casino.com
-888media.net
 0 888media.net
+888media.net
 888poker.com
 0 2912a.v.fwmrm.net
 2912a.v.fwmrm.net
@@ -759,49 +759,49 @@ adm.shinobi.jp
 admarvel.s3.amazonaws.com
 admaster.heyos.com
 admin.appnext.com
-admob.biz
 :: admob.biz
+admob.biz
 admob.co.kr
 :: admob.co.kr
-:: admob.co.nz
 admob.co.nz
-admob.co.uk
+:: admob.co.nz
 :: admob.co.uk
+admob.co.uk
 admob.com
 :: admob.com
 admob.cz
-admob.de
 :: admob.de
-admob.dk
+admob.de
 :: admob.dk
+admob.dk
 admob.es
 :: admob.es
 admob.eu
-admob.fi
 :: admob.fi
+admob.fi
 :: admob.fr
 admob.fr
-:: admob.gr
 admob.gr
+:: admob.gr
 :: admob.it
 admob.it
-:: admob.jp
 admob.jp
-admob.kr
+:: admob.jp
 :: admob.kr
-:: admob.mobi
+admob.kr
 admob.mobi
-:: admob.no
+:: admob.mobi
 admob.no
+:: admob.no
 :: admob.pt
 admob.pt
-admob.sg
 :: admob.sg
+admob.sg
 admob.tk
-:: admob.tw
 admob.tw
-admob.vn
+:: admob.tw
 :: admob.vn
+admob.vn
 admomi.com
 adn.ebay.com
 adnxs.com
@@ -842,10 +842,10 @@ ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
 ads.yieldmo.com
-ads.yimg.com
 :: ads.yimg.com
-ads.youtube.com
+ads.yimg.com
 :: ads.youtube.com
+ads.youtube.com
 adsafeprotected.com
 ads-by.madadsmedia.com
 ads-by.yieldselect.com
@@ -874,8 +874,8 @@ ah.yimg.jp
 aka-cdn-ns.adtechus.com
 :: aka-cdn-ns.adtechus.com
 amung.us
-:: an.yandex.ru
 an.yandex.ru
+:: an.yandex.ru
 ap.lijit.com
 api9.net
 api.adsnative.com
@@ -889,10 +889,10 @@ applab-sdk.amazon.com
 appnexus.com
 as.chango.com
 as.ebz.io
-:: assets.applovin.com
 assets.applovin.com
-:: assets.kixer.com
+:: assets.applovin.com
 assets.kixer.com
+:: assets.kixer.com
 at.atwola.com
 atdmt-a.akamaihd.net
 au-01.adtomafusion.com
@@ -978,8 +978,8 @@ cdn.millennialmedia.com
 cdn.mobicow.com
 cdn.mxpnl.com
 cdn.popcash.net
-cdn.pubexchange.com
 :: cdn.pubexchange.com
+cdn.pubexchange.com
 cdn.pubnative.net
 cdn.static.zdtag.com
 cdn.viglink.com
@@ -1019,8 +1019,8 @@ delivery.switchadhub.com
 delivery.trafficjunky.net
 delivery.us.myswitchads.com
 dev.visualwebsiteoptimizer.com
-:: dfp.doubleclick.net
 dfp.doubleclick.net
+:: dfp.doubleclick.net
 directrev.blob.core.windows.net
 disqusads.com
 doubleclick.com
@@ -1133,10 +1133,10 @@ log.outbrain.com
 m1.2mdn.net
 :: m1.2mdn.net
 m2m1.inner-active.mobi
-:: m.2mdn.net
 m.2mdn.net
-m.admob.com
+:: m.2mdn.net
 :: m.admob.com
+m.admob.com
 m.doubleclick.net
 :: m.doubleclick.net
 m.servebom.com
@@ -1208,8 +1208,8 @@ pt.trafficjunky.net
 pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
-:: q1mediahydraplatform.com
 q1mediahydraplatform.com
+:: q1mediahydraplatform.com
 quantserve.com
 r.edge.inmobicdn.net
 r.w.inmobi.com
@@ -1227,13 +1227,13 @@ router.infolinks.com
 royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
-s0.doubleclick.net
 :: s0.doubleclick.net
-:: s1.2mdn.net
+s0.doubleclick.net
 s1.2mdn.net
+:: s1.2mdn.net
 s2.adform.net
-s2.video.doubleclick.net
 :: s2.video.doubleclick.net
+s2.video.doubleclick.net
 s3.buysellads.com
 s.ad131m.com
 s.amazon-adsystem.com
@@ -1276,17 +1276,17 @@ static.adzerk.net
 :: static.doubleclick.net
 static.doubleclick.net
 static.emsservice.de
-:: static.exoclick.com
 static.exoclick.com
+:: static.exoclick.com
 static.fmpub.net
-:: static.getclicky.com
 static.getclicky.com
+:: static.getclicky.com
 static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
-:: stats.g.doubleclick.net
 stats.g.doubleclick.net
+:: stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
 t.neodatagroup.com
@@ -1307,16 +1307,16 @@ track.lfstmedia.com
 track.netshelter.net
 tracking.trafficjunky.net
 traffic.outbrain.com
-traffic.trafficposse.com
 :: traffic.trafficposse.com
+traffic.trafficposse.com
 trc.taboola.com
 trends.revcontent.com
 uac.advertising.com
 uedata.amazon.com
 veoxa.com
 videoslots.888.com
-:: video-stats.video.google.com
 video-stats.video.google.com
+:: video-stats.video.google.com
 w.inmobi.com
 w.sharethis.com
 wd.sharethis.com
@@ -1403,8 +1403,8 @@ www.doubleclick.com
 :: www.doubleclick.com
 www.doubleclick.de
 www.doubleclick.ne.jp
-:: www.doubleclick.net
 www.doubleclick.net
+:: www.doubleclick.net
 www.dpbolvw.net
 www.ebdr3.com
 www.eclkmpbn.com
