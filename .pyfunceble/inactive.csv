@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-03-24 12:51:15.709244
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-03-24 12:55:12.310441
-m.servebom.com,AVAILABILITY,domains.list,2021-03-24 12:57:56.567091
-openad.tf1.fr,AVAILABILITY,domains.list,2021-03-24 12:59:16.019691
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-03-24 12:59:42.633824
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-03-24 13:00:28.011210
-track.netshelter.net,AVAILABILITY,domains.list,2021-03-24 13:01:52.319084
 ads.saymedia.com,AVAILABILITY,domains.list,2021-03-25 01:20:06.478070
 adtgs.adk2x.com,AVAILABILITY,domains.list,2021-03-25 01:20:16.574254
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-03-25 01:22:39.040793
@@ -117,3 +110,7 @@ www.overture.com,AVAILABILITY,domains.list,2021-03-25 01:30:23.254659
 www.mydas.mobi,AVAILABILITY,domains.list,2021-03-25 01:30:23.999750
 www.gomotrak.com,AVAILABILITY,domains.list,2021-03-25 01:30:24.501161
 js.adsonar.com,AVAILABILITY,domains.list,2021-03-25 01:30:35.110353
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-03-25 13:23:11.274162
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-03-25 13:23:35.727592
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-03-25 13:28:21.945317
+m.servebom.com,AVAILABILITY,domains.list,2021-03-25 13:28:23.307697
