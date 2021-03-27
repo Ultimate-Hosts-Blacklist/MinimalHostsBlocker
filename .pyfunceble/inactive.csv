@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-js.revsci.net,AVAILABILITY,domains.list,2021-03-26 01:11:18.766498
-pub.clicksor.net,AVAILABILITY,domains.list,2021-03-26 01:13:02.548044
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-03-26 12:49:06.971063
 openad.tf1.fr,AVAILABILITY,domains.list,2021-03-26 12:50:12.814559
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-03-26 12:50:22.237073
@@ -118,3 +116,6 @@ motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-03-27 01:12:20.596525
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-03-27 01:12:32.263692
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-03-27 01:12:33.135296
 m.servebom.com,AVAILABILITY,domains.list,2021-03-27 01:12:33.756895
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-03-27 12:44:53.952958
+req.startappservice.com,AVAILABILITY,domains.list,2021-03-27 12:46:19.381798
+pub.clicksor.net,AVAILABILITY,domains.list,2021-03-27 12:47:16.625356
