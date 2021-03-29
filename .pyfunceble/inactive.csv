@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-03-27 12:44:53.952958
-req.startappservice.com,AVAILABILITY,domains.list,2021-03-27 12:46:19.381798
-pub.clicksor.net,AVAILABILITY,domains.list,2021-03-27 12:47:16.625356
 js.revsci.net,AVAILABILITY,domains.list,2021-03-28 01:14:43.685908
 track.netshelter.net,AVAILABILITY,domains.list,2021-03-28 01:15:30.413619
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-03-28 01:15:57.321595
@@ -119,3 +116,7 @@ ads.cleveland.com,AVAILABILITY,domains.list,2021-03-28 12:44:32.400108
 ads.saymedia.com,AVAILABILITY,domains.list,2021-03-28 12:44:38.872202
 openad.tf1.fr,AVAILABILITY,domains.list,2021-03-28 12:46:20.273871
 srv.buysellads.com,AVAILABILITY,domains.list,2021-03-28 12:46:58.465615
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-03-29 01:13:29.311826
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-03-29 01:14:04.960965
+m.servebom.com,AVAILABILITY,domains.list,2021-03-29 01:14:33.345332
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-03-29 01:14:40.112618
