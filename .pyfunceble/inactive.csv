@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.adtoma.com,AVAILABILITY,domains.list,2021-03-30 12:45:05.158321
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-03-30 12:51:57.989561
-openad.tf1.fr,AVAILABILITY,domains.list,2021-03-30 12:52:26.616750
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-03-30 12:55:28.619327
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-03-30 12:55:29.988531
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-03-31 01:14:15.014285
-m.servebom.com,AVAILABILITY,domains.list,2021-03-31 01:14:38.855216
 0,AVAILABILITY,domains.list,2021-03-31 01:15:43.521066
 test.adpooh.com,AVAILABILITY,domains.list,2021-03-31 01:15:44.080285
 terrapops.com,AVAILABILITY,domains.list,2021-03-31 01:15:44.540305
@@ -119,3 +112,8 @@ track.netshelter.net,AVAILABILITY,domains.list,2021-03-31 01:18:31.698578
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-03-31 12:42:31.863820
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-03-31 12:49:03.408972
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-03-31 12:49:44.706500
+ads.cleveland.com,AVAILABILITY,domains.list,2021-04-01 01:18:13.044531
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-01 01:19:38.678788
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-01 01:25:17.471969
+ad.adtoma.com,AVAILABILITY,domains.list,2021-04-01 01:29:08.479246
+m.servebom.com,AVAILABILITY,domains.list,2021-04-01 01:29:16.826277
