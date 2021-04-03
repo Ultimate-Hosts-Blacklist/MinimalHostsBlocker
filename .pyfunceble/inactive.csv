@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-02 01:20:56.475198
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-02 01:21:11.047356
-openad.tf1.fr,AVAILABILITY,domains.list,2021-04-02 01:25:27.292093
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-02 01:25:51.835679
-pub.clicksor.net,AVAILABILITY,domains.list,2021-04-02 01:25:53.683493
-rss.buysellads.com,AVAILABILITY,domains.list,2021-04-02 01:26:18.006695
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-02 12:47:19.137165
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-02 12:50:51.737083
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-02 12:52:53.132756
@@ -119,3 +113,10 @@ www.mydas.mobi,AVAILABILITY,domains.list,2021-04-03 01:18:06.944503
 www.gomotrak.com,AVAILABILITY,domains.list,2021-04-03 01:18:07.411586
 js.adsonar.com,AVAILABILITY,domains.list,2021-04-03 01:18:18.078697
 js.revsci.net,AVAILABILITY,domains.list,2021-04-03 01:18:18.786103
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-03 12:48:26.801976
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-03 12:53:04.830732
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-03 12:53:51.540658
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-03 12:56:34.891546
+openad.tf1.fr,AVAILABILITY,domains.list,2021-04-03 12:56:41.360088
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-03 12:56:41.857548
+pub.clicksor.net,AVAILABILITY,domains.list,2021-04-03 12:56:48.132407
