@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-02 12:47:19.137165
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-02 12:50:51.737083
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-02 12:52:53.132756
-track.netshelter.net,AVAILABILITY,domains.list,2021-04-02 12:55:16.810177
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-02 12:56:54.113483
-ad.adtoma.com,AVAILABILITY,domains.list,2021-04-02 12:57:18.752368
 ads.cleveland.com,AVAILABILITY,domains.list,2021-04-03 01:13:33.053710
 ads.saymedia.com,AVAILABILITY,domains.list,2021-04-03 01:13:40.343417
 0,AVAILABILITY,domains.list,2021-04-03 01:16:00.365053
@@ -120,3 +114,8 @@ bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-03 12:56:34.891546
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-03 12:56:41.360088
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-03 12:56:41.857548
 pub.clicksor.net,AVAILABILITY,domains.list,2021-04-03 12:56:48.132407
+m.servebom.com,AVAILABILITY,domains.list,2021-04-04 01:14:39.545257
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-04 01:15:35.617643
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-04 01:15:36.242393
+track.netshelter.net,AVAILABILITY,domains.list,2021-04-04 01:15:37.222522
+ad.adtoma.com,AVAILABILITY,domains.list,2021-04-04 01:15:50.402881
