@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-05 12:57:23.876014
-m.servebom.com,AVAILABILITY,domains.list,2021-04-05 13:00:07.947932
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-05 13:00:08.852061
-ad.adtoma.com,AVAILABILITY,domains.list,2021-04-05 13:00:36.275813
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-06 01:18:06.463605
 track.netshelter.net,AVAILABILITY,domains.list,2021-04-06 01:25:04.052637
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-06 01:26:13.590332
@@ -120,3 +116,6 @@ ads.saymedia.com,AVAILABILITY,domains.list,2021-04-06 12:44:07.193823
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-06 12:44:14.325376
 js.revsci.net,AVAILABILITY,domains.list,2021-04-06 12:45:50.479418
 rss.buysellads.com,AVAILABILITY,domains.list,2021-04-06 12:46:32.853602
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-07 01:20:34.059344
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-07 01:23:43.333155
+m.servebom.com,AVAILABILITY,domains.list,2021-04-07 01:23:44.152961
