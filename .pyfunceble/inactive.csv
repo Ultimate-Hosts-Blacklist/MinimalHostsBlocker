@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-09 12:44:16.592133
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-09 12:50:38.680687
-ads.cleveland.com,AVAILABILITY,domains.list,2021-04-09 12:53:43.686688
-track.netshelter.net,AVAILABILITY,domains.list,2021-04-09 12:53:44.752282
 ads.saymedia.com,AVAILABILITY,domains.list,2021-04-10 01:16:02.002383
 pub.clicksor.net,AVAILABILITY,domains.list,2021-04-10 01:17:34.649823
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-10 01:18:25.635924
@@ -116,3 +112,6 @@ www.mydas.mobi,AVAILABILITY,domains.list,2021-04-10 01:20:50.607195
 www.gomotrak.com,AVAILABILITY,domains.list,2021-04-10 01:20:51.163312
 js.adsonar.com,AVAILABILITY,domains.list,2021-04-10 01:20:57.794433
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-10 12:40:43.425579
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-11 01:17:01.493111
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-11 01:18:01.116245
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-11 01:19:29.178714
