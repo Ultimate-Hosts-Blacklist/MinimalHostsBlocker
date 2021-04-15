@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-14 01:14:00.944762
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-14 01:15:39.085590
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-14 12:47:34.210579
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-14 12:51:39.649311
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-14 12:51:54.942971
@@ -120,3 +118,4 @@ ads.saymedia.com,AVAILABILITY,domains.list,2021-04-15 01:14:42.681457
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-15 01:15:12.306580
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-15 01:19:57.998619
 srv.buysellads.com,AVAILABILITY,domains.list,2021-04-15 01:21:47.856015
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-15 12:50:52.493969
