@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.saymedia.com,AVAILABILITY,domains.list,2021-04-15 01:14:42.681457
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-15 01:15:12.306580
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-15 01:19:57.998619
-srv.buysellads.com,AVAILABILITY,domains.list,2021-04-15 01:21:47.856015
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-15 12:50:52.493969
 ads.cleveland.com,AVAILABILITY,domains.list,2021-04-16 01:14:52.000192
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-16 01:15:11.965593
@@ -118,3 +114,6 @@ www.mydas.mobi,AVAILABILITY,domains.list,2021-04-16 01:19:39.357106
 www.gomotrak.com,AVAILABILITY,domains.list,2021-04-16 01:19:39.769161
 js.adsonar.com,AVAILABILITY,domains.list,2021-04-16 01:19:46.196014
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-16 01:19:59.884894
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-16 12:45:18.293301
+openad.tf1.fr,AVAILABILITY,domains.list,2021-04-16 12:46:50.214861
+track.netshelter.net,AVAILABILITY,domains.list,2021-04-16 12:47:18.170732
