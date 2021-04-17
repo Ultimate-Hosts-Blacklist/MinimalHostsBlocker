@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-15 12:50:52.493969
 ads.cleveland.com,AVAILABILITY,domains.list,2021-04-16 01:14:52.000192
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-16 01:15:11.965593
 js.revsci.net,AVAILABILITY,domains.list,2021-04-16 01:16:07.241488
@@ -117,3 +116,5 @@ onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-16 01:19:59.884894
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-16 12:45:18.293301
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-16 12:46:50.214861
 track.netshelter.net,AVAILABILITY,domains.list,2021-04-16 12:47:18.170732
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-17 01:12:31.705099
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-17 01:16:02.940369
