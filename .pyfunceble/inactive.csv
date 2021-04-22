@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-21 12:40:16.961496
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-21 12:40:22.566885
-js.revsci.net,AVAILABILITY,domains.list,2021-04-21 12:41:21.080432
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-21 12:41:22.352697
 ads.saymedia.com,AVAILABILITY,domains.list,2021-04-22 01:12:50.480872
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-22 01:13:52.772628
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-22 01:19:24.077003
@@ -115,3 +111,6 @@ www.mydas.mobi,AVAILABILITY,domains.list,2021-04-22 01:26:49.861114
 www.gomotrak.com,AVAILABILITY,domains.list,2021-04-22 01:26:50.254151
 js.adsonar.com,AVAILABILITY,domains.list,2021-04-22 01:27:01.134122
 m.servebom.com,AVAILABILITY,domains.list,2021-04-22 01:27:03.696231
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-22 12:44:58.676044
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-22 12:46:18.089910
+srv.buysellads.com,AVAILABILITY,domains.list,2021-04-22 12:47:28.580292
