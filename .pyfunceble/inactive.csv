@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2021-04-24 12:43:13.374399
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-24 12:45:53.862910
 ads.saymedia.com,AVAILABILITY,domains.list,2021-04-25 01:23:39.277910
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-25 01:24:12.227709
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-25 01:27:59.349270
@@ -116,3 +114,7 @@ engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-25 12:44:16.417556
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-25 12:44:50.411226
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-25 12:45:04.140165
 track.netshelter.net,AVAILABILITY,domains.list,2021-04-25 12:45:24.903565
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-26 01:13:16.207137
+js.revsci.net,AVAILABILITY,domains.list,2021-04-26 01:14:37.652277
+ads.cleveland.com,AVAILABILITY,domains.list,2021-04-26 01:15:48.015795
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-26 01:15:59.367605
