@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-27 12:49:48.513551
-m.servebom.com,AVAILABILITY,domains.list,2021-04-27 12:52:41.864751
-js.revsci.net,AVAILABILITY,domains.list,2021-04-27 12:56:18.732768
-ads.cleveland.com,AVAILABILITY,domains.list,2021-04-27 12:56:19.441270
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-27 12:56:39.934518
 ads.saymedia.com,AVAILABILITY,domains.list,2021-04-28 01:19:10.562518
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-04-28 01:20:38.589856
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-04-28 01:27:39.173320
@@ -115,3 +110,8 @@ track.netshelter.net,AVAILABILITY,domains.list,2021-04-28 01:34:10.191571
 serve.vdopia.com,AVAILABILITY,domains.list,2021-04-28 01:34:19.261340
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-04-28 12:49:52.615616
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-28 12:51:35.431760
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-29 01:13:04.943918
+m.servebom.com,AVAILABILITY,domains.list,2021-04-29 01:13:46.520481
+js.revsci.net,AVAILABILITY,domains.list,2021-04-29 01:13:47.638083
+ads.cleveland.com,AVAILABILITY,domains.list,2021-04-29 01:13:48.127297
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-29 01:14:01.566053
