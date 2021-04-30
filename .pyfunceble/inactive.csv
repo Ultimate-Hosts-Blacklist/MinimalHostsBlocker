@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-04-29 01:13:04.943918
-m.servebom.com,AVAILABILITY,domains.list,2021-04-29 01:13:46.520481
-js.revsci.net,AVAILABILITY,domains.list,2021-04-29 01:13:47.638083
-ads.cleveland.com,AVAILABILITY,domains.list,2021-04-29 01:13:48.127297
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-04-29 01:14:01.566053
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-04-29 12:45:02.829574
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-29 12:46:07.660282
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-04-29 12:54:10.294231
@@ -117,3 +112,7 @@ bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-30 01:11:21.956625
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-30 01:15:18.972220
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-30 01:15:59.289443
 srv.buysellads.com,AVAILABILITY,domains.list,2021-04-30 01:17:26.504267
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-30 12:44:57.882732
+openad.tf1.fr,AVAILABILITY,domains.list,2021-04-30 12:49:00.058711
+track.netshelter.net,AVAILABILITY,domains.list,2021-04-30 12:51:58.251323
+ads.cleveland.com,AVAILABILITY,domains.list,2021-04-30 12:53:36.781252
