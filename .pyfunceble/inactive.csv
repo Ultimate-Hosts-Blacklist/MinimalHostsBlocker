@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-04-30 01:11:21.956625
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-04-30 01:15:18.972220
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-30 01:15:59.289443
-srv.buysellads.com,AVAILABILITY,domains.list,2021-04-30 01:17:26.504267
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-30 12:44:57.882732
 openad.tf1.fr,AVAILABILITY,domains.list,2021-04-30 12:49:00.058711
 track.netshelter.net,AVAILABILITY,domains.list,2021-04-30 12:51:58.251323
@@ -117,3 +113,8 @@ www.mydas.mobi,AVAILABILITY,domains.list,2021-05-01 01:16:40.761659
 www.gomotrak.com,AVAILABILITY,domains.list,2021-05-01 01:16:41.266769
 js.adsonar.com,AVAILABILITY,domains.list,2021-05-01 01:16:52.124543
 serve.vdopia.com,AVAILABILITY,domains.list,2021-05-01 01:16:52.651606
+ads.saymedia.com,AVAILABILITY,domains.list,2021-05-01 12:45:39.555212
+m.servebom.com,AVAILABILITY,domains.list,2021-05-01 12:50:52.426655
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-05-01 12:52:31.843864
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-01 12:55:47.785665
+srv.buysellads.com,AVAILABILITY,domains.list,2021-05-01 12:55:59.225504
