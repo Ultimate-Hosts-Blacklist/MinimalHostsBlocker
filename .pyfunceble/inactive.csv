@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-04-30 12:44:57.882732
-openad.tf1.fr,AVAILABILITY,domains.list,2021-04-30 12:49:00.058711
-track.netshelter.net,AVAILABILITY,domains.list,2021-04-30 12:51:58.251323
-ads.cleveland.com,AVAILABILITY,domains.list,2021-04-30 12:53:36.781252
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-05-01 01:13:04.967894
-rss.buysellads.com,AVAILABILITY,domains.list,2021-05-01 01:13:30.354600
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-05-01 01:14:17.917032
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-01 01:14:18.858029
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-05-01 01:14:20.652081
@@ -118,3 +112,5 @@ m.servebom.com,AVAILABILITY,domains.list,2021-05-01 12:50:52.426655
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-05-01 12:52:31.843864
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-01 12:55:47.785665
 srv.buysellads.com,AVAILABILITY,domains.list,2021-05-01 12:55:59.225504
+js.revsci.net,AVAILABILITY,domains.list,2021-05-02 01:22:32.991072
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-02 01:23:45.698907
