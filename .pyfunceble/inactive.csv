@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-e.admob.com,AVAILABILITY,domains.list,2021-05-02 12:42:16.086252
-cre.adjust-net.jp,AVAILABILITY,domains.list,2021-05-02 12:42:17.178193
-go.goroost.com,AVAILABILITY,domains.list,2021-05-02 12:42:23.277793
-gomotrak.com,AVAILABILITY,domains.list,2021-05-02 12:42:23.839958
-i.po.st,AVAILABILITY,domains.list,2021-05-02 12:42:30.987758
 cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-05-03 12:29:17.649305
 i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-05-03 12:29:18.234730
 cdn.castplatform.com,AVAILABILITY,domains.list,2021-05-03 12:29:32.480575
@@ -108,3 +103,8 @@ de.cisive.net,AVAILABILITY,domains.list,2021-05-04 01:09:00.317191
 directrev.blob.core.windows.net,AVAILABILITY,domains.list,2021-05-04 01:09:00.922879
 e2.emediate.se,AVAILABILITY,domains.list,2021-05-04 01:09:03.275597
 dtm.advertising.com,AVAILABILITY,domains.list,2021-05-04 01:09:08.837420
+e.admob.com,AVAILABILITY,domains.list,2021-05-04 01:09:45.889134
+cre.adjust-net.jp,AVAILABILITY,domains.list,2021-05-04 01:09:47.859329
+go.goroost.com,AVAILABILITY,domains.list,2021-05-04 01:09:48.496809
+gomotrak.com,AVAILABILITY,domains.list,2021-05-04 01:09:49.163431
+i.po.st,AVAILABILITY,domains.list,2021-05-04 01:09:50.296488
