@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-05-23 01:11:43.190726
-ads.cleveland.com,AVAILABILITY,domains.list,2021-05-23 01:11:50.499997
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-05-23 01:12:32.775242
-m.servebom.com,AVAILABILITY,domains.list,2021-05-23 01:16:58.198592
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-05-23 01:17:14.294849
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-05-23 01:17:46.192242
-rss.buysellads.com,AVAILABILITY,domains.list,2021-05-23 01:18:24.974221
-srv.buysellads.com,AVAILABILITY,domains.list,2021-05-23 01:19:24.409172
 ads.saymedia.com,AVAILABILITY,domains.list,2021-05-24 01:06:15.901899
 js.revsci.net,AVAILABILITY,domains.list,2021-05-24 01:07:34.087607
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-05-24 01:07:44.615475
@@ -114,3 +106,8 @@ cre.adjust-net.jp,AVAILABILITY,domains.list,2021-05-24 01:11:06.439918
 go.goroost.com,AVAILABILITY,domains.list,2021-05-24 01:11:07.443748
 gomotrak.com,AVAILABILITY,domains.list,2021-05-24 01:11:08.069800
 i.po.st,AVAILABILITY,domains.list,2021-05-24 01:11:08.891871
+au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-24 12:32:50.790471
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-05-24 12:33:32.195053
+pub.clicksor.net,AVAILABILITY,domains.list,2021-05-24 12:34:16.314440
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-05-24 12:34:31.233567
+m.servebom.com,AVAILABILITY,domains.list,2021-05-24 12:35:21.907763
