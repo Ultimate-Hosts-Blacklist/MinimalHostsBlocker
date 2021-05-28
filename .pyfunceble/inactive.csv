@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-05-26 12:35:29.842774
-pub.clicksor.net,AVAILABILITY,domains.list,2021-05-26 12:37:36.834604
-ads.cleveland.com,AVAILABILITY,domains.list,2021-05-26 12:37:44.244290
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-27 01:28:26.922507
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-05-27 01:30:29.703241
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-05-27 01:32:04.786471
-openad.tf1.fr,AVAILABILITY,domains.list,2021-05-27 01:32:28.073918
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-27 01:35:23.997063
-cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-05-27 01:35:39.001602
-i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-05-27 01:35:40.867946
 cdn.castplatform.com,AVAILABILITY,domains.list,2021-05-27 01:36:11.631985
 img-cdn.mediaplex.com,AVAILABILITY,domains.list,2021-05-27 01:36:12.124099
 i.tapit.com,AVAILABILITY,domains.list,2021-05-27 01:36:12.502739
@@ -110,3 +100,14 @@ cre.adjust-net.jp,AVAILABILITY,domains.list,2021-05-27 01:40:56.110524
 go.goroost.com,AVAILABILITY,domains.list,2021-05-27 01:40:56.612308
 gomotrak.com,AVAILABILITY,domains.list,2021-05-27 01:40:57.148020
 i.po.st,AVAILABILITY,domains.list,2021-05-27 01:40:57.980152
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-28 01:40:14.910903
+js.revsci.net,AVAILABILITY,domains.list,2021-05-28 01:43:53.490066
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-05-28 01:45:32.022815
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-05-28 01:48:41.601664
+pub.clicksor.net,AVAILABILITY,domains.list,2021-05-28 01:48:42.194753
+ads.cleveland.com,AVAILABILITY,domains.list,2021-05-28 01:48:42.878580
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-05-28 01:48:54.292874
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-05-28 01:48:55.127569
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-28 01:48:58.161554
+cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-05-28 01:49:20.029319
+i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-05-28 01:49:20.452408
