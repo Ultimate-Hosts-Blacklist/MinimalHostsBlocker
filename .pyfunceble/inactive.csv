@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-05-31 13:00:15.214432
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-05-31 13:01:05.643814
-cdn1.rhtag.com,AVAILABILITY,domains.list,2021-05-31 13:01:32.926129
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-05-31 13:03:16.822455
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-05-31 13:05:53.363345
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-31 13:06:46.525558
-rss.buysellads.com,AVAILABILITY,domains.list,2021-05-31 13:07:19.693604
-ads.saymedia.com,AVAILABILITY,domains.list,2021-05-31 13:10:02.284375
-ads.cleveland.com,AVAILABILITY,domains.list,2021-06-01 02:37:26.202502
-js.revsci.net,AVAILABILITY,domains.list,2021-06-01 02:38:39.030262
 track.netshelter.net,AVAILABILITY,domains.list,2021-06-01 02:41:49.898323
 cdn.castplatform.com,AVAILABILITY,domains.list,2021-06-01 02:42:02.997643
 img-cdn.mediaplex.com,AVAILABILITY,domains.list,2021-06-01 02:42:03.894830
@@ -114,3 +104,10 @@ i.po.st,AVAILABILITY,domains.list,2021-06-01 02:44:22.649610
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-06-01 02:44:34.395554
 cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-06-01 02:44:45.895751
 i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-06-01 02:44:47.603222
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-06-02 02:42:09.337537
+pub.clicksor.net,AVAILABILITY,domains.list,2021-06-02 02:43:50.099806
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-06-02 02:46:13.046405
+cdn1.rhtag.com,AVAILABILITY,domains.list,2021-06-02 02:46:14.901728
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-06-02 02:46:15.389065
+ads.saymedia.com,AVAILABILITY,domains.list,2021-06-02 02:46:21.984253
+ads.cleveland.com,AVAILABILITY,domains.list,2021-06-02 02:46:22.462433
