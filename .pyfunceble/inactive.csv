@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-06-02 02:42:09.337537
-pub.clicksor.net,AVAILABILITY,domains.list,2021-06-02 02:43:50.099806
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-06-02 02:46:13.046405
-cdn1.rhtag.com,AVAILABILITY,domains.list,2021-06-02 02:46:14.901728
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-06-02 02:46:15.389065
-ads.saymedia.com,AVAILABILITY,domains.list,2021-06-02 02:46:21.984253
-ads.cleveland.com,AVAILABILITY,domains.list,2021-06-02 02:46:22.462433
 js.revsci.net,AVAILABILITY,domains.list,2021-06-03 02:23:31.069431
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-06-03 02:24:11.055408
 openad.tf1.fr,AVAILABILITY,domains.list,2021-06-03 02:24:29.364662
@@ -113,3 +106,6 @@ gomotrak.com,AVAILABILITY,domains.list,2021-06-03 02:32:45.989038
 i.po.st,AVAILABILITY,domains.list,2021-06-03 02:32:46.811145
 cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-06-03 02:32:55.053786
 i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-06-03 02:32:55.578086
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-06-03 12:54:07.209421
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-06-03 12:55:26.527187
+cdn1.rhtag.com,AVAILABILITY,domains.list,2021-06-03 12:55:28.747547
