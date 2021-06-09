@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-06-08 01:20:30.239554
-ads.saymedia.com,AVAILABILITY,domains.list,2021-06-08 01:20:41.064547
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-06-08 01:22:21.532718
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-06-08 12:32:47.571739
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-06-08 12:35:16.624063
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-06-08 12:37:26.701826
@@ -113,3 +110,5 @@ i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-06-09 01:11:37.077565
 cdn1.rhtag.com,AVAILABILITY,domains.list,2021-06-09 01:11:48.093757
 openad.tf1.fr,AVAILABILITY,domains.list,2021-06-09 01:12:07.090255
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-06-09 01:12:20.124808
+js.revsci.net,AVAILABILITY,domains.list,2021-06-09 12:29:06.945128
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-06-09 12:29:25.793623
