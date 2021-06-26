@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2021-06-24 12:28:09.057778
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-06-24 12:28:48.676320
-js.revsci.net,AVAILABILITY,domains.list,2021-06-24 12:32:15.319553
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-06-24 12:32:56.577116
-track.netshelter.net,AVAILABILITY,domains.list,2021-06-24 12:34:17.212827
 ads.saymedia.com,AVAILABILITY,domains.list,2021-06-25 00:59:03.322707
 m.servebom.com,AVAILABILITY,domains.list,2021-06-25 01:04:22.456067
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-06-25 01:04:32.122900
@@ -114,3 +109,6 @@ cdn.directtrk.com,AVAILABILITY,domains.list,2021-06-25 01:10:10.973365
 cdn.kixer.com,AVAILABILITY,domains.list,2021-06-25 01:10:11.568236
 pub.clicksor.net,AVAILABILITY,domains.list,2021-06-25 01:10:12.535484
 srv.buysellads.com,AVAILABILITY,domains.list,2021-06-25 12:34:02.294078
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-06-26 00:52:57.939221
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-06-26 00:59:52.907377
+track.netshelter.net,AVAILABILITY,domains.list,2021-06-26 00:59:53.392325
