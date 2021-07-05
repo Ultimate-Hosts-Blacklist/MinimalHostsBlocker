@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "1c1dd3fea34ccf7878e9354f12c33b0a3f6a04ddc9c60bc8e4b878b8",
+    "line_number": 644,
+    "output_dir": "/home/runner/work/MinimalHostsBlocker/MinimalHostsBlocker/output/domains.list",
+    "previous_hash": "1c1dd3fea34ccf7878e9354f12c33b0a3f6a04ddc9c60bc8e4b878b8",
+    "session_id": "8a1f764c90ebdb906fe6cee9",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
