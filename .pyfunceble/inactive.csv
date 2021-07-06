@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-04 03:37:40.974442
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-04 03:38:34.411795
-openad.tf1.fr,AVAILABILITY,domains.list,2021-07-04 03:42:38.912599
 ads.cleveland.com,AVAILABILITY,domains.list,2021-07-05 02:13:16.673366
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-07-05 02:18:26.897187
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-05 02:24:45.229943
@@ -112,3 +109,5 @@ cdn.directrev.com,AVAILABILITY,domains.list,2021-07-05 02:29:51.812640
 cache.blogads.com,AVAILABILITY,domains.list,2021-07-05 02:29:52.278537
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-05 02:29:52.512573
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-05 02:29:52.793996
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-06 02:18:43.917644
+track.netshelter.net,AVAILABILITY,domains.list,2021-07-06 02:19:23.262796
