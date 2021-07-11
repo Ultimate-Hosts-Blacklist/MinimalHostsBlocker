@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2021-07-10 08:31:36.632181
-ads.saymedia.com,AVAILABILITY,domains.list,2021-07-10 08:32:16.892502
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-07-10 08:44:44.374355
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-07-10 08:45:43.128362
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-07-10 08:46:22.298142
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-10 08:53:56.909194
 traffic.trafficposse.com,AVAILABILITY,domains.list,2021-07-10 08:54:02.546329
 cdn.merchenta.com,AVAILABILITY,domains.list,2021-07-10 08:54:25.246965
@@ -110,3 +105,5 @@ cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-10 09:00:21.561703
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-10 09:00:21.793601
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-11 08:39:26.205029
 m.servebom.com,AVAILABILITY,domains.list,2021-07-11 08:49:44.272946
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-11 08:50:34.993469
+ads.saymedia.com,AVAILABILITY,domains.list,2021-07-11 08:53:42.207028
