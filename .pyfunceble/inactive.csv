@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-11 08:39:26.205029
-m.servebom.com,AVAILABILITY,domains.list,2021-07-11 08:49:44.272946
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-11 08:50:34.993469
-ads.saymedia.com,AVAILABILITY,domains.list,2021-07-11 08:53:42.207028
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-12 08:29:00.587053
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-12 08:29:11.758518
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-07-12 08:34:13.312797
@@ -108,3 +104,10 @@ cdn.directrev.com,AVAILABILITY,domains.list,2021-07-12 08:39:21.896988
 cache.blogads.com,AVAILABILITY,domains.list,2021-07-12 08:39:22.461919
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-12 08:39:22.896241
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-12 08:39:23.212025
+ads.cleveland.com,AVAILABILITY,domains.list,2021-07-13 08:28:16.554594
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-07-13 08:31:33.112932
+openad.tf1.fr,AVAILABILITY,domains.list,2021-07-13 08:33:08.419780
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-13 08:33:31.125531
+srv.buysellads.com,AVAILABILITY,domains.list,2021-07-13 08:34:19.027954
+track.netshelter.net,AVAILABILITY,domains.list,2021-07-13 08:34:40.672114
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-13 08:36:34.143124
