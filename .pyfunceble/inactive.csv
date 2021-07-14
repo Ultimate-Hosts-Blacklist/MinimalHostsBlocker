@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srv.buysellads.com,AVAILABILITY,domains.list,2021-07-13 08:34:19.027954
-track.netshelter.net,AVAILABILITY,domains.list,2021-07-13 08:34:40.672114
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-13 08:36:34.143124
 ads.saymedia.com,AVAILABILITY,domains.list,2021-07-14 08:36:11.155362
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-07-14 08:39:19.855845
 js.revsci.net,AVAILABILITY,domains.list,2021-07-14 08:46:36.500402
@@ -112,3 +109,4 @@ cdn.kixer.com,AVAILABILITY,domains.list,2021-07-14 09:00:56.873845
 ads.cleveland.com,AVAILABILITY,domains.list,2021-07-14 09:01:02.835164
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-07-14 09:01:03.189482
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-14 09:01:30.337288
+track.netshelter.net,AVAILABILITY,domains.list,2021-07-14 09:02:15.007984
