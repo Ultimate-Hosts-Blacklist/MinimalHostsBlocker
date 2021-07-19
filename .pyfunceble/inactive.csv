@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.saymedia.com,AVAILABILITY,domains.list,2021-07-17 09:16:00.048422
-js.revsci.net,AVAILABILITY,domains.list,2021-07-17 09:23:52.563243
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-07-17 09:27:53.054319
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-17 09:29:42.853110
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-17 09:34:38.998829
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-18 05:54:48.819821
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-07-18 06:05:45.589173
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-18 06:08:08.120730
@@ -112,3 +107,6 @@ cache.blogads.com,AVAILABILITY,domains.list,2021-07-18 06:10:25.270824
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-18 06:10:25.543510
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-18 06:10:25.776757
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-07-18 06:10:26.090854
+ads.cleveland.com,AVAILABILITY,domains.list,2021-07-19 05:39:30.173136
+openad.tf1.fr,AVAILABILITY,domains.list,2021-07-19 05:44:10.771966
+au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-19 05:46:46.503728
