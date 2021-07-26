@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-24 01:27:07.834825
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-24 01:27:20.548434
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-07-24 01:30:49.685774
-track.netshelter.net,AVAILABILITY,domains.list,2021-07-24 01:32:07.503839
-29773.v.fwmrm.net,AVAILABILITY,domains.list,2021-07-25 01:27:10.409050
 m.servebom.com,AVAILABILITY,domains.list,2021-07-25 01:32:47.069348
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-07-25 01:33:14.787745
 openad.tf1.fr,AVAILABILITY,domains.list,2021-07-25 01:33:15.894994
@@ -111,3 +106,9 @@ cache.blogads.com,AVAILABILITY,domains.list,2021-07-25 01:37:35.634618
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-25 01:37:35.976945
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-25 01:37:36.160941
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-25 01:37:37.115036
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-26 01:31:03.849570
+js.revsci.net,AVAILABILITY,domains.list,2021-07-26 01:34:47.851379
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-26 01:35:20.844621
+srv.buysellads.com,AVAILABILITY,domains.list,2021-07-26 01:36:42.470884
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-26 01:38:01.867509
+track.netshelter.net,AVAILABILITY,domains.list,2021-07-26 01:38:03.537851
