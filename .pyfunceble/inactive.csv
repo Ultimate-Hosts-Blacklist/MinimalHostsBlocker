@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-26 01:31:03.849570
-js.revsci.net,AVAILABILITY,domains.list,2021-07-26 01:34:47.851379
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-26 01:35:20.844621
-srv.buysellads.com,AVAILABILITY,domains.list,2021-07-26 01:36:42.470884
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-26 01:38:01.867509
-track.netshelter.net,AVAILABILITY,domains.list,2021-07-26 01:38:03.537851
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-07-26 10:21:48.078339
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-26 10:22:04.555915
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-07-26 10:24:40.603506
@@ -111,3 +105,9 @@ cache.blogads.com,AVAILABILITY,domains.list,2021-07-26 10:27:06.615338
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-26 10:27:06.895206
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-26 10:27:07.165349
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-26 10:27:07.974151
+ads.cleveland.com,AVAILABILITY,domains.list,2021-07-27 10:01:13.783234
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-27 10:02:05.026799
+m.servebom.com,AVAILABILITY,domains.list,2021-07-27 10:04:15.012496
+js.revsci.net,AVAILABILITY,domains.list,2021-07-27 10:06:53.815887
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-27 10:06:54.261663
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-27 10:06:56.297739
