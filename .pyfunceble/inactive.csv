@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2021-07-27 10:01:13.783234
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-07-27 10:02:05.026799
-m.servebom.com,AVAILABILITY,domains.list,2021-07-27 10:04:15.012496
-js.revsci.net,AVAILABILITY,domains.list,2021-07-27 10:06:53.815887
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-07-27 10:06:54.261663
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-07-27 10:06:56.297739
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-28 05:52:58.225426
 ads.saymedia.com,AVAILABILITY,domains.list,2021-07-28 05:54:17.702706
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-07-28 06:05:39.589249
@@ -112,3 +106,5 @@ cdn.directrev.com,AVAILABILITY,domains.list,2021-07-28 06:18:14.818779
 cache.blogads.com,AVAILABILITY,domains.list,2021-07-28 06:18:20.642513
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-28 06:18:20.930340
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-28 06:18:21.228282
+openad.tf1.fr,AVAILABILITY,domains.list,2021-07-29 02:52:20.354942
+ads.cleveland.com,AVAILABILITY,domains.list,2021-07-29 02:54:13.435472
