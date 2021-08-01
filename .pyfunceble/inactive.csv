@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.servebom.com,AVAILABILITY,domains.list,2021-07-30 04:48:34.762918
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-07-30 04:49:05.812902
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-07-30 04:49:30.393293
-ads.cleveland.com,AVAILABILITY,domains.list,2021-07-31 04:37:07.042927
 rss.buysellads.com,AVAILABILITY,domains.list,2021-07-31 04:48:40.120398
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-07-31 04:51:16.289914
 track.netshelter.net,AVAILABILITY,domains.list,2021-07-31 04:51:17.262509
@@ -110,3 +106,8 @@ cache.blogads.com,AVAILABILITY,domains.list,2021-07-31 04:54:21.905930
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-07-31 04:54:22.186110
 cdn.kixer.com,AVAILABILITY,domains.list,2021-07-31 04:54:22.493280
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-07-31 04:54:22.925527
+ads.saymedia.com,AVAILABILITY,domains.list,2021-08-01 04:39:34.508691
+m.servebom.com,AVAILABILITY,domains.list,2021-08-01 04:46:03.031371
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-08-01 04:46:15.227138
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-08-01 04:46:21.771620
+ads.cleveland.com,AVAILABILITY,domains.list,2021-08-01 04:46:22.580986
