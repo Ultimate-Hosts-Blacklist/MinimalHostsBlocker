@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.saymedia.com,AVAILABILITY,domains.list,2021-08-01 04:39:34.508691
-m.servebom.com,AVAILABILITY,domains.list,2021-08-01 04:46:03.031371
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-08-01 04:46:15.227138
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-08-01 04:46:21.771620
-ads.cleveland.com,AVAILABILITY,domains.list,2021-08-01 04:46:22.580986
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-08-02 03:43:45.205121
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-08-02 03:57:37.064612
 track.netshelter.net,AVAILABILITY,domains.list,2021-08-02 04:05:59.666744
@@ -110,3 +105,7 @@ cdn.directrev.com,AVAILABILITY,domains.list,2021-08-02 04:07:53.410787
 cache.blogads.com,AVAILABILITY,domains.list,2021-08-02 04:07:53.734208
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-08-02 04:07:54.072785
 cdn.kixer.com,AVAILABILITY,domains.list,2021-08-02 04:07:54.325534
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-08-03 03:35:44.746901
+js.revsci.net,AVAILABILITY,domains.list,2021-08-03 03:41:53.557442
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-08-03 03:42:16.609110
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-08-03 03:45:39.738810
