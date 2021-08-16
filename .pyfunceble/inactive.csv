@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-08-15 07:07:14.704519
-js.revsci.net,AVAILABILITY,domains.list,2021-08-15 07:11:35.585801
-m.servebom.com,AVAILABILITY,domains.list,2021-08-15 07:12:02.239280
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-08-15 07:12:10.721807
 engine.4chan-ads.org,AVAILABILITY,domains.list,2021-08-15 07:14:40.309146
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-08-15 07:14:40.863930
 cdn.adbrau.com,AVAILABILITY,domains.list,2021-08-15 07:14:42.935945
@@ -110,3 +106,4 @@ cdn.kixer.com,AVAILABILITY,domains.list,2021-08-15 07:16:29.679296
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-08-15 07:16:30.586456
 ads.saymedia.com,AVAILABILITY,domains.list,2021-08-16 07:05:04.754301
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-08-16 07:06:58.971446
+js.revsci.net,AVAILABILITY,domains.list,2021-08-16 07:17:31.304952
