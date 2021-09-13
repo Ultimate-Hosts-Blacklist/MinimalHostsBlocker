@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-09-11 03:38:21.121158
-js.revsci.net,AVAILABILITY,domains.list,2021-09-11 03:38:59.764386
-m.servebom.com,AVAILABILITY,domains.list,2021-09-11 03:39:04.380033
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-09-12 03:39:33.735369
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-09-12 03:43:02.734137
 cdn.adnotch.com,AVAILABILITY,domains.list,2021-09-12 03:45:24.501711
@@ -108,3 +105,5 @@ cdn.directrev.com,AVAILABILITY,domains.list,2021-09-12 03:47:29.185876
 cache.blogads.com,AVAILABILITY,domains.list,2021-09-12 03:47:29.647223
 cdn.directtrk.com,AVAILABILITY,domains.list,2021-09-12 03:47:30.006728
 cdn.kixer.com,AVAILABILITY,domains.list,2021-09-12 03:47:30.349581
+ads.cleveland.com,AVAILABILITY,domains.list,2021-09-13 03:37:44.392318
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-09-13 03:42:20.737928
