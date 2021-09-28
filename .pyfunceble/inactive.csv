@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-09-26 10:11:08.588677
-m.servebom.com,AVAILABILITY,domains.list,2021-09-26 10:15:04.523413
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-09-26 10:15:28.671517
-openad.tf1.fr,AVAILABILITY,domains.list,2021-09-26 10:15:29.862112
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-09-26 10:15:34.522767
-ads.cleveland.com,AVAILABILITY,domains.list,2021-09-26 10:17:46.840844
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-09-26 10:17:47.166215
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2021-09-26 10:17:49.958089
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-09-27 10:08:28.261499
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-09-27 10:13:21.852619
 track.netshelter.net,AVAILABILITY,domains.list,2021-09-27 10:14:19.038844
@@ -115,3 +107,7 @@ cre.adjust-net.jp,AVAILABILITY,domains.list,2021-09-27 10:18:18.966142
 go.goroost.com,AVAILABILITY,domains.list,2021-09-27 10:18:19.497392
 gomotrak.com,AVAILABILITY,domains.list,2021-09-27 10:18:19.918662
 i.po.st,AVAILABILITY,domains.list,2021-09-27 10:18:21.121818
+js.revsci.net,AVAILABILITY,domains.list,2021-09-28 10:08:46.774342
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-09-28 10:08:55.383917
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-09-28 10:09:27.961313
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-09-28 10:11:39.738730
