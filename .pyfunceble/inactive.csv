@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-29773.v.fwmrm.net,AVAILABILITY,domains.list,2021-10-02 02:15:52.497548
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-10-02 02:17:10.302745
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-10-02 02:17:54.700040
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-10-02 02:21:55.012449
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-10-02 02:22:22.744591
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-10-02 02:23:57.239396
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-10-02 02:24:09.478929
 ads.saymedia.com,AVAILABILITY,domains.list,2021-10-02 09:43:42.224849
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-10-02 09:48:36.203924
 m.servebom.com,AVAILABILITY,domains.list,2021-10-02 09:52:12.586110
@@ -111,3 +104,7 @@ cre.adjust-net.jp,AVAILABILITY,domains.list,2021-10-02 09:54:36.283247
 go.goroost.com,AVAILABILITY,domains.list,2021-10-02 09:54:36.966172
 gomotrak.com,AVAILABILITY,domains.list,2021-10-02 09:54:37.598777
 i.po.st,AVAILABILITY,domains.list,2021-10-02 09:54:38.680847
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-10-03 05:19:59.924036
+au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-10-03 05:20:00.606140
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-10-03 05:20:01.605741
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-10-03 05:20:03.410760
