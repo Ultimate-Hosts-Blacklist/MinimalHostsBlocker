@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.saymedia.com,AVAILABILITY,domains.list,2021-10-29 01:39:32.529692
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-10-29 01:39:33.291111
-cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-10-29 01:39:34.209402
-i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-10-29 01:39:34.997045
-cdn.castplatform.com,AVAILABILITY,domains.list,2021-10-29 01:39:36.028331
-img-cdn.mediaplex.com,AVAILABILITY,domains.list,2021-10-29 01:39:36.749509
-i.tapit.com,AVAILABILITY,domains.list,2021-10-29 01:39:37.510014
-img.adinte.jp,AVAILABILITY,domains.list,2021-10-29 01:39:38.418199
-leadback.advertising.com,AVAILABILITY,domains.list,2021-10-29 01:39:39.161171
-ma.inmobi.com,AVAILABILITY,domains.list,2021-10-29 01:39:39.837549
-kona.kontera.com,AVAILABILITY,domains.list,2021-10-29 01:39:40.561971
-max.crwd.io,AVAILABILITY,domains.list,2021-10-29 01:39:41.275878
 i.ad-v.jp,AVAILABILITY,domains.list,2021-10-29 01:39:41.889655
 mads.at.atwola.com,AVAILABILITY,domains.list,2021-10-29 01:39:42.615291
 ns2.backbeatmedia.com,AVAILABILITY,domains.list,2021-10-29 01:39:43.295392
@@ -107,3 +95,15 @@ adnxs.revsci.net,AVAILABILITY,domains.list,2021-10-29 01:40:55.638648
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2021-10-29 01:40:56.284227
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-10-29 01:40:56.977566
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-10-29 01:40:58.232935
+ads.saymedia.com,AVAILABILITY,domains.list,2021-10-31 01:44:53.463865
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-10-31 01:44:54.372578
+cdn.cpsoft86.com,AVAILABILITY,domains.list,2021-10-31 01:44:56.973258
+i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2021-10-31 01:44:57.883682
+cdn.castplatform.com,AVAILABILITY,domains.list,2021-10-31 01:45:00.426587
+img-cdn.mediaplex.com,AVAILABILITY,domains.list,2021-10-31 01:45:01.273837
+i.tapit.com,AVAILABILITY,domains.list,2021-10-31 01:45:02.303078
+img.adinte.jp,AVAILABILITY,domains.list,2021-10-31 01:45:03.294756
+leadback.advertising.com,AVAILABILITY,domains.list,2021-10-31 01:45:04.164753
+ma.inmobi.com,AVAILABILITY,domains.list,2021-10-31 01:45:05.123015
+kona.kontera.com,AVAILABILITY,domains.list,2021-10-31 01:45:06.094976
+max.crwd.io,AVAILABILITY,domains.list,2021-10-31 01:45:07.011379
