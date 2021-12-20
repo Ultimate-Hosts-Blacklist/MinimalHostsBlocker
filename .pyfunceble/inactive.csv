@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-openad.tf1.fr,AVAILABILITY,domains.list,2021-12-19 02:24:42.135146
-richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-19 02:24:52.022389
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-12-19 02:24:54.388616
-bea4.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-19 10:47:02.847021
 m.servebom.com,AVAILABILITY,domains.list,2021-12-19 10:49:32.160620
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-12-19 10:50:08.517268
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-19 10:50:14.101703
@@ -107,3 +103,9 @@ origin.collective-media.net,AVAILABILITY,domains.list,2021-12-19 10:54:38.670385
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-19 10:54:38.942779
 adv.aftonbladet.se,AVAILABILITY,domains.list,2021-12-19 10:54:40.843468
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-12-19 10:54:41.871452
+adnxs.revsci.net,AVAILABILITY,domains.list,2021-12-20 10:50:14.030899
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-12-20 10:53:04.962424
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-12-20 10:54:21.619992
+openad.tf1.fr,AVAILABILITY,domains.list,2021-12-20 10:57:04.157791
+richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-20 10:57:04.559804
+royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-12-20 10:57:05.104109
