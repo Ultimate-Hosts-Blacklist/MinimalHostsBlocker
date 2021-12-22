@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2021-12-20 10:50:14.030899
-engine.4chan-ads.org,AVAILABILITY,domains.list,2021-12-20 10:53:04.962424
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-12-20 10:54:21.619992
-openad.tf1.fr,AVAILABILITY,domains.list,2021-12-20 10:57:04.157791
-richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-20 10:57:04.559804
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-12-20 10:57:05.104109
 ads.cleveland.com,AVAILABILITY,domains.list,2021-12-21 10:47:26.827341
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2021-12-21 10:53:24.757067
 track.netshelter.net,AVAILABILITY,domains.list,2021-12-21 10:53:25.788645
@@ -107,3 +101,8 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2021-12-21 10:55:56.510839
 origin.collective-media.net,AVAILABILITY,domains.list,2021-12-21 10:55:57.555184
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-21 10:55:57.927588
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2021-12-21 10:55:59.978266
+29773.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-22 10:47:29.805565
+cdn.adshexa.com,AVAILABILITY,domains.list,2021-12-22 10:50:17.490234
+m.servebom.com,AVAILABILITY,domains.list,2021-12-22 10:52:25.556381
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-22 10:52:49.214120
+richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-22 10:54:55.089354
