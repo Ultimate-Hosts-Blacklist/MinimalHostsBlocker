@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-29773.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-22 10:47:29.805565
-cdn.adshexa.com,AVAILABILITY,domains.list,2021-12-22 10:50:17.490234
-m.servebom.com,AVAILABILITY,domains.list,2021-12-22 10:52:25.556381
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-22 10:52:49.214120
-richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-22 10:54:55.089354
 openad.tf1.fr,AVAILABILITY,domains.list,2021-12-23 05:47:23.638057
 sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2021-12-23 05:49:36.287526
 www.ad-ch.jp,AVAILABILITY,domains.list,2021-12-23 05:49:36.670588
@@ -103,3 +98,5 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2021-12-23 05:51:05.576630
 1app.blob.core.windows.net,AVAILABILITY,domains.list,2021-12-23 05:51:05.915088
 origin.collective-media.net,AVAILABILITY,domains.list,2021-12-23 05:51:06.262247
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-23 05:51:06.534598
+adv.aftonbladet.se,AVAILABILITY,domains.list,2021-12-24 05:46:36.634568
+richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-24 05:52:17.403570
