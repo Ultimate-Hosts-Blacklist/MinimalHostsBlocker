@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-12-24 05:46:36.634568
-richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-24 05:52:17.403570
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-12-25 05:45:55.316354
 m.servebom.com,AVAILABILITY,domains.list,2021-12-25 05:50:24.902223
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2021-12-25 05:50:45.479804
@@ -104,3 +102,6 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2021-12-25 05:55:26.334096
 1app.blob.core.windows.net,AVAILABILITY,domains.list,2021-12-25 05:55:26.937265
 origin.collective-media.net,AVAILABILITY,domains.list,2021-12-25 05:55:27.448741
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-25 05:55:27.802557
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-26 03:55:32.044173
+srv.buysellads.com,AVAILABILITY,domains.list,2021-12-26 03:56:32.787601
+richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-26 03:58:05.811536
