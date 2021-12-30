@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-29773.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-28 03:41:03.685729
-ads.saymedia.com,AVAILABILITY,domains.list,2021-12-28 03:42:41.726804
-adv.aftonbladet.se,AVAILABILITY,domains.list,2021-12-28 03:43:12.159773
-openad.tf1.fr,AVAILABILITY,domains.list,2021-12-28 03:46:24.659293
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2021-12-28 03:46:45.820382
-track.netshelter.net,AVAILABILITY,domains.list,2021-12-28 03:47:41.261166
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-28 03:48:48.735980
-richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-28 03:48:49.559190
 adnxs.revsci.net,AVAILABILITY,domains.list,2021-12-29 03:42:14.566891
 bea4.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-29 03:43:25.738987
 m.servebom.com,AVAILABILITY,domains.list,2021-12-29 03:47:55.916025
@@ -108,3 +100,6 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2021-12-29 03:49:59.213638
 1app.blob.core.windows.net,AVAILABILITY,domains.list,2021-12-29 03:49:59.561491
 origin.collective-media.net,AVAILABILITY,domains.list,2021-12-29 03:50:03.888880
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2021-12-29 03:50:04.177943
+engine.4chan-ads.org,AVAILABILITY,domains.list,2021-12-30 03:44:26.457778
+openad.tf1.fr,AVAILABILITY,domains.list,2021-12-30 03:48:12.884896
+richmedia.yimg.com,AVAILABILITY,domains.list,2021-12-30 03:48:14.382105
