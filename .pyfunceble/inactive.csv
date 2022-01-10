@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-01-08 07:00:31.831935
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-01-08 07:00:32.361821
-origin.collective-media.net,AVAILABILITY,domains.list,2022-01-08 07:00:32.827946
-9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-08 07:00:33.273069
-richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-08 07:00:34.075957
 sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2022-01-10 02:48:11.364186
 www.ad-ch.jp,AVAILABILITY,domains.list,2022-01-10 02:48:12.330195
 www.admob.tk,AVAILABILITY,domains.list,2022-01-10 02:48:18.961558
@@ -98,3 +93,8 @@ tap.rubiconproject.com,AVAILABILITY,domains.list,2022-01-10 02:50:00.286928
 static.exoclick.com,AVAILABILITY,domains.list,2022-01-10 02:50:01.056169
 tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-01-10 02:50:01.531103
 web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-01-10 02:50:07.789234
+www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-01-10 02:51:45.866816
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-01-10 02:51:46.179341
+origin.collective-media.net,AVAILABILITY,domains.list,2022-01-10 02:51:46.520820
+9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-10 02:51:46.767205
+richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-10 02:51:47.523111
