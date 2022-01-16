@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-origin.collective-media.net,AVAILABILITY,domains.list,2022-01-14 04:00:10.411981
-9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-14 04:00:10.754700
-richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-14 04:00:11.101595
 srv.juiceadv.com,AVAILABILITY,domains.list,2022-01-16 04:01:11.596124
 sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2022-01-16 04:02:31.983624
 www.ad-ch.jp,AVAILABILITY,domains.list,2022-01-16 04:02:33.194030
@@ -99,3 +96,6 @@ tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-01-16 04:04:33.871482
 web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-01-16 04:04:34.944885
 www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-01-16 04:04:35.737577
 1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-01-16 04:04:36.553992
+origin.collective-media.net,AVAILABILITY,domains.list,2022-01-16 04:06:17.877042
+9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-16 04:06:18.234261
+richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-16 04:06:19.149356
