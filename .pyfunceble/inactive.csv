@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-tap.rubiconproject.com,AVAILABILITY,domains.list,2022-01-21 07:24:00.381204
-static.exoclick.com,AVAILABILITY,domains.list,2022-01-21 07:24:00.681239
-tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-01-21 07:24:01.240959
-web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-01-21 07:24:04.892779
-www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-01-21 07:24:05.373657
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-01-21 07:24:05.720084
-origin.collective-media.net,AVAILABILITY,domains.list,2022-01-21 07:24:06.066749
-9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-21 07:24:06.356188
-richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-21 07:24:07.128844
 srv.juiceadv.com,AVAILABILITY,domains.list,2022-01-22 09:59:16.699771
 sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2022-01-22 10:00:37.070855
 www.ad-ch.jp,AVAILABILITY,domains.list,2022-01-22 10:00:37.926631
@@ -99,3 +90,12 @@ s.send.microad.jp,AVAILABILITY,domains.list,2022-01-22 10:02:26.247878
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2022-01-22 10:02:26.637078
 servedby2.advertising.com,AVAILABILITY,domains.list,2022-01-22 10:02:27.032267
 cdn.bidvertiser.com,AVAILABILITY,domains.list,2022-01-22 10:02:27.718110
+tap.rubiconproject.com,AVAILABILITY,domains.list,2022-01-22 10:04:08.503183
+static.exoclick.com,AVAILABILITY,domains.list,2022-01-22 10:04:08.927652
+tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-01-22 10:04:09.419626
+web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-01-22 10:04:10.854064
+www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-01-22 10:04:11.277569
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-01-22 10:04:11.785155
+origin.collective-media.net,AVAILABILITY,domains.list,2022-01-22 10:04:12.211408
+9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-01-22 10:04:12.622274
+richmedia.yimg.com,AVAILABILITY,domains.list,2022-01-22 10:04:13.433939
