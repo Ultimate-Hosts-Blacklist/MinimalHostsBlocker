@@ -1021,6 +1021,8 @@
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
         "digitaloceanspaces.com",
+        "discordsays.com",
+        "discordsez.com",
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
@@ -6970,6 +6972,7 @@
         "jp.eu.org",
         "js.org",
         "kicks-ass.org",
+        "knightpoint.systems",
         "kr.eu.org",
         "lt.eu.org",
         "lu.eu.org",
@@ -7064,7 +7067,8 @@
         "magnet.page",
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "translated.page"
     ],
     "party": [
         "ybo.party"
@@ -7539,6 +7543,7 @@
         "code.run",
         "development.run",
         "hs.run",
+        "onporter.run",
         "ravendb.run",
         "repl.run",
         "servers.run"
