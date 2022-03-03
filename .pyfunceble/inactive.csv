@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn.bidvertiser.com,AVAILABILITY,domains.list,2022-03-01 08:49:07.047598
-tap.rubiconproject.com,AVAILABILITY,domains.list,2022-03-01 08:49:07.620703
-static.exoclick.com,AVAILABILITY,domains.list,2022-03-01 08:49:08.513593
-tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-03-01 08:49:08.898054
-web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-03-01 08:49:09.283678
-www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-03-01 08:49:09.671505
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-03-01 08:49:10.143419
-origin.collective-media.net,AVAILABILITY,domains.list,2022-03-01 08:49:10.531175
-9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-03-01 08:49:10.913851
-richmedia.yimg.com,AVAILABILITY,domains.list,2022-03-01 08:49:11.398342
 as.chango.com,AVAILABILITY,domains.list,2022-03-03 08:41:28.359759
 cdn.adnotch.com,AVAILABILITY,domains.list,2022-03-03 08:41:28.975528
 srv.juiceadv.com,AVAILABILITY,domains.list,2022-03-03 08:41:29.441205
@@ -100,3 +90,13 @@ ns1.backbeatmedia.com,AVAILABILITY,domains.list,2022-03-03 08:42:23.500704
 s.send.microad.jp,AVAILABILITY,domains.list,2022-03-03 08:42:23.939089
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2022-03-03 08:42:24.337055
 servedby2.advertising.com,AVAILABILITY,domains.list,2022-03-03 08:42:24.728246
+cdn.bidvertiser.com,AVAILABILITY,domains.list,2022-03-03 08:44:06.567458
+tap.rubiconproject.com,AVAILABILITY,domains.list,2022-03-03 08:44:07.023332
+static.exoclick.com,AVAILABILITY,domains.list,2022-03-03 08:44:07.411403
+tap-cdn.rubiconproject.com,AVAILABILITY,domains.list,2022-03-03 08:44:07.766830
+web-jp.ad-v.jp,AVAILABILITY,domains.list,2022-03-03 08:44:08.144137
+www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-03-03 08:44:08.503077
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2022-03-03 08:44:08.878764
+origin.collective-media.net,AVAILABILITY,domains.list,2022-03-03 08:44:09.254701
+9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-03-03 08:44:09.623641
+richmedia.yimg.com,AVAILABILITY,domains.list,2022-03-03 08:44:10.006229
