@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adnxs.revsci.net,AVAILABILITY,domains.list,2022-03-27 02:46:44.264066
-api.gravity.com,AVAILABILITY,domains.list,2022-03-27 02:46:45.002500
-rma-api.gravity.com,AVAILABILITY,domains.list,2022-03-27 02:46:45.695414
-as.chango.com,AVAILABILITY,domains.list,2022-03-27 02:46:46.413589
-cdn.adnotch.com,AVAILABILITY,domains.list,2022-03-27 02:46:47.272969
-srv.juiceadv.com,AVAILABILITY,domains.list,2022-03-27 02:46:48.441091
-sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2022-03-27 02:47:24.704180
 www.ad-ch.jp,AVAILABILITY,domains.list,2022-03-27 02:49:07.029718
 www.admob.tk,AVAILABILITY,domains.list,2022-03-27 02:49:09.001392
 5be16.v.fwmrm.net,AVAILABILITY,domains.list,2022-03-27 02:49:09.773914
@@ -103,3 +96,10 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-03-27 02:51:25.214479
 origin.collective-media.net,AVAILABILITY,domains.list,2022-03-27 02:51:26.946319
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-03-27 02:51:27.830181
 richmedia.yimg.com,AVAILABILITY,domains.list,2022-03-27 02:51:28.831681
+adnxs.revsci.net,AVAILABILITY,domains.list,2022-03-28 12:12:41.641221
+api.gravity.com,AVAILABILITY,domains.list,2022-03-28 12:12:42.452538
+rma-api.gravity.com,AVAILABILITY,domains.list,2022-03-28 12:12:43.128933
+as.chango.com,AVAILABILITY,domains.list,2022-03-28 12:12:43.865297
+cdn.adnotch.com,AVAILABILITY,domains.list,2022-03-28 12:12:44.755540
+srv.juiceadv.com,AVAILABILITY,domains.list,2022-03-28 12:12:45.572089
+sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2022-03-28 12:13:06.321552
