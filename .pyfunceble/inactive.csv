@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srv.juiceadv.com,AVAILABILITY,domains.list,2022-10-23 04:41:17.787711
-activity.serving-sys.com,AVAILABILITY,domains.list,2022-10-23 04:41:18.153768
-ad.linkexchange.com,AVAILABILITY,domains.list,2022-10-23 04:41:38.591332
 ade.clmbtech.com,AVAILABILITY,domains.list,2022-10-23 04:43:31.628318
 ads.ad-center.com,AVAILABILITY,domains.list,2022-10-23 04:43:32.054130
 api.content.ad,AVAILABILITY,domains.list,2022-10-23 04:43:34.259412
@@ -113,3 +110,7 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-10-23 04:44:53.634876
 origin.collective-media.net,AVAILABILITY,domains.list,2022-10-23 04:44:54.640543
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-10-23 04:44:55.164594
 richmedia.yimg.com,AVAILABILITY,domains.list,2022-10-23 04:44:55.688479
+ad8.adfarm1.adition.com,AVAILABILITY,domains.list,2022-10-24 05:17:39.954302
+srv.juiceadv.com,AVAILABILITY,domains.list,2022-10-24 05:30:49.989064
+activity.serving-sys.com,AVAILABILITY,domains.list,2022-10-24 05:30:50.392084
+ad.linkexchange.com,AVAILABILITY,domains.list,2022-10-24 05:31:10.918962
