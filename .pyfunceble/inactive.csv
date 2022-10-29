@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-a.adorika.net,AVAILABILITY,domains.list,2022-10-28 03:15:53.602467
 srv.juiceadv.com,AVAILABILITY,domains.list,2022-10-29 03:05:08.649283
 ads.ad-center.com,AVAILABILITY,domains.list,2022-10-29 03:05:09.022677
 api.content.ad,AVAILABILITY,domains.list,2022-10-29 03:05:10.010280
@@ -111,3 +110,4 @@ www-lvs.veoxa.com,AVAILABILITY,domains.list,2022-10-29 03:06:27.243502
 origin.collective-media.net,AVAILABILITY,domains.list,2022-10-29 03:06:28.214238
 9cf9.v.fwmrm.net,AVAILABILITY,domains.list,2022-10-29 03:06:28.745035
 richmedia.yimg.com,AVAILABILITY,domains.list,2022-10-29 03:06:29.767762
+a.adorika.net,AVAILABILITY,domains.list,2022-10-29 04:45:42.559603
