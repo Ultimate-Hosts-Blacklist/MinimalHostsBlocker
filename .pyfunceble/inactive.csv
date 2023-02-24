@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srv.juiceadv.com,AVAILABILITY,domains.list,2023-02-22 09:34:40.223347
-ads.ad-center.com,AVAILABILITY,domains.list,2023-02-22 09:34:40.554499
-api.content.ad,AVAILABILITY,domains.list,2023-02-22 09:34:41.614700
-dsp.adledge.com,AVAILABILITY,domains.list,2023-02-22 09:34:42.107418
-engine.rbc.medialand.ru,AVAILABILITY,domains.list,2023-02-22 09:34:43.672544
-m.servebom.com,AVAILABILITY,domains.list,2023-02-22 09:34:44.099271
-test.adpooh.com,AVAILABILITY,domains.list,2023-02-22 09:34:44.811231
-www.da-ads.com,AVAILABILITY,domains.list,2023-02-22 09:34:45.122226
-api.gravity.com,AVAILABILITY,domains.list,2023-02-22 09:34:45.636425
-rma-api.gravity.com,AVAILABILITY,domains.list,2023-02-22 09:34:45.931752
-as.chango.com,AVAILABILITY,domains.list,2023-02-22 09:34:46.419932
-cdn.adnotch.com,AVAILABILITY,domains.list,2023-02-22 09:34:46.991477
-sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2023-02-22 09:34:57.351229
 www.ad-ch.jp,AVAILABILITY,domains.list,2023-02-22 09:34:57.659687
 www.admob.tk,AVAILABILITY,domains.list,2023-02-22 09:34:59.295024
 5be16.v.fwmrm.net,AVAILABILITY,domains.list,2023-02-22 09:34:59.671122
@@ -111,3 +98,16 @@ imads.integral-marketing.com,AVAILABILITY,domains.list,2023-02-23 09:33:00.19841
 s.ad131m.com,AVAILABILITY,domains.list,2023-02-23 09:33:00.798035
 admaster.heyos.com,AVAILABILITY,domains.list,2023-02-23 09:33:01.505567
 media.888.com,AVAILABILITY,domains.list,2023-02-23 09:33:02.196202
+srv.juiceadv.com,AVAILABILITY,domains.list,2023-02-24 03:26:15.522279
+ads.ad-center.com,AVAILABILITY,domains.list,2023-02-24 03:26:15.876723
+api.content.ad,AVAILABILITY,domains.list,2023-02-24 03:26:16.720081
+dsp.adledge.com,AVAILABILITY,domains.list,2023-02-24 03:26:17.138958
+engine.rbc.medialand.ru,AVAILABILITY,domains.list,2023-02-24 03:26:18.467344
+m.servebom.com,AVAILABILITY,domains.list,2023-02-24 03:26:18.796947
+test.adpooh.com,AVAILABILITY,domains.list,2023-02-24 03:26:23.111179
+www.da-ads.com,AVAILABILITY,domains.list,2023-02-24 03:26:23.535878
+api.gravity.com,AVAILABILITY,domains.list,2023-02-24 03:26:24.050176
+rma-api.gravity.com,AVAILABILITY,domains.list,2023-02-24 03:26:24.510874
+as.chango.com,AVAILABILITY,domains.list,2023-02-24 03:26:24.980361
+cdn.adnotch.com,AVAILABILITY,domains.list,2023-02-24 03:26:25.421099
+sdt1.corp.inmobi.com,AVAILABILITY,domains.list,2023-02-24 03:27:05.827004
