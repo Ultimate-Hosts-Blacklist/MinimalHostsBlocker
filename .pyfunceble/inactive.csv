@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad-ch.jp,AVAILABILITY,domains.list,2023-02-25 03:43:59.110098
-ads.aftonbladet.se,AVAILABILITY,domains.list,2023-02-25 03:43:59.973068
 ads.cricbuzz.com,AVAILABILITY,domains.list,2023-02-27 03:20:45.770056
 adb.nikkei.co.jp,AVAILABILITY,domains.list,2023-02-27 03:20:46.902804
 ads.bidvertiser.com,AVAILABILITY,domains.list,2023-02-27 03:20:47.206392
@@ -111,3 +109,5 @@ ad4.netshelter.net,AVAILABILITY,domains.list,2023-02-27 03:21:47.697042
 ad.leadbolt.net,AVAILABILITY,domains.list,2023-02-27 03:21:48.024514
 ad.omni.se,AVAILABILITY,domains.list,2023-02-27 03:21:48.682893
 ad.taptica.com,AVAILABILITY,domains.list,2023-02-27 03:21:49.017960
+ad-ch.jp,AVAILABILITY,domains.list,2023-02-27 03:26:36.916533
+ads.aftonbladet.se,AVAILABILITY,domains.list,2023-02-27 03:26:38.358702
