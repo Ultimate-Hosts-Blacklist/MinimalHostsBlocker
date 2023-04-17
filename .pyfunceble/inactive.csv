@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.adxcore.com,AVAILABILITY,domains.list,2023-04-15 08:59:14.462552
 cdn.cpsoft86.com,AVAILABILITY,domains.list,2023-04-16 08:50:14.920827
 i.w.sandbox.inmobi.com,AVAILABILITY,domains.list,2023-04-16 08:50:15.344325
 cdn.castplatform.com,AVAILABILITY,domains.list,2023-04-16 08:50:16.665870
@@ -111,3 +110,4 @@ cre.adjust-net.jp,AVAILABILITY,domains.list,2023-04-16 08:51:23.960699
 go.goroost.com,AVAILABILITY,domains.list,2023-04-16 08:51:24.383536
 gomotrak.com,AVAILABILITY,domains.list,2023-04-16 08:51:24.776858
 i.po.st,AVAILABILITY,domains.list,2023-04-16 08:51:25.149015
+ad.adxcore.com,AVAILABILITY,domains.list,2023-04-17 02:22:11.507368
