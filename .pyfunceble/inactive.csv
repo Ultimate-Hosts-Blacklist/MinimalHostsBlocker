@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-gomotrak.com,AVAILABILITY,domains.list,2023-10-11 02:49:33.999448
-i.po.st,AVAILABILITY,domains.list,2023-10-11 02:49:34.476759
-ad.dc2.adtech.de,AVAILABILITY,domains.list,2023-10-11 02:49:35.604074
-adpriv.nikkei.com,AVAILABILITY,domains.list,2023-10-11 02:49:37.379120
-images.intellitxt.com,AVAILABILITY,domains.list,2023-10-11 02:49:49.798785
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2023-10-11 02:50:01.698277
-a.visualrevenue.com,AVAILABILITY,domains.list,2023-10-11 02:50:02.088733
 cdn.adbrau.com,AVAILABILITY,domains.list,2023-10-12 12:01:45.480013
 dsp.adledge.com,AVAILABILITY,domains.list,2023-10-12 12:01:45.862392
 ad.adtoma.com,AVAILABILITY,domains.list,2023-10-12 12:01:46.218752
@@ -126,3 +119,10 @@ dtm.advertising.com,AVAILABILITY,domains.list,2023-10-12 12:03:54.182480
 e.admob.com,AVAILABILITY,domains.list,2023-10-12 12:03:57.240915
 cre.adjust-net.jp,AVAILABILITY,domains.list,2023-10-12 12:03:57.580987
 go.goroost.com,AVAILABILITY,domains.list,2023-10-12 12:04:00.264721
+gomotrak.com,AVAILABILITY,domains.list,2023-10-12 12:09:12.883488
+i.po.st,AVAILABILITY,domains.list,2023-10-12 12:09:13.573709
+ad.dc2.adtech.de,AVAILABILITY,domains.list,2023-10-12 12:09:14.551657
+adpriv.nikkei.com,AVAILABILITY,domains.list,2023-10-12 12:09:15.321291
+images.intellitxt.com,AVAILABILITY,domains.list,2023-10-12 12:09:15.888906
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2023-10-12 12:09:17.012240
+a.visualrevenue.com,AVAILABILITY,domains.list,2023-10-12 12:09:17.362062
