@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bb.crwdcntrl.net,AVAILABILITY,domains.list,2023-11-08 09:49:41.434767
 www.adshost2.com,AVAILABILITY,domains.list,2023-11-08 09:56:11.503743
 cdn.directtrk.com,AVAILABILITY,domains.list,2023-11-08 09:56:11.826978
 cdn.adbrau.com,AVAILABILITY,domains.list,2023-11-08 09:56:12.280787
@@ -129,3 +128,4 @@ adpriv.nikkei.com,AVAILABILITY,domains.list,2023-11-08 09:57:30.718992
 images.intellitxt.com,AVAILABILITY,domains.list,2023-11-08 09:57:31.227294
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2023-11-08 09:57:32.145348
 a.visualrevenue.com,AVAILABILITY,domains.list,2023-11-08 09:57:32.582642
+bb.crwdcntrl.net,AVAILABILITY,domains.list,2023-11-09 10:02:03.644072
