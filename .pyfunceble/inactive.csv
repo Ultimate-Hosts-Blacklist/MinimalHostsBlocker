@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad1.emediate.dk,AVAILABILITY,domains.list,2024-01-18 06:54:30.097351
-app.brightinfo.com,AVAILABILITY,domains.list,2024-01-18 06:54:31.013681
-cdn.adshexa.com,AVAILABILITY,domains.list,2024-01-18 06:54:31.996624
-a.adorika.net,AVAILABILITY,domains.list,2024-01-18 06:54:32.923536
-www.adshost2.com,AVAILABILITY,domains.list,2024-01-18 06:54:35.404374
-cdn.directtrk.com,AVAILABILITY,domains.list,2024-01-18 06:54:36.607673
-cdn.adbrau.com,AVAILABILITY,domains.list,2024-01-18 06:54:37.364251
-dsp.adledge.com,AVAILABILITY,domains.list,2024-01-18 06:54:38.257056
-ad.adtoma.com,AVAILABILITY,domains.list,2024-01-18 06:54:39.504270
-ad.yieldmanager.com,AVAILABILITY,domains.list,2024-01-18 06:54:40.841382
-eu2.madsone.com,AVAILABILITY,domains.list,2024-01-18 06:54:42.165563
-m.admob.com,AVAILABILITY,domains.list,2024-01-18 06:54:43.997755
-www.adcash.com,AVAILABILITY,domains.list,2024-01-18 06:54:44.655418
-www.burstnet.com,AVAILABILITY,domains.list,2024-01-18 06:54:48.418996
 www.clickterra.net,AVAILABILITY,domains.list,2024-01-18 06:54:49.706554
 www.smartadserver.com,AVAILABILITY,domains.list,2024-01-18 06:54:53.499963
 www.yllix.com,AVAILABILITY,domains.list,2024-01-18 06:55:02.968084
@@ -131,3 +117,17 @@ images.intellitxt.com,AVAILABILITY,domains.list,2024-01-18 07:01:27.297623
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-01-18 07:01:28.158087
 a.visualrevenue.com,AVAILABILITY,domains.list,2024-01-18 07:01:29.002368
 bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-01-18 07:01:29.999210
+ad1.emediate.dk,AVAILABILITY,domains.list,2024-01-19 08:14:11.793577
+app.brightinfo.com,AVAILABILITY,domains.list,2024-01-19 08:14:12.838528
+cdn.adshexa.com,AVAILABILITY,domains.list,2024-01-19 08:14:13.620329
+a.adorika.net,AVAILABILITY,domains.list,2024-01-19 08:14:15.018305
+www.adshost2.com,AVAILABILITY,domains.list,2024-01-19 08:14:17.771196
+cdn.directtrk.com,AVAILABILITY,domains.list,2024-01-19 08:14:18.956403
+cdn.adbrau.com,AVAILABILITY,domains.list,2024-01-19 08:14:20.089747
+dsp.adledge.com,AVAILABILITY,domains.list,2024-01-19 08:14:21.341405
+ad.adtoma.com,AVAILABILITY,domains.list,2024-01-19 08:14:22.519720
+ad.yieldmanager.com,AVAILABILITY,domains.list,2024-01-19 08:14:24.034088
+eu2.madsone.com,AVAILABILITY,domains.list,2024-01-19 08:14:25.054906
+m.admob.com,AVAILABILITY,domains.list,2024-01-19 08:14:27.619347
+www.adcash.com,AVAILABILITY,domains.list,2024-01-19 08:14:28.531659
+www.burstnet.com,AVAILABILITY,domains.list,2024-01-19 08:14:32.235461
