@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-04-08 06:43:50.513330
-adpriv.nikkei.com,AVAILABILITY,domains.list,2024-04-08 06:43:51.938153
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-04-08 06:43:53.000021
-bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-04-08 06:43:53.559628
-i.t.webtracker.jp,AVAILABILITY,domains.list,2024-04-08 06:43:54.338078
-herezera.com,AVAILABILITY,domains.list,2024-04-08 06:43:54.933302
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-04-08 06:43:55.529385
 ads.intergi.com,AVAILABILITY,domains.list,2024-04-09 09:57:25.061715
 cdn.hgdat.com,AVAILABILITY,domains.list,2024-04-09 09:59:48.715634
 cdn.krxd.net,AVAILABILITY,domains.list,2024-04-09 09:59:49.520870
@@ -83,3 +76,10 @@ ctl1.buyt.in,AVAILABILITY,domains.list,2024-04-09 10:10:06.443895
 de.cisive.net,AVAILABILITY,domains.list,2024-04-09 10:10:07.067408
 cre.adjust-net.jp,AVAILABILITY,domains.list,2024-04-09 10:10:07.637620
 gomotrak.com,AVAILABILITY,domains.list,2024-04-09 10:10:08.268653
+ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-04-09 10:18:27.014046
+adpriv.nikkei.com,AVAILABILITY,domains.list,2024-04-09 10:18:29.840738
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-04-09 10:18:36.128586
+bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-04-09 10:18:36.784457
+i.t.webtracker.jp,AVAILABILITY,domains.list,2024-04-09 10:18:38.366311
+herezera.com,AVAILABILITY,domains.list,2024-04-09 10:18:39.054319
+engine.4chan-ads.org,AVAILABILITY,domains.list,2024-04-09 10:18:39.647464
