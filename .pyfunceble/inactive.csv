@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-i.t.webtracker.jp,AVAILABILITY,domains.list,2024-04-15 04:45:31.630901
-herezera.com,AVAILABILITY,domains.list,2024-04-15 04:45:32.162232
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-04-15 04:45:32.705464
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-04-16 02:36:12.219999
 ads.intergi.com,AVAILABILITY,domains.list,2024-04-17 02:54:38.356975
 cdn.hgdat.com,AVAILABILITY,domains.list,2024-04-17 02:54:38.935752
 cdn.krxd.net,AVAILABILITY,domains.list,2024-04-17 02:54:39.437440
@@ -84,3 +80,7 @@ ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-04-17 02:55:47.131333
 adpriv.nikkei.com,AVAILABILITY,domains.list,2024-04-17 02:55:48.448776
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-04-17 02:55:50.202898
 bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-04-17 02:55:50.685342
+i.t.webtracker.jp,AVAILABILITY,domains.list,2024-04-17 02:59:10.193198
+herezera.com,AVAILABILITY,domains.list,2024-04-17 02:59:10.874891
+engine.4chan-ads.org,AVAILABILITY,domains.list,2024-04-17 02:59:11.407349
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-04-17 02:59:12.831441
