@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.saymedia.com,AVAILABILITY,domains.list,2024-05-07 02:24:18.575096
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-05-07 02:29:03.662369
-track.netshelter.net,AVAILABILITY,domains.list,2024-05-07 02:33:16.136732
-ads.intergi.com,AVAILABILITY,domains.list,2024-05-07 04:54:19.754466
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-05-07 05:03:08.271345
-openad.tf1.fr,AVAILABILITY,domains.list,2024-05-07 05:03:10.783873
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-05-07 09:14:09.025847
 rcm-images.amazon.com,AVAILABILITY,domains.list,2024-05-07 09:15:22.682396
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2024-05-07 09:15:25.997659
@@ -138,3 +132,6 @@ bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-05-07 09:26:35.722238
 i.t.webtracker.jp,AVAILABILITY,domains.list,2024-05-07 09:26:36.913389
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-05-07 09:26:38.107011
 cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-07 09:26:38.631739
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-05-08 09:07:02.126778
+track.netshelter.net,AVAILABILITY,domains.list,2024-05-08 09:10:55.668365
+ads.intergi.com,AVAILABILITY,domains.list,2024-05-08 09:10:56.359698
