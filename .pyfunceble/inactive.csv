@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-openad.tf1.fr,AVAILABILITY,domains.list,2024-05-18 05:36:01.360288
-ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-18 05:39:08.029273
 a.goember.com,AVAILABILITY,domains.list,2024-05-19 05:34:06.099611
 ads.cleveland.com,AVAILABILITY,domains.list,2024-05-19 05:35:46.590103
 t.neodatagroup.com,AVAILABILITY,domains.list,2024-05-19 05:43:19.016801
@@ -134,3 +132,7 @@ i.t.webtracker.jp,AVAILABILITY,domains.list,2024-05-19 05:48:18.607176
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-05-19 05:48:19.652774
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2024-05-19 05:48:19.869448
 engine.4chan-ads.org,AVAILABILITY,domains.list,2024-05-19 05:48:20.327786
+cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-20 02:15:14.433645
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-05-20 02:18:56.776297
+openad.tf1.fr,AVAILABILITY,domains.list,2024-05-20 02:22:49.386212
+ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-20 02:22:49.725056
