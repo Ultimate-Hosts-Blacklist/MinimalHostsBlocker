@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-openad.tf1.fr,AVAILABILITY,domains.list,2024-05-20 02:22:49.386212
-ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-20 02:22:49.725056
 ads.saymedia.com,AVAILABILITY,domains.list,2024-05-21 02:07:09.231212
 p22.atemda.com,AVAILABILITY,domains.list,2024-05-21 02:19:00.403225
 1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-05-21 02:19:00.933097
@@ -130,3 +128,7 @@ bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-05-21 02:23:18.764827
 i.t.webtracker.jp,AVAILABILITY,domains.list,2024-05-21 02:23:19.853564
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-05-21 02:23:21.892287
 cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-21 02:23:22.837528
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-05-21 09:40:22.432497
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-05-21 09:40:23.024469
+t.neodatagroup.com,AVAILABILITY,domains.list,2024-05-21 09:42:30.004537
+track.netshelter.net,AVAILABILITY,domains.list,2024-05-21 09:42:53.798611
