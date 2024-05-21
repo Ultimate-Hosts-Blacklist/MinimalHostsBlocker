@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-a.goember.com,AVAILABILITY,domains.list,2024-05-19 05:34:06.099611
-ads.cleveland.com,AVAILABILITY,domains.list,2024-05-19 05:35:46.590103
-t.neodatagroup.com,AVAILABILITY,domains.list,2024-05-19 05:43:19.016801
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-05-19 05:45:16.923913
-p22.atemda.com,AVAILABILITY,domains.list,2024-05-19 05:45:28.837465
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-05-19 05:45:29.281375
-2912a.v.fwmrm.net,AVAILABILITY,domains.list,2024-05-19 05:45:29.524981
-a.visualrevenue.com,AVAILABILITY,domains.list,2024-05-19 05:45:29.921571
-ace.advertising.com,AVAILABILITY,domains.list,2024-05-19 05:45:30.171403
-ad.adtoma.com,AVAILABILITY,domains.list,2024-05-19 05:45:30.504182
-ad.directrev.com,AVAILABILITY,domains.list,2024-05-19 05:45:30.849733
 ad.leadbolt.net,AVAILABILITY,domains.list,2024-05-19 05:45:31.160882
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-19 05:45:31.982804
 ad1.emediate.dk,AVAILABILITY,domains.list,2024-05-19 05:45:32.988236
@@ -136,3 +125,11 @@ cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-20 02:15:14.433645
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-05-20 02:18:56.776297
 openad.tf1.fr,AVAILABILITY,domains.list,2024-05-20 02:22:49.386212
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-20 02:22:49.725056
+ads.saymedia.com,AVAILABILITY,domains.list,2024-05-21 02:07:09.231212
+p22.atemda.com,AVAILABILITY,domains.list,2024-05-21 02:19:00.403225
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-05-21 02:19:00.933097
+2912a.v.fwmrm.net,AVAILABILITY,domains.list,2024-05-21 02:19:01.321173
+a.visualrevenue.com,AVAILABILITY,domains.list,2024-05-21 02:19:01.820126
+ace.advertising.com,AVAILABILITY,domains.list,2024-05-21 02:19:02.302707
+ad.adtoma.com,AVAILABILITY,domains.list,2024-05-21 02:19:02.917975
+ad.directrev.com,AVAILABILITY,domains.list,2024-05-21 02:19:03.519751
