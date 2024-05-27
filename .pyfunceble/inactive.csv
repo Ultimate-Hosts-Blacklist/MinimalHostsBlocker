@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-26 04:53:37.374288
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-05-27 04:43:23.720976
 ads.cleveland.com,AVAILABILITY,domains.list,2024-05-27 04:47:25.018166
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-05-27 04:47:26.259567
@@ -132,3 +131,6 @@ motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-05-27 04:50:12.651436
 t.neodatagroup.com,AVAILABILITY,domains.list,2024-05-27 04:50:13.051312
 c2.popads.net,AVAILABILITY,domains.list,2024-05-27 04:50:14.742217
 rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-27 04:50:15.202575
+ads.intergi.com,AVAILABILITY,domains.list,2024-05-27 09:56:59.808604
+ads.saymedia.com,AVAILABILITY,domains.list,2024-05-27 09:57:10.478415
+cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-27 09:59:02.185150
