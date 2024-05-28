@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-05-27 04:50:06.778201
-i.t.webtracker.jp,AVAILABILITY,domains.list,2024-05-27 04:50:07.504274
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-05-27 04:50:12.182046
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-05-27 04:50:12.651436
-t.neodatagroup.com,AVAILABILITY,domains.list,2024-05-27 04:50:13.051312
-c2.popads.net,AVAILABILITY,domains.list,2024-05-27 04:50:14.742217
-rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-27 04:50:15.202575
-ads.intergi.com,AVAILABILITY,domains.list,2024-05-27 09:56:59.808604
-ads.saymedia.com,AVAILABILITY,domains.list,2024-05-27 09:57:10.478415
-cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-05-27 09:59:02.185150
 openad.tf1.fr,AVAILABILITY,domains.list,2024-05-28 10:02:27.370033
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-05-28 10:06:39.019932
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-05-28 10:06:40.111033
@@ -134,3 +124,9 @@ gomotrak.com,AVAILABILITY,domains.list,2024-05-28 10:09:15.184796
 ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-05-28 10:09:15.943816
 adpriv.nikkei.com,AVAILABILITY,domains.list,2024-05-28 10:09:17.208927
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-05-28 10:09:29.087535
+bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-05-28 10:15:14.918284
+i.t.webtracker.jp,AVAILABILITY,domains.list,2024-05-28 10:15:15.574026
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-05-28 10:15:17.109799
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-05-28 10:15:18.525660
+ads.intergi.com,AVAILABILITY,domains.list,2024-05-28 10:15:19.255406
+ads.saymedia.com,AVAILABILITY,domains.list,2024-05-28 10:15:19.781302
