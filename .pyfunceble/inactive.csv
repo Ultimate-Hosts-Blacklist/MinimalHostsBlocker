@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2024-06-13 06:47:38.309135
-ads.intergi.com,AVAILABILITY,domains.list,2024-06-13 06:47:40.535485
-cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-06-13 06:50:00.315009
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-06-13 06:52:24.967475
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-06-13 06:54:10.306520
-rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-06-13 06:55:04.123116
-t.neodatagroup.com,AVAILABILITY,domains.list,2024-06-13 06:56:07.726112
 c2.popads.net,AVAILABILITY,domains.list,2024-06-14 04:36:34.545433
 rcm-images.amazon.com,AVAILABILITY,domains.list,2024-06-14 04:46:10.054680
 ads.saymedia.com,AVAILABILITY,domains.list,2024-06-14 04:46:10.652844
@@ -140,3 +133,4 @@ openad.tf1.fr,AVAILABILITY,domains.list,2024-06-14 05:42:07.302030
 track.netshelter.net,AVAILABILITY,domains.list,2024-06-14 05:44:38.791738
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-06-14 05:45:28.422265
 motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-06-14 08:56:32.676509
+ads.cleveland.com,AVAILABILITY,domains.list,2024-06-14 09:03:14.471921
