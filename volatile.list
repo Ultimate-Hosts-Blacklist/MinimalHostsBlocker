@@ -119,7 +119,6 @@ ads.cb-cdn.com
 ads.celtra.com
 ads.exoclick.com
 ads.flurry.com
-ads.footballaddicts.com
 ads.heyzap.com
 ads.juicyads.com
 ads.lfstmedia.com
@@ -188,7 +187,6 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
-c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
@@ -393,13 +391,14 @@ quantserve.com
 r.edge.inmobicdn.net
 r.w.inmobi.com
 rad.live.com
-rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
+royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -471,6 +470,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
