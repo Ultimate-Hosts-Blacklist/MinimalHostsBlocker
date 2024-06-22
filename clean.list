@@ -121,7 +121,9 @@ ads.celtra.com
 ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
+ads.footballaddicts.com
 ads.heyzap.com
+ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
@@ -132,7 +134,6 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
-ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -196,7 +197,6 @@ c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
-cdn1.inner-active.mobi
 cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
@@ -228,7 +228,6 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
-cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -393,14 +392,17 @@ pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
+r.edge.inmobicdn.net
 rad.live.com
 rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
+royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -455,6 +457,7 @@ tempest.services.disqus.com
 tpc.googlesyndication.com
 track.adform.net
 track.lfstmedia.com
+track.netshelter.net
 tracking.trafficjunky.net
 traffic.outbrain.com
 traffic.trafficposse.com
