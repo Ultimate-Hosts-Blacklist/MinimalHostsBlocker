@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.intergi.com,AVAILABILITY,domains.list,2024-06-26 03:35:03.649692
-ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-06-26 03:35:05.929674
-cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-06-26 03:37:10.719764
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-06-26 03:41:23.927180
-openad.tf1.fr,AVAILABILITY,domains.list,2024-06-26 03:41:34.122212
-track.netshelter.net,AVAILABILITY,domains.list,2024-06-26 03:43:01.827026
-ads.cleveland.com,AVAILABILITY,domains.list,2024-06-26 03:44:38.664099
-c2.popads.net,AVAILABILITY,domains.list,2024-06-26 03:44:43.431048
-img1.nend.net,AVAILABILITY,domains.list,2024-06-26 03:44:44.175362
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2024-06-26 03:44:44.843221
-static.trafficjunky.net,AVAILABILITY,domains.list,2024-06-26 03:44:55.298523
-r.w.inmobi.com,AVAILABILITY,domains.list,2024-06-26 03:45:30.144072
-ads.footballaddicts.com,AVAILABILITY,domains.list,2024-06-26 09:27:56.339802
-ads.saymedia.com,AVAILABILITY,domains.list,2024-06-26 09:28:01.922574
 cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-06-26 09:30:47.139363
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-06-26 09:36:03.522342
 engine.4chan-ads.org,AVAILABILITY,domains.list,2024-06-26 09:36:45.596480
@@ -142,3 +128,14 @@ modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-06-26 09:40:14.795976
 bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-06-26 09:40:15.279375
 i.t.webtracker.jp,AVAILABILITY,domains.list,2024-06-26 09:40:16.245038
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-06-26 09:40:17.870645
+r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-06-27 09:36:31.830810
+rcm-images.amazon.com,AVAILABILITY,domains.list,2024-06-27 09:36:33.745380
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-06-27 09:36:34.390070
+t.neodatagroup.com,AVAILABILITY,domains.list,2024-06-27 09:37:12.384028
+ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-06-27 09:39:21.211174
+openad.tf1.fr,AVAILABILITY,domains.list,2024-06-27 09:39:22.954097
+c2.popads.net,AVAILABILITY,domains.list,2024-06-27 09:39:24.412142
+img1.nend.net,AVAILABILITY,domains.list,2024-06-27 09:39:24.756963
+r.w.inmobi.com,AVAILABILITY,domains.list,2024-06-27 09:39:43.781442
+ads.footballaddicts.com,AVAILABILITY,domains.list,2024-06-27 09:39:44.392932
+ads.saymedia.com,AVAILABILITY,domains.list,2024-06-27 09:39:44.840575
