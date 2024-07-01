@@ -117,6 +117,7 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
+ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
@@ -187,6 +188,7 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
+c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
@@ -389,15 +391,14 @@ pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
-r.edge.inmobicdn.net
 rad.live.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
-royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -438,7 +439,6 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
-static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
@@ -452,7 +452,6 @@ tempest.services.disqus.com
 tpc.googlesyndication.com
 track.adform.net
 track.lfstmedia.com
-track.netshelter.net
 tracking.trafficjunky.net
 traffic.outbrain.com
 traffic.trafficposse.com
@@ -469,6 +468,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
