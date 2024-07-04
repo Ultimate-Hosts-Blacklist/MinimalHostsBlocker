@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.cleveland.com,AVAILABILITY,domains.list,2024-07-03 04:01:35.839487
-pub.clicksor.net,AVAILABILITY,domains.list,2024-07-03 04:08:23.936773
-r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-07-03 04:11:50.085500
-static.trafficjunky.net,AVAILABILITY,domains.list,2024-07-03 04:12:03.811062
-track.netshelter.net,AVAILABILITY,domains.list,2024-07-03 04:12:04.412222
-adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-03 04:12:04.958246
 ads.saymedia.com,AVAILABILITY,domains.list,2024-07-04 04:01:43.771876
 c2.popads.net,AVAILABILITY,domains.list,2024-07-04 04:02:45.536558
 cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-07-04 04:03:23.442427
@@ -141,3 +135,9 @@ adv.aftonbladet.se,AVAILABILITY,domains.list,2024-07-04 04:13:28.544025
 ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-07-04 04:13:29.045189
 img1.nend.net,AVAILABILITY,domains.list,2024-07-04 04:13:29.467565
 t.neodatagroup.com,AVAILABILITY,domains.list,2024-07-04 04:13:29.871747
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-07-04 12:02:24.404896
+rcm-images.amazon.com,AVAILABILITY,domains.list,2024-07-04 12:02:52.484830
+ads.cleveland.com,AVAILABILITY,domains.list,2024-07-04 12:05:34.805719
+pub.clicksor.net,AVAILABILITY,domains.list,2024-07-04 12:05:35.132034
+r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-07-04 12:05:48.499527
+adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-04 12:05:49.312928
