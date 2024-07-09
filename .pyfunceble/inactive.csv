@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-openad.tf1.fr,AVAILABILITY,domains.list,2024-07-08 06:55:25.630198
-static.trafficjunky.net,AVAILABILITY,domains.list,2024-07-08 06:56:35.428274
-t.neodatagroup.com,AVAILABILITY,domains.list,2024-07-08 06:56:43.622276
-track.netshelter.net,AVAILABILITY,domains.list,2024-07-08 06:57:08.279002
-ads.footballaddicts.com,AVAILABILITY,domains.list,2024-07-08 06:58:51.058186
-ads.intergi.com,AVAILABILITY,domains.list,2024-07-08 06:58:51.481562
 adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-09 06:40:11.835427
 motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-07-09 06:46:12.308413
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-07-09 06:46:23.817422
@@ -139,3 +133,10 @@ i.t.webtracker.jp,AVAILABILITY,domains.list,2024-07-09 06:54:25.304257
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-07-09 06:54:27.232617
 ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-07-09 06:54:28.586442
 img1.nend.net,AVAILABILITY,domains.list,2024-07-09 06:54:29.030797
+r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-07-09 10:32:25.828429
+ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-07-09 10:34:38.069227
+openad.tf1.fr,AVAILABILITY,domains.list,2024-07-09 10:35:45.848410
+static.trafficjunky.net,AVAILABILITY,domains.list,2024-07-09 10:35:56.255404
+track.netshelter.net,AVAILABILITY,domains.list,2024-07-09 10:35:57.135127
+ads.footballaddicts.com,AVAILABILITY,domains.list,2024-07-09 10:35:58.021976
+ads.intergi.com,AVAILABILITY,domains.list,2024-07-09 10:35:58.529814
