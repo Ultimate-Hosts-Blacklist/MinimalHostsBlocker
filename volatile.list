@@ -117,7 +117,6 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
-ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
@@ -149,6 +148,7 @@ adservices.picadmedia.com
 adshost2.com
 adspaces.ero-advertising.com
 adsx.greystripe.com
+adsyndication.msn.com
 adtgs.adk2x.com
 adx.g.doubleclick.net
 adzerk.net
@@ -187,13 +187,13 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
-c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
+cdn1.inner-active.mobi
 cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
@@ -270,7 +270,6 @@ ecpmrocks.com
 edge.quantserve.com
 embed.insticator.com
 engine2.adzerk.net
-engine.4chan-ads.org
 engine.adzerk.net
 et.w.inmobi.com
 etarg.ru
@@ -350,7 +349,7 @@ mm.chitika.net
 mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
-motifcdn2.doubleclick.net
+motifcdn.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
 my.hellobar.com
@@ -366,6 +365,7 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
+onceux.unicornmedia.com
 onclickads.net
 out.popads.net
 outbrain.com
@@ -389,10 +389,9 @@ pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
-r.w.inmobi.com
 rad.live.com
-rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
