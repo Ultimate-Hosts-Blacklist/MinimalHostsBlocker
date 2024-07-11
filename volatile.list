@@ -117,9 +117,11 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
+ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
+ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
@@ -129,7 +131,6 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
-ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -187,6 +188,7 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
+c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
@@ -225,7 +227,6 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
-cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -365,8 +366,8 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
-onceux.unicornmedia.com
 onclickads.net
+openad.tf1.fr
 out.popads.net
 outbrain.com
 overture.com
@@ -384,11 +385,11 @@ pixel.rubiconproject.com
 pq-direct.revsci.net
 projectwonderful.com
 pt.trafficjunky.net
-pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
+r.edge.inmobicdn.net
 rad.live.com
 rcm-it.amazon.it
 rcm-na.amazon-adsystem.com
@@ -397,7 +398,6 @@ resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
-royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -438,13 +438,13 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
+static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
-t.neodatagroup.com
 tag.contextweb.com
 tags.bkrtx.com
 tcr.tynt.com
@@ -467,6 +467,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
