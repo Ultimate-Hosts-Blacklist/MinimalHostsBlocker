@@ -132,7 +132,6 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
-ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -195,7 +194,6 @@ c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
-cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
 cdn1.smartadserver.com
@@ -367,7 +365,6 @@ ocsp.apple.com
 odb.outbrain.com
 onceux.unicornmedia.com
 onclickads.net
-openad.tf1.fr
 out.popads.net
 outbrain.com
 overture.com
@@ -394,7 +391,6 @@ r.w.inmobi.com
 rad.live.com
 rcm-images.amazon.com
 rcm-it.amazon.it
-rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
@@ -441,6 +437,7 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
+static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
