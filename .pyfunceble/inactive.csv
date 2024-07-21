@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-openad.tf1.fr,AVAILABILITY,domains.list,2024-07-20 01:51:53.402127
-rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-07-20 01:52:29.908320
-adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-20 01:55:08.006679
-r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-07-20 01:55:18.234828
 ads.cleveland.com,AVAILABILITY,domains.list,2024-07-21 01:53:03.416327
 ads.footballaddicts.com,AVAILABILITY,domains.list,2024-07-21 01:53:04.831436
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-07-21 01:58:07.378181
@@ -143,3 +139,7 @@ img1.nend.net,AVAILABILITY,domains.list,2024-07-21 02:04:45.417300
 c2.popads.net,AVAILABILITY,domains.list,2024-07-21 02:04:50.663463
 cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-07-21 02:04:50.944708
 cdn1.media.trafficjunky.net,AVAILABILITY,domains.list,2024-07-21 02:05:08.637741
+cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-07-21 04:49:40.826501
+r.w.inmobi.com,AVAILABILITY,domains.list,2024-07-21 04:53:35.213925
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-07-21 04:56:33.096893
+adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-21 04:56:33.659378
