@@ -7,7 +7,6 @@ a.adorika.net
 a.adroll.com
 a.ad-sys.com
 a.adtech.de
-a.goember.com
 a.kat.cr
 a.ligatus.com
 a.scorecardresearch.com
@@ -117,6 +116,7 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
+ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
@@ -130,7 +130,6 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
-ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -267,7 +266,6 @@ ecpmrocks.com
 edge.quantserve.com
 embed.insticator.com
 engine2.adzerk.net
-engine.4chan-ads.org
 engine.adzerk.net
 et.w.inmobi.com
 etarg.ru
@@ -362,8 +360,8 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
+onceux.unicornmedia.com
 onclickads.net
-openad.tf1.fr
 out.popads.net
 outbrain.com
 overture.com
@@ -381,6 +379,7 @@ pixel.rubiconproject.com
 pq-direct.revsci.net
 projectwonderful.com
 pt.trafficjunky.net
+pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
@@ -394,6 +393,7 @@ resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
+royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -434,14 +434,12 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
-static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
-t.neodatagroup.com
 tag.contextweb.com
 tags.bkrtx.com
 tcr.tynt.com
@@ -449,6 +447,7 @@ tempest.services.disqus.com
 tpc.googlesyndication.com
 track.adform.net
 track.lfstmedia.com
+track.netshelter.net
 tracking.trafficjunky.net
 traffic.outbrain.com
 trc.taboola.com
