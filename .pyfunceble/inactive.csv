@@ -1,20 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-07-24 02:38:07.953864
-adpriv.nikkei.com,AVAILABILITY,domains.list,2024-07-24 02:38:09.192331
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-07-24 02:38:20.339015
-bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-07-24 02:38:20.633473
-i.t.webtracker.jp,AVAILABILITY,domains.list,2024-07-24 02:38:36.577157
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-07-24 02:43:38.640043
-ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-07-24 02:43:40.286089
-img1.nend.net,AVAILABILITY,domains.list,2024-07-24 02:43:40.926428
-ads.footballaddicts.com,AVAILABILITY,domains.list,2024-07-25 02:24:18.123689
-ads.saymedia.com,AVAILABILITY,domains.list,2024-07-25 02:24:25.496284
-adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-25 02:24:34.592660
-c2.popads.net,AVAILABILITY,domains.list,2024-07-25 02:25:26.456341
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-07-25 02:28:11.265155
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-07-25 02:29:32.351854
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-07-25 02:29:32.964765
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-07-25 02:29:39.010009
 track.netshelter.net,AVAILABILITY,domains.list,2024-07-25 02:31:07.610619
 ads.cleveland.com,AVAILABILITY,domains.list,2024-07-26 02:17:03.670264
 ads.intergi.com,AVAILABILITY,domains.list,2024-07-26 02:17:05.115215
@@ -147,3 +131,14 @@ ctl1.buyt.in,AVAILABILITY,domains.list,2024-07-26 02:30:17.271982
 de.cisive.net,AVAILABILITY,domains.list,2024-07-26 02:30:17.697002
 cre.adjust-net.jp,AVAILABILITY,domains.list,2024-07-26 02:30:19.258866
 gomotrak.com,AVAILABILITY,domains.list,2024-07-26 02:30:19.678845
+ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-07-26 02:32:05.765274
+adpriv.nikkei.com,AVAILABILITY,domains.list,2024-07-26 02:32:07.364859
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-07-26 02:32:14.843461
+bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-07-26 02:32:15.205507
+i.t.webtracker.jp,AVAILABILITY,domains.list,2024-07-26 02:32:32.556396
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-07-26 02:32:34.953775
+ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-07-26 02:32:35.617256
+img1.nend.net,AVAILABILITY,domains.list,2024-07-26 02:32:35.985383
+adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-26 02:32:37.145063
+c2.popads.net,AVAILABILITY,domains.list,2024-07-26 02:32:41.506905
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-07-26 02:32:42.901164
