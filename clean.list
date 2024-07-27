@@ -150,6 +150,7 @@ adservices.picadmedia.com
 adshost2.com
 adspaces.ero-advertising.com
 adsx.greystripe.com
+adsyndication.msn.com
 adtgs.adk2x.com
 adx.g.doubleclick.net
 adzerk.net
@@ -225,6 +226,7 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
+cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -366,8 +368,8 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
+onceux.unicornmedia.com
 onclickads.net
-openad.tf1.fr
 out.popads.net
 outbrain.com
 overture.com
@@ -385,11 +387,15 @@ pixel.rubiconproject.com
 pq-direct.revsci.net
 projectwonderful.com
 pt.trafficjunky.net
+pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
+r.edge.inmobicdn.net
+r.w.inmobi.com
 rad.live.com
+rcm-images.amazon.com
 rcm-it.amazon.it
 rcm-na.amazon-adsystem.com
 req.startappservice.com
@@ -397,7 +403,6 @@ resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
-royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -438,6 +443,7 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
+static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
@@ -467,6 +473,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
