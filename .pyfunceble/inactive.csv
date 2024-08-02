@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adsyndication.msn.com,AVAILABILITY,domains.list,2024-07-31 08:01:57.222256
-cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-07-31 08:03:51.854359
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-07-31 08:06:56.179253
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-07-31 08:07:04.979362
-openad.tf1.fr,AVAILABILITY,domains.list,2024-07-31 08:07:06.367981
-r.w.inmobi.com,AVAILABILITY,domains.list,2024-07-31 08:07:22.832921
-rcm-images.amazon.com,AVAILABILITY,domains.list,2024-07-31 08:07:25.467537
-track.netshelter.net,AVAILABILITY,domains.list,2024-07-31 08:10:34.695480
 ads.intergi.com,AVAILABILITY,domains.list,2024-08-01 07:59:43.517122
 t.neodatagroup.com,AVAILABILITY,domains.list,2024-08-01 08:06:18.202880
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-01 08:07:33.268018
@@ -141,3 +133,8 @@ i.t.webtracker.jp,AVAILABILITY,domains.list,2024-08-01 08:12:59.536458
 adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-01 08:13:01.134700
 ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-01 08:13:01.558488
 img1.nend.net,AVAILABILITY,domains.list,2024-08-01 08:13:02.148110
+cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-08-02 05:54:44.896273
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-08-02 06:01:17.492065
+openad.tf1.fr,AVAILABILITY,domains.list,2024-08-02 06:01:24.348780
+r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-02 06:01:24.628486
+rcm-images.amazon.com,AVAILABILITY,domains.list,2024-08-02 06:01:25.597384
