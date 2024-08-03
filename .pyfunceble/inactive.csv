@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-08-02 05:54:44.896273
-motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-08-02 06:01:17.492065
-openad.tf1.fr,AVAILABILITY,domains.list,2024-08-02 06:01:24.348780
-r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-02 06:01:24.628486
-rcm-images.amazon.com,AVAILABILITY,domains.list,2024-08-02 06:01:25.597384
 ads.footballaddicts.com,AVAILABILITY,domains.list,2024-08-02 12:25:44.301905
 ads.saymedia.com,AVAILABILITY,domains.list,2024-08-02 12:25:49.610685
 adsyndication.msn.com,AVAILABILITY,domains.list,2024-08-02 12:25:59.208874
@@ -148,3 +143,7 @@ onceux.unicornmedia.com,AVAILABILITY,domains.list,2024-08-03 05:43:10.495592
 r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-08-03 05:43:20.232277
 static.trafficjunky.net,AVAILABILITY,domains.list,2024-08-03 05:44:00.895092
 track.netshelter.net,AVAILABILITY,domains.list,2024-08-03 05:44:26.092174
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-03 07:54:24.731612
+motifcdn.doubleclick.net,AVAILABILITY,domains.list,2024-08-03 07:57:09.769567
+openad.tf1.fr,AVAILABILITY,domains.list,2024-08-03 07:57:10.388968
+rcm-images.amazon.com,AVAILABILITY,domains.list,2024-08-03 07:57:11.699963
