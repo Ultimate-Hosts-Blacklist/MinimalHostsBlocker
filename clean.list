@@ -119,6 +119,7 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
+ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
@@ -151,6 +152,7 @@ adservices.picadmedia.com
 adshost2.com
 adspaces.ero-advertising.com
 adsx.greystripe.com
+adsyndication.msn.com
 adtgs.adk2x.com
 adx.g.doubleclick.net
 adzerk.net
@@ -188,6 +190,7 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
+c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
@@ -195,6 +198,7 @@ c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
 cdn1.inner-active.mobi
+cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
 cdn1.smartadserver.com
@@ -225,7 +229,6 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
-cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -350,6 +353,7 @@ mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
 motifcdn2.doubleclick.net
+motifcdn.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
 my.hellobar.com
@@ -365,7 +369,6 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
-onceux.unicornmedia.com
 onclickads.net
 openad.tf1.fr
 out.popads.net
@@ -390,9 +393,10 @@ pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
-r.edge.inmobicdn.net
 rad.live.com
+rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
@@ -446,7 +450,6 @@ staticd.cdn.adblade.com
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
-t.neodatagroup.com
 tag.contextweb.com
 tags.bkrtx.com
 tcr.tynt.com
@@ -454,7 +457,6 @@ tempest.services.disqus.com
 tpc.googlesyndication.com
 track.adform.net
 track.lfstmedia.com
-track.netshelter.net
 tracking.trafficjunky.net
 traffic.outbrain.com
 trc.taboola.com
@@ -470,6 +472,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
