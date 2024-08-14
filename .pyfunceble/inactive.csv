@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn1.media.trafficjunky.net,AVAILABILITY,domains.list,2024-08-12 02:42:17.109542
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-08-12 02:44:14.712542
-r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-12 02:46:35.923053
-rcm-images.amazon.com,AVAILABILITY,domains.list,2024-08-12 02:46:38.103926
-t.neodatagroup.com,AVAILABILITY,domains.list,2024-08-12 02:47:12.795316
 r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-08-13 02:48:54.277926
 rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-13 02:48:56.803358
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-13 02:50:30.609208
@@ -142,3 +137,9 @@ ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-13 02:54:36.871580
 img1.nend.net,AVAILABILITY,domains.list,2024-08-13 02:54:37.157501
 c2.popads.net,AVAILABILITY,domains.list,2024-08-13 02:54:45.264648
 cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-08-13 02:54:45.799368
+ads.cleveland.com,AVAILABILITY,domains.list,2024-08-14 02:39:39.309122
+ads.intergi.com,AVAILABILITY,domains.list,2024-08-14 02:39:40.754953
+adsyndication.msn.com,AVAILABILITY,domains.list,2024-08-14 02:39:56.728606
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-08-14 02:45:27.511809
+openad.tf1.fr,AVAILABILITY,domains.list,2024-08-14 02:45:35.765166
+r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-14 02:49:01.006191
