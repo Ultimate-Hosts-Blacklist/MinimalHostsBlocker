@@ -132,7 +132,6 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
-ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -194,6 +193,7 @@ c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
+cdn1.inner-active.mobi
 cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
@@ -349,6 +349,7 @@ mm.chitika.net
 mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
+motifcdn.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
 my.hellobar.com
@@ -364,7 +365,6 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
-onceux.unicornmedia.com
 onclickads.net
 out.popads.net
 outbrain.com
@@ -383,14 +383,15 @@ pixel.rubiconproject.com
 pq-direct.revsci.net
 projectwonderful.com
 pt.trafficjunky.net
-pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
+r.edge.inmobicdn.net
 rad.live.com
 rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
@@ -466,6 +467,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
