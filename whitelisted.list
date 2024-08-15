@@ -118,10 +118,11 @@ ads.admarvel.com
 ads.appia.com
 ads.cb-cdn.com
 ads.celtra.com
+ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
-ads.footballaddicts.com
 ads.heyzap.com
+ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
@@ -224,7 +225,6 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
-cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -348,6 +348,7 @@ mm.chitika.net
 mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
+motifcdn2.doubleclick.net
 motifcdn.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
@@ -365,6 +366,7 @@ nyyed.com
 ocsp.apple.com
 odb.outbrain.com
 onclickads.net
+openad.tf1.fr
 out.popads.net
 outbrain.com
 overture.com
@@ -387,10 +389,10 @@ pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
 r.edge.inmobicdn.net
+r.w.inmobi.com
 rad.live.com
 rcm-images.amazon.com
 rcm-it.amazon.it
-rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
@@ -443,7 +445,6 @@ staticd.cdn.adblade.com
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
-t.neodatagroup.com
 tag.contextweb.com
 tags.bkrtx.com
 tcr.tynt.com
