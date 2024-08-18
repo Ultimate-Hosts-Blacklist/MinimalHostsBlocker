@@ -1,19 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-gomotrak.com,AVAILABILITY,domains.list,2024-08-16 08:54:08.929887
-ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-08-16 08:54:10.127116
-adpriv.nikkei.com,AVAILABILITY,domains.list,2024-08-16 08:54:11.362626
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-08-16 08:54:22.749590
-bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-08-16 08:54:23.004363
-i.t.webtracker.jp,AVAILABILITY,domains.list,2024-08-16 08:54:44.549086
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-16 08:54:46.948452
-ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-16 08:54:47.485012
-img1.nend.net,AVAILABILITY,domains.list,2024-08-16 08:54:47.780694
-ads.footballaddicts.com,AVAILABILITY,domains.list,2024-08-17 08:39:34.980424
-cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-08-17 08:42:15.952586
-delivery.switchadhub.com,AVAILABILITY,domains.list,2024-08-17 08:43:38.823296
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-08-17 08:45:02.537111
-rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-17 08:45:24.533371
-track.netshelter.net,AVAILABILITY,domains.list,2024-08-17 08:46:21.597926
 ads.intergi.com,AVAILABILITY,domains.list,2024-08-18 08:44:00.869924
 cdn1.media.trafficjunky.net,AVAILABILITY,domains.list,2024-08-18 08:47:13.636404
 openad.tf1.fr,AVAILABILITY,domains.list,2024-08-18 08:50:38.359920
@@ -141,3 +126,15 @@ cv.apprupt.com,AVAILABILITY,domains.list,2024-08-18 08:56:58.226716
 ctl1.buyt.in,AVAILABILITY,domains.list,2024-08-18 08:56:58.585084
 de.cisive.net,AVAILABILITY,domains.list,2024-08-18 08:56:58.873481
 cre.adjust-net.jp,AVAILABILITY,domains.list,2024-08-18 08:57:01.204561
+gomotrak.com,AVAILABILITY,domains.list,2024-08-18 09:02:33.078024
+ad.dc2.adtech.de,AVAILABILITY,domains.list,2024-08-18 09:02:34.474498
+adpriv.nikkei.com,AVAILABILITY,domains.list,2024-08-18 09:02:36.497922
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-08-18 09:02:48.234545
+bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-08-18 09:02:48.479267
+i.t.webtracker.jp,AVAILABILITY,domains.list,2024-08-18 09:03:03.855723
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-18 09:03:05.345689
+ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-18 09:03:05.982916
+img1.nend.net,AVAILABILITY,domains.list,2024-08-18 09:03:06.192710
+delivery.switchadhub.com,AVAILABILITY,domains.list,2024-08-18 09:03:06.844838
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-18 09:03:07.312040
+track.netshelter.net,AVAILABILITY,domains.list,2024-08-18 09:03:07.649769
