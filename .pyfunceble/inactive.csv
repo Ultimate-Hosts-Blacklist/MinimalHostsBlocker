@@ -1,21 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-18 09:03:05.345689
-ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-18 09:03:05.982916
-img1.nend.net,AVAILABILITY,domains.list,2024-08-18 09:03:06.192710
-delivery.switchadhub.com,AVAILABILITY,domains.list,2024-08-18 09:03:06.844838
-rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-18 09:03:07.312040
-track.netshelter.net,AVAILABILITY,domains.list,2024-08-18 09:03:07.649769
-ads.cleveland.com,AVAILABILITY,domains.list,2024-08-19 01:55:35.495700
-ads.saymedia.com,AVAILABILITY,domains.list,2024-08-19 01:55:43.562663
-c2.popads.net,AVAILABILITY,domains.list,2024-08-19 01:57:59.720944
-cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-08-19 01:58:40.419789
-r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-19 02:02:20.500551
-ads.footballaddicts.com,AVAILABILITY,domains.list,2024-08-19 06:04:28.222196
-cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-08-19 06:07:12.015565
-engine.4chan-ads.org,AVAILABILITY,domains.list,2024-08-19 06:09:05.883518
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-08-19 06:10:42.524125
-royale-ssl.spongecell.com,AVAILABILITY,domains.list,2024-08-19 06:11:09.039977
-static.trafficjunky.net,AVAILABILITY,domains.list,2024-08-19 06:11:54.524940
 ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-20 06:10:56.053206
 cdn1.media.trafficjunky.net,AVAILABILITY,domains.list,2024-08-20 06:12:53.487322
 openad.tf1.fr,AVAILABILITY,domains.list,2024-08-20 06:12:54.101764
@@ -147,3 +130,13 @@ adpriv.nikkei.com,AVAILABILITY,domains.list,2024-08-20 06:15:59.726263
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-08-20 06:16:11.258753
 bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-08-20 06:16:11.527077
 i.t.webtracker.jp,AVAILABILITY,domains.list,2024-08-20 06:16:28.200289
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-20 06:19:16.312855
+ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-20 06:19:17.651032
+img1.nend.net,AVAILABILITY,domains.list,2024-08-20 06:19:17.969293
+delivery.switchadhub.com,AVAILABILITY,domains.list,2024-08-20 06:19:18.345190
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-20 06:19:18.586122
+track.netshelter.net,AVAILABILITY,domains.list,2024-08-20 06:19:19.218296
+ads.saymedia.com,AVAILABILITY,domains.list,2024-08-20 06:19:19.805429
+ads.footballaddicts.com,AVAILABILITY,domains.list,2024-08-20 06:19:25.643500
+cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-08-20 06:19:25.894295
+motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-08-20 06:19:26.970809
