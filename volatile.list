@@ -121,9 +121,7 @@ ads.celtra.com
 ads.cleveland.com
 ads.exoclick.com
 ads.flurry.com
-ads.footballaddicts.com
 ads.heyzap.com
-ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
@@ -152,6 +150,7 @@ adservices.picadmedia.com
 adshost2.com
 adspaces.ero-advertising.com
 adsx.greystripe.com
+adsyndication.msn.com
 adtgs.adk2x.com
 adx.g.doubleclick.net
 adzerk.net
@@ -171,6 +170,7 @@ appnexus.com
 assets.applovin.com
 at.atwola.com
 atdmt-a.akamaihd.net
+au-01.adtomafusion.com
 avnads.com
 az708531.vo.msecnd.net
 banners.proboards.com
@@ -188,13 +188,14 @@ buysellads.com
 buzzea.com
 c1.nend.net
 c1.popads.net
+c2.popads.net
 c.admob.com
 c.amazon-adsystem.com
 c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
-cdn1.inner-active.mobi
+cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
 cdn1.smartadserver.com
@@ -225,7 +226,6 @@ cdn.pubexchange.com
 cdn.pubnative.net
 cdn.viglink.com
 ced.sascdn.com
-cf.cdn.inmobi.com
 china.inmobi.com
 choices.truste.com
 clickadu.com
@@ -347,6 +347,7 @@ mm.chitika.net
 mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
+motifcdn2.doubleclick.net
 motifcdn.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
@@ -382,13 +383,14 @@ pixel.rubiconproject.com
 pq-direct.revsci.net
 projectwonderful.com
 pt.trafficjunky.net
+pub.clicksor.net
 pub.mobiright.com
 pubads.g.doubleclick.net
 q1mediahydraplatform.com
 quantserve.com
 rad.live.com
+rcm-images.amazon.com
 rcm-it.amazon.it
-rcm-na.amazon-adsystem.com
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
@@ -435,14 +437,12 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
-static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
 stats.g.doubleclick.net
 strikeadcdn.s3.amazonaws.com
 syndication.exoclick.com
-t.neodatagroup.com
 tag.contextweb.com
 tags.bkrtx.com
 tcr.tynt.com
@@ -465,6 +465,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com

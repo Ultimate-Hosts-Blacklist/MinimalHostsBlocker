@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c2.popads.net,AVAILABILITY,domains.list,2024-08-30 06:06:54.537182
-motifcdn2.doubleclick.net,AVAILABILITY,domains.list,2024-08-30 06:11:30.085985
-pub.clicksor.net,AVAILABILITY,domains.list,2024-08-30 06:11:51.456836
-r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-08-30 06:11:53.674294
-rcm-images.amazon.com,AVAILABILITY,domains.list,2024-08-30 06:11:57.039561
-track.netshelter.net,AVAILABILITY,domains.list,2024-08-30 06:13:07.997254
-ws-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-30 06:13:58.750472
-adsyndication.msn.com,AVAILABILITY,domains.list,2024-08-30 09:28:38.726580
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2024-08-30 09:29:20.254903
-cdn1.media.trafficjunky.net,AVAILABILITY,domains.list,2024-08-30 09:31:21.443229
-openad.tf1.fr,AVAILABILITY,domains.list,2024-08-30 09:35:07.108870
 r.w.inmobi.com,AVAILABILITY,domains.list,2024-08-30 09:37:58.931549
 engine.4chan-ads.org,AVAILABILITY,domains.list,2024-08-30 09:37:59.986451
 jsn.dt07.net,AVAILABILITY,domains.list,2024-08-30 09:38:00.765259
@@ -143,3 +132,13 @@ adv.aftonbladet.se,AVAILABILITY,domains.list,2024-08-30 09:41:11.462591
 ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-08-30 09:41:12.013890
 img1.nend.net,AVAILABILITY,domains.list,2024-08-30 09:41:12.371746
 delivery.switchadhub.com,AVAILABILITY,domains.list,2024-08-30 09:41:12.589372
+ads.footballaddicts.com,AVAILABILITY,domains.list,2024-08-31 09:38:11.632437
+ads.intergi.com,AVAILABILITY,domains.list,2024-08-31 09:38:13.345822
+cdn1.inner-active.mobi,AVAILABILITY,domains.list,2024-08-31 09:40:07.816455
+cf.cdn.inmobi.com,AVAILABILITY,domains.list,2024-08-31 09:40:13.158975
+rcm-na.amazon-adsystem.com,AVAILABILITY,domains.list,2024-08-31 09:44:09.999386
+static.trafficjunky.net,AVAILABILITY,domains.list,2024-08-31 09:44:34.576066
+t.neodatagroup.com,AVAILABILITY,domains.list,2024-08-31 09:44:36.988261
+r.edge.inmobicdn.net,AVAILABILITY,domains.list,2024-08-31 09:46:50.274849
+track.netshelter.net,AVAILABILITY,domains.list,2024-08-31 09:46:50.928889
+openad.tf1.fr,AVAILABILITY,domains.list,2024-08-31 09:47:22.612176
