@@ -121,7 +121,6 @@ ads.celtra.com
 ads.exoclick.com
 ads.flurry.com
 ads.heyzap.com
-ads.intergi.com
 ads.juicyads.com
 ads.lfstmedia.com
 ads.mopub.com
@@ -131,6 +130,7 @@ ads.pro-market.net
 ads.qadservice.com
 ads.reddit.com
 ads.rubiconproject.com
+ads.saymedia.com
 ads.servebom.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -193,7 +193,7 @@ c.betrad.com
 c.greystripe.com
 c.w.inmobi.com
 cas.criteo.com
-cdn1.inner-active.mobi
+cdn1.media.trafficjunky.net
 cdn1.reporo.net
 cdn1.rhtag.com
 cdn1.smartadserver.com
@@ -345,7 +345,6 @@ mm.chitika.net
 mobile.adnxs.com
 mobile.juicyads.com
 mobile.smartadserver.com
-motifcdn2.doubleclick.net
 mresell.macworld.co.uk
 mxpopad.com
 my.hellobar.com
@@ -361,6 +360,7 @@ nym1.ib.adnxs.com
 nyyed.com
 ocsp.apple.com
 odb.outbrain.com
+onceux.unicornmedia.com
 onclickads.net
 openad.tf1.fr
 out.popads.net
@@ -386,13 +386,13 @@ q1mediahydraplatform.com
 quantserve.com
 r.edge.inmobicdn.net
 rad.live.com
+rcm-images.amazon.com
 rcm-it.amazon.it
 req.startappservice.com
 resources.infolinks.com
 revmob-creatives.s3.amazonaws.com
 rmbn.net
 router.infolinks.com
-royale-ssl.spongecell.com
 rss.buysellads.com
 rtb.adgrx.com
 s0.doubleclick.net
@@ -433,7 +433,6 @@ static.doubleclick.net
 static.emsservice.de
 static.fmpub.net
 static.getclicky.com
-static.trafficjunky.net
 static.yieldmo.com
 static.zucks.net.zimg.jp
 staticd.cdn.adblade.com
@@ -462,6 +461,7 @@ web.adblade.com
 widgets.outbrain.com
 widgets.progrids.com
 ws.tapjoyads.com
+ws-na.amazon-adsystem.com
 wv.inner-active.mobi
 ww84.smartadserver.com
 ww251.smartadserver.com
