@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-09-25 01:55:29.616835+00:00
-delivery.trafficjunky.net,AVAILABILITY,domains.list,2024-09-25 02:05:50.519226+00:00
-m.admob.com,AVAILABILITY,domains.list,2024-09-25 02:07:49.936202+00:00
-mads.advertising.com,AVAILABILITY,domains.list,2024-09-25 02:07:58.478343+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2024-09-25 02:12:15.457860+00:00
 widgets.progrids.com,AVAILABILITY,domains.list,2024-09-25 02:12:23.791619+00:00
 www.adcash.com,AVAILABILITY,domains.list,2024-09-25 02:12:31.064054+00:00
@@ -141,3 +137,7 @@ adv.aftonbladet.se,AVAILABILITY,domains.list,2024-09-25 02:17:37.873320+00:00
 ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-09-25 02:17:39.417418+00:00
 img1.nend.net,AVAILABILITY,domains.list,2024-09-25 02:17:39.786102+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2024-09-25 02:17:48.549693+00:00
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-09-26 02:10:29.038170+00:00
+delivery.trafficjunky.net,AVAILABILITY,domains.list,2024-09-26 02:10:29.296539+00:00
+m.admob.com,AVAILABILITY,domains.list,2024-09-26 02:10:30.619221+00:00
+mads.advertising.com,AVAILABILITY,domains.list,2024-09-26 02:10:30.977000+00:00
