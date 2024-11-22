@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adv.aftonbladet.se,AVAILABILITY,domains.list,2024-11-20 06:47:00.171366+00:00
-ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-11-20 06:47:01.248950+00:00
-img1.nend.net,AVAILABILITY,domains.list,2024-11-20 06:47:01.546622+00:00
-delivery.switchadhub.com,AVAILABILITY,domains.list,2024-11-20 06:47:01.930969+00:00
-1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-11-20 06:47:03.656468+00:00
-delivery.trafficjunky.net,AVAILABILITY,domains.list,2024-11-20 06:47:03.868648+00:00
-m.admob.com,AVAILABILITY,domains.list,2024-11-20 06:47:05.027191+00:00
-mads.advertising.com,AVAILABILITY,domains.list,2024-11-20 06:47:05.218710+00:00
 servedby.hrnorth.se,AVAILABILITY,domains.list,2024-11-22 03:48:38.323469+00:00
 au-01.adtomafusion.com,AVAILABILITY,domains.list,2024-11-22 03:48:38.646544+00:00
 bn-01.adtomafusion.com,AVAILABILITY,domains.list,2024-11-22 03:48:38.930350+00:00
@@ -138,3 +130,10 @@ adpriv.nikkei.com,AVAILABILITY,domains.list,2024-11-22 03:53:48.031507+00:00
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2024-11-22 03:53:58.782976+00:00
 bb.crwdcntrl.net,AVAILABILITY,domains.list,2024-11-22 03:53:58.971017+00:00
 i.t.webtracker.jp,AVAILABILITY,domains.list,2024-11-22 03:54:15.715408+00:00
+adv.aftonbladet.se,AVAILABILITY,domains.list,2024-11-22 03:57:05.185929+00:00
+ads.mp.mydas.mobi,AVAILABILITY,domains.list,2024-11-22 03:57:06.392830+00:00
+img1.nend.net,AVAILABILITY,domains.list,2024-11-22 03:57:06.728070+00:00
+delivery.switchadhub.com,AVAILABILITY,domains.list,2024-11-22 03:57:06.949761+00:00
+1app.blob.core.windows.net,AVAILABILITY,domains.list,2024-11-22 03:57:07.116371+00:00
+delivery.trafficjunky.net,AVAILABILITY,domains.list,2024-11-22 03:57:07.456949+00:00
+m.admob.com,AVAILABILITY,domains.list,2024-11-22 03:57:08.634207+00:00
