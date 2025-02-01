@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mm.chitika.net,AVAILABILITY,domains.list,2025-01-30 11:48:41.297017+00:00
-www.adshost2.com,AVAILABILITY,domains.list,2025-01-30 11:50:57.363665+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-01-30 11:50:57.667926+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-01-30 11:51:07.991692+00:00
 adservices.picadmedia.com,AVAILABILITY,domains.list,2025-01-31 11:52:56.466113+00:00
 tags.bkrtx.com,AVAILABILITY,domains.list,2025-01-31 11:52:56.903122+00:00
 a.adtech.de,AVAILABILITY,domains.list,2025-01-31 11:52:57.189860+00:00
@@ -152,3 +148,6 @@ mads.advertising.com,AVAILABILITY,domains.list,2025-01-31 11:57:25.786641+00:00
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2025-01-31 11:57:26.006710+00:00
 servedby2.advertising.com,AVAILABILITY,domains.list,2025-01-31 11:57:26.222575+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2025-01-31 11:57:26.404028+00:00
+www.adshost2.com,AVAILABILITY,domains.list,2025-02-01 06:22:48.391896+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-02-01 06:22:48.796418+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-02-01 06:22:59.256203+00:00
