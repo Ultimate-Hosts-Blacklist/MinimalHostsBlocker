@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.adtech.de,AVAILABILITY,domains.list,2025-02-25 05:40:07.405765+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-02-25 05:40:08.443060+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-02-25 05:40:09.059936+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-02-25 05:40:09.699690+00:00
-m.admob.com,AVAILABILITY,domains.list,2025-02-25 05:40:12.183735+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2025-02-25 05:40:20.451386+00:00
-go.padsdel.com,AVAILABILITY,domains.list,2025-02-25 05:40:31.562875+00:00
-go.padstm.com,AVAILABILITY,domains.list,2025-02-25 05:40:42.407235+00:00
-www.adshost2.com,AVAILABILITY,domains.list,2025-02-25 05:40:42.856778+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-02-25 05:40:43.305831+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-02-25 05:40:53.786555+00:00
 a.adorika.net,AVAILABILITY,domains.list,2025-02-26 05:39:24.367140+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2025-02-26 05:39:35.782045+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2025-02-26 05:39:47.794433+00:00
@@ -162,3 +151,14 @@ mads.advertising.com,AVAILABILITY,domains.list,2025-02-26 05:43:05.510392+00:00
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2025-02-26 05:43:05.761479+00:00
 servedby2.advertising.com,AVAILABILITY,domains.list,2025-02-26 05:43:06.017500+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2025-02-26 05:43:06.246479+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-02-27 05:40:29.182483+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-02-27 05:40:30.009463+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-02-27 05:40:30.249622+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-02-27 05:40:30.910296+00:00
+m.admob.com,AVAILABILITY,domains.list,2025-02-27 05:40:32.186403+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2025-02-27 05:40:44.576998+00:00
+go.padsdel.com,AVAILABILITY,domains.list,2025-02-27 05:40:55.728647+00:00
+go.padstm.com,AVAILABILITY,domains.list,2025-02-27 05:41:04.250454+00:00
+www.adshost2.com,AVAILABILITY,domains.list,2025-02-27 05:42:01.183010+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-02-27 05:42:01.904091+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-02-27 05:42:12.251127+00:00
