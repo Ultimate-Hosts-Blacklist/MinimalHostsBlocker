@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.adtech.de,AVAILABILITY,domains.list,2025-03-01 05:38:43.362209+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-03-01 05:38:43.843871+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-03-01 05:38:44.127497+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-03-01 05:38:44.478333+00:00
-m.admob.com,AVAILABILITY,domains.list,2025-03-01 05:38:46.965960+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2025-03-01 05:38:58.187927+00:00
-go.padsdel.com,AVAILABILITY,domains.list,2025-03-01 05:39:09.154224+00:00
-go.padstm.com,AVAILABILITY,domains.list,2025-03-01 05:39:19.668589+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-03-01 05:39:38.414029+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-03-01 05:39:48.867280+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2025-03-02 03:50:14.361822+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2025-03-02 03:50:26.486363+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2025-03-02 03:50:38.591120+00:00
@@ -160,3 +150,13 @@ mads.advertising.com,AVAILABILITY,domains.list,2025-03-02 03:53:48.443980+00:00
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2025-03-02 03:53:48.668807+00:00
 servedby2.advertising.com,AVAILABILITY,domains.list,2025-03-02 03:53:48.832577+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2025-03-02 03:53:49.045823+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-03-03 03:50:20.263811+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-03-03 03:50:20.507690+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-03-03 03:50:20.741030+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-03-03 03:50:21.658889+00:00
+m.admob.com,AVAILABILITY,domains.list,2025-03-03 03:50:22.741677+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2025-03-03 03:50:34.554137+00:00
+go.padsdel.com,AVAILABILITY,domains.list,2025-03-03 03:50:45.955569+00:00
+go.padstm.com,AVAILABILITY,domains.list,2025-03-03 03:50:57.917251+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-03-03 03:50:59.198804+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-03-03 03:51:09.602204+00:00
