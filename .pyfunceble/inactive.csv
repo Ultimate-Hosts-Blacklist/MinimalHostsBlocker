@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.adtech.de,AVAILABILITY,domains.list,2025-03-07 02:07:11.727102+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-03-07 02:07:12.009046+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-03-07 02:07:12.172918+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-03-07 02:07:12.630813+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2025-03-07 02:07:44.314798+00:00
-go.padsdel.com,AVAILABILITY,domains.list,2025-03-07 02:07:51.183657+00:00
-go.padstm.com,AVAILABILITY,domains.list,2025-03-07 02:08:01.773701+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-03-07 02:08:02.315644+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-03-07 02:08:12.714910+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2025-03-07 08:02:36.241959+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2025-03-07 08:02:47.275299+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2025-03-07 08:02:58.247379+00:00
@@ -159,3 +150,13 @@ mads.advertising.com,AVAILABILITY,domains.list,2025-03-07 08:06:15.983056+00:00
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2025-03-07 08:06:16.300794+00:00
 servedby2.advertising.com,AVAILABILITY,domains.list,2025-03-07 08:06:16.471131+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2025-03-07 08:06:16.635072+00:00
+m.admob.com,AVAILABILITY,domains.list,2025-03-08 06:31:45.499485+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-03-08 06:34:02.205937+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-03-08 06:34:02.416033+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-03-08 06:34:02.648739+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-03-08 06:34:03.322401+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2025-03-08 06:34:10.661783+00:00
+go.padsdel.com,AVAILABILITY,domains.list,2025-03-08 06:34:17.396737+00:00
+go.padstm.com,AVAILABILITY,domains.list,2025-03-08 06:34:24.692557+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-03-08 06:34:25.191719+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-03-08 06:34:35.584694+00:00
