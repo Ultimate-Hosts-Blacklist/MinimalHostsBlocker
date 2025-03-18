@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-a.ligatus.com,AVAILABILITY,domains.list,2025-03-16 05:38:12.224883+00:00
-m.admob.com,AVAILABILITY,domains.list,2025-03-16 05:38:13.810270+00:00
 adserver.adtech.de,AVAILABILITY,domains.list,2025-03-17 05:40:15.210181+00:00
 aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-03-17 05:40:15.459281+00:00
 at.atwola.com,AVAILABILITY,domains.list,2025-03-17 05:40:15.631181+00:00
@@ -160,3 +158,5 @@ mads.advertising.com,AVAILABILITY,domains.list,2025-03-17 05:45:19.869052+00:00
 secure.leadback.advertising.com,AVAILABILITY,domains.list,2025-03-17 05:45:20.018062+00:00
 servedby2.advertising.com,AVAILABILITY,domains.list,2025-03-17 05:45:20.364447+00:00
 uac.advertising.com,AVAILABILITY,domains.list,2025-03-17 05:45:20.843843+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-03-18 05:41:48.724445+00:00
+m.admob.com,AVAILABILITY,domains.list,2025-03-18 05:41:49.644784+00:00
