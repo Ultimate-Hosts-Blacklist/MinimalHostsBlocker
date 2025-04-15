@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-go.padsdel.com,AVAILABILITY,domains.list,2025-04-14 02:23:28.406518+00:00
-go.padstm.com,AVAILABILITY,domains.list,2025-04-14 02:23:28.709465+00:00
 delivery.us.myswitchads.com,AVAILABILITY,domains.list,2025-04-14 08:01:30.314933+00:00
 a.ligatus.com,AVAILABILITY,domains.list,2025-04-14 08:01:30.560860+00:00
 adserver.adtech.de,AVAILABILITY,domains.list,2025-04-14 08:01:30.840077+00:00
@@ -163,3 +161,5 @@ modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2025-04-14 08:04:55.041586+00
 a.adorika.net,AVAILABILITY,domains.list,2025-04-14 08:04:55.247770+00:00
 m.admob.com,AVAILABILITY,domains.list,2025-04-14 08:04:56.202119+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-04-14 08:04:56.492536+00:00
+go.padsdel.com,AVAILABILITY,domains.list,2025-04-15 08:05:48.004359+00:00
+go.padstm.com,AVAILABILITY,domains.list,2025-04-15 08:05:48.175819+00:00
