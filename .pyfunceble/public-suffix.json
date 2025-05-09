@@ -6803,6 +6803,7 @@
         "nord-aurdal.no",
         "nord-fron.no",
         "nord-odal.no",
+        "norddal.no",
         "nordkapp.no",
         "nordre-land.no",
         "nordreisa.no",
@@ -6822,6 +6823,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.vu",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -7218,7 +7220,6 @@
         "xn--sgne-gra.no",
         "xn--skierv-uta.no",
         "xn--skjervy-v1a.no",
-        "xn--skjk-soa.no",
         "xn--sknit-yqa.no",
         "xn--sknland-fxa.no",
         "xn--slat-5na.no",
@@ -7571,7 +7572,6 @@
         "org.pf"
     ],
     "pg": [
-        "norddal.no",
         "pg"
     ],
     "ph": [
