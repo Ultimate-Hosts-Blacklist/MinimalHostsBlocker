@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.flurry.com,AVAILABILITY,domains.list,2025-06-12 11:33:21.286095+00:00
-a.ligatus.com,AVAILABILITY,domains.list,2025-06-12 11:33:21.552481+00:00
-adserver.adtech.de,AVAILABILITY,domains.list,2025-06-12 11:33:22.320354+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-06-12 11:33:23.725227+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-06-12 11:33:23.900937+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-06-12 11:33:24.928248+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2025-06-12 11:33:37.523579+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-06-12 11:33:38.028327+00:00
 eu2.madsone.com,AVAILABILITY,domains.list,2025-06-13 11:33:58.700980+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-06-13 11:34:09.190079+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2025-06-13 11:34:09.475139+00:00
@@ -163,3 +155,11 @@ a.adorika.net,AVAILABILITY,domains.list,2025-06-13 11:37:25.452436+00:00
 m.admob.com,AVAILABILITY,domains.list,2025-06-13 11:37:26.734061+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-06-13 11:37:27.124999+00:00
 go.padstm.com,AVAILABILITY,domains.list,2025-06-13 11:37:27.539234+00:00
+ads.flurry.com,AVAILABILITY,domains.list,2025-06-14 11:31:50.173841+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-06-14 11:31:50.676885+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-06-14 11:31:51.594321+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-06-14 11:31:52.114064+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-06-14 11:31:52.361174+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-06-14 11:31:52.924597+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2025-06-14 11:32:03.564600+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-06-14 11:32:04.088619+00:00
