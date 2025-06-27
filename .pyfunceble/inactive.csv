@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-eu2.madsone.com,AVAILABILITY,domains.list,2025-06-25 04:07:34.978935+00:00
 ads.flurry.com,AVAILABILITY,domains.list,2025-06-26 04:09:34.695399+00:00
 a.ligatus.com,AVAILABILITY,domains.list,2025-06-26 04:09:34.996852+00:00
 adserver.adtech.de,AVAILABILITY,domains.list,2025-06-26 04:09:36.117216+00:00
@@ -163,3 +162,4 @@ a.adorika.net,AVAILABILITY,domains.list,2025-06-26 04:12:52.737469+00:00
 m.admob.com,AVAILABILITY,domains.list,2025-06-26 04:12:54.290126+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-06-26 04:12:54.584385+00:00
 go.padstm.com,AVAILABILITY,domains.list,2025-06-26 04:12:55.059722+00:00
+eu2.madsone.com,AVAILABILITY,domains.list,2025-06-27 04:09:06.128854+00:00
