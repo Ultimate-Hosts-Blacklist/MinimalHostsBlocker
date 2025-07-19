@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-onceux.unicornmedia.com,AVAILABILITY,domains.list,2025-07-17 10:22:50.709520+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2025-07-17 10:22:50.962495+00:00
-ads.flurry.com,AVAILABILITY,domains.list,2025-07-17 10:22:51.162458+00:00
-a.ligatus.com,AVAILABILITY,domains.list,2025-07-17 10:22:51.375573+00:00
-adserver.adtech.de,AVAILABILITY,domains.list,2025-07-17 10:22:52.441059+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-07-17 10:22:53.625322+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-07-17 10:22:54.086161+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-07-17 10:22:54.529794+00:00
 a.goember.com,AVAILABILITY,domains.list,2025-07-18 10:16:00.638748+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2025-07-18 10:24:44.150978+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2025-07-18 10:24:44.605591+00:00
@@ -164,3 +156,11 @@ a.adorika.net,AVAILABILITY,domains.list,2025-07-18 10:27:50.301446+00:00
 m.admob.com,AVAILABILITY,domains.list,2025-07-18 10:27:53.000831+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-07-18 10:27:53.252557+00:00
 go.padstm.com,AVAILABILITY,domains.list,2025-07-18 10:27:53.618962+00:00
+onceux.unicornmedia.com,AVAILABILITY,domains.list,2025-07-19 10:20:03.992245+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2025-07-19 10:20:04.293214+00:00
+ads.flurry.com,AVAILABILITY,domains.list,2025-07-19 10:20:04.559305+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-07-19 10:20:05.017341+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-07-19 10:20:05.500540+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-07-19 10:20:06.183068+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-07-19 10:20:06.863979+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-07-19 10:20:07.781418+00:00
