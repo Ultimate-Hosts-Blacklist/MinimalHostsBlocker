@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.qadservice.com,AVAILABILITY,domains.list,2025-08-04 04:55:17.128810+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2025-08-05 04:46:44.714933+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2025-08-05 04:46:45.825279+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-08-05 04:46:56.367772+00:00
@@ -164,3 +163,4 @@ aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-08-05 04:51:14.896735+00:
 at.atwola.com,AVAILABILITY,domains.list,2025-08-05 04:51:15.224908+00:00
 secserv.adtech.de,AVAILABILITY,domains.list,2025-08-05 04:51:15.738209+00:00
 www.clickterra.net,AVAILABILITY,domains.list,2025-08-05 04:51:16.346961+00:00
+ads.qadservice.com,AVAILABILITY,domains.list,2025-08-06 04:43:00.750059+00:00
