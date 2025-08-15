@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.flurry.com,AVAILABILITY,domains.list,2025-08-14 04:53:59.065055+00:00
-a.ligatus.com,AVAILABILITY,domains.list,2025-08-14 04:53:59.646058+00:00
-adserver.adtech.de,AVAILABILITY,domains.list,2025-08-14 04:53:59.956131+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-08-14 04:54:01.043752+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-08-14 04:54:01.459611+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-08-14 04:54:01.780260+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2025-08-14 04:54:02.960772+00:00
 widgets.progrids.com,AVAILABILITY,domains.list,2025-08-15 06:56:37.791731+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2025-08-15 06:56:38.003531+00:00
 ads.qadservice.com,AVAILABILITY,domains.list,2025-08-15 06:56:38.209756+00:00
@@ -165,3 +158,10 @@ m.admob.com,AVAILABILITY,domains.list,2025-08-15 07:00:59.083141+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-08-15 07:00:59.546681+00:00
 go.padstm.com,AVAILABILITY,domains.list,2025-08-15 07:01:00.283877+00:00
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2025-08-15 07:01:11.855553+00:00
+ads.flurry.com,AVAILABILITY,domains.list,2025-08-15 07:02:33.279596+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-08-15 07:02:33.771954+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-08-15 07:02:34.958297+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-08-15 07:02:35.665379+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-08-15 07:02:35.930224+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-08-15 07:02:36.649315+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2025-08-15 07:02:37.261191+00:00
