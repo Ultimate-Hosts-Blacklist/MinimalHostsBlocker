@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.flurry.com,AVAILABILITY,domains.list,2025-08-18 03:31:46.662440+00:00
-a.ligatus.com,AVAILABILITY,domains.list,2025-08-18 03:31:47.002212+00:00
-adserver.adtech.de,AVAILABILITY,domains.list,2025-08-18 03:31:47.837674+00:00
-aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-08-18 03:31:48.479507+00:00
-at.atwola.com,AVAILABILITY,domains.list,2025-08-18 03:31:49.001924+00:00
-secserv.adtech.de,AVAILABILITY,domains.list,2025-08-18 03:31:49.157240+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2025-08-18 03:31:50.130243+00:00
-admob.cz,AVAILABILITY,domains.list,2025-08-19 03:20:00.566879+00:00
-admomi.com,AVAILABILITY,domains.list,2025-08-19 03:20:17.776155+00:00
-adrotator.se,AVAILABILITY,domains.list,2025-08-19 03:20:20.036908+00:00
-buzzea.com,AVAILABILITY,domains.list,2025-08-19 03:22:19.419904+00:00
-clktag.com,AVAILABILITY,domains.list,2025-08-19 03:24:02.240202+00:00
-ecpmrocks.com,AVAILABILITY,domains.list,2025-08-19 03:25:17.463447+00:00
-herezera.com,AVAILABILITY,domains.list,2025-08-19 03:25:50.019618+00:00
 yieldmanager.com,AVAILABILITY,domains.list,2025-08-19 03:30:08.505757+00:00
 prm.europacash.com,AVAILABILITY,domains.list,2025-08-20 03:25:05.395081+00:00
 widgets.progrids.com,AVAILABILITY,domains.list,2025-08-20 03:25:05.857654+00:00
@@ -174,3 +160,17 @@ m.admob.com,AVAILABILITY,domains.list,2025-08-20 03:29:09.031889+00:00
 c1.nend.net,AVAILABILITY,domains.list,2025-08-20 03:29:09.217790+00:00
 go.padstm.com,AVAILABILITY,domains.list,2025-08-20 03:29:09.881839+00:00
 onceux.unicornmedia.com,AVAILABILITY,domains.list,2025-08-20 03:29:26.456033+00:00
+ads.flurry.com,AVAILABILITY,domains.list,2025-08-20 03:30:52.557007+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-08-20 03:30:53.054675+00:00
+adserver.adtech.de,AVAILABILITY,domains.list,2025-08-20 03:30:53.403493+00:00
+aka-cdn-ns.adtechus.com,AVAILABILITY,domains.list,2025-08-20 03:30:53.743345+00:00
+at.atwola.com,AVAILABILITY,domains.list,2025-08-20 03:30:54.283648+00:00
+secserv.adtech.de,AVAILABILITY,domains.list,2025-08-20 03:30:55.205319+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2025-08-20 03:30:56.328116+00:00
+admob.cz,AVAILABILITY,domains.list,2025-08-20 03:30:57.177933+00:00
+admomi.com,AVAILABILITY,domains.list,2025-08-20 03:30:57.402187+00:00
+adrotator.se,AVAILABILITY,domains.list,2025-08-20 03:30:57.746755+00:00
+buzzea.com,AVAILABILITY,domains.list,2025-08-20 03:31:06.820586+00:00
+clktag.com,AVAILABILITY,domains.list,2025-08-20 03:31:07.024550+00:00
+ecpmrocks.com,AVAILABILITY,domains.list,2025-08-20 03:31:07.267242+00:00
+herezera.com,AVAILABILITY,domains.list,2025-08-20 03:31:07.484984+00:00
