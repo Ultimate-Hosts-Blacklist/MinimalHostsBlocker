@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 1,
     "end_datetime": "2025-08-26T02:58:43.518157",
     "end_epoch": 1756177123.518157,
     "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
     "link": "https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
     "name": "MinimalHostsBlocker",
-    "previous_end_datetime": "2025-08-25T03:09:52.267548",
-    "previous_end_epoch": 1756091392.267548,
-    "previous_start_datetime": "2025-08-25T02:52:11.720598",
-    "previous_start_epoch": 1756090331.720598,
+    "previous_end_datetime": "2025-08-26T02:58:43.518157",
+    "previous_end_epoch": 1756177123.518157,
+    "previous_start_datetime": "2025-08-26T02:47:11.969702",
+    "previous_start_epoch": 1756176431.969702,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "start_datetime": "2025-08-26T02:47:11.969702",
-    "start_epoch": 1756176431.969702
+    "start_datetime": "2025-08-27T02:41:10.338710",
+    "start_epoch": 1756262470.33871
 }
