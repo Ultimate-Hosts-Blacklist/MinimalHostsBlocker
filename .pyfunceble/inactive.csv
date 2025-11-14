@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-delivery.switchadhub.com,AVAILABILITY,domains.list,2025-11-12 02:30:49.047855+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2025-11-12 02:30:59.355848+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2025-11-12 02:30:59.617910+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2025-11-12 02:31:01.849815+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2025-11-12 02:31:02.187789+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2025-11-12 02:31:15.569586+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2025-11-12 02:31:16.402560+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-11-12 02:31:27.014249+00:00
-activity.serving-sys.com,AVAILABILITY,domains.list,2025-11-12 02:31:27.300625+00:00
-bs.serving-sys.com,AVAILABILITY,domains.list,2025-11-12 02:31:27.557440+00:00
-ds.serving-sys.com,AVAILABILITY,domains.list,2025-11-12 02:31:27.716449+00:00
 tags.bkrtx.com,AVAILABILITY,domains.list,2025-11-12 02:31:27.864095+00:00
 a.adtech.de,AVAILABILITY,domains.list,2025-11-12 02:31:28.663027+00:00
 adserver.adtechus.com,AVAILABILITY,domains.list,2025-11-12 02:31:29.177230+00:00
@@ -174,3 +163,15 @@ ecpmrocks.com,AVAILABILITY,domains.list,2025-11-12 02:39:45.575686+00:00
 herezera.com,AVAILABILITY,domains.list,2025-11-12 02:39:45.947864+00:00
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2025-11-12 02:39:46.206148+00:00
 ads.qadservice.com,AVAILABILITY,domains.list,2025-11-12 02:39:46.573810+00:00
+ebdr3.com,AVAILABILITY,domains.list,2025-11-14 02:27:00.707861+00:00
+delivery.switchadhub.com,AVAILABILITY,domains.list,2025-11-14 02:34:02.970550+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2025-11-14 02:34:13.395458+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2025-11-14 02:34:13.745491+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2025-11-14 02:34:16.085884+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2025-11-14 02:34:16.431464+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2025-11-14 02:34:30.235232+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2025-11-14 02:34:30.749816+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2025-11-14 02:34:41.242782+00:00
+activity.serving-sys.com,AVAILABILITY,domains.list,2025-11-14 02:34:41.748340+00:00
+bs.serving-sys.com,AVAILABILITY,domains.list,2025-11-14 02:34:42.114116+00:00
+ds.serving-sys.com,AVAILABILITY,domains.list,2025-11-14 02:34:42.698171+00:00
