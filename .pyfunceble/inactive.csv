@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ebdr3.com,AVAILABILITY,domains.list,2025-12-05 03:07:37.877992+00:00
-delivery.switchadhub.com,AVAILABILITY,domains.list,2025-12-05 03:07:38.086053+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2025-12-05 03:07:48.407448+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2025-12-05 03:07:48.733387+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2025-12-05 03:07:54.609145+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2025-12-05 03:07:54.957306+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2025-12-05 03:08:07.835195+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2025-12-05 03:08:08.192633+00:00
@@ -174,3 +169,8 @@ ecpmrocks.com,AVAILABILITY,domains.list,2025-12-05 03:14:35.234224+00:00
 herezera.com,AVAILABILITY,domains.list,2025-12-05 03:14:35.378626+00:00
 royale-ssl.spongecell.com,AVAILABILITY,domains.list,2025-12-05 03:14:35.634702+00:00
 www.clickterra.net,AVAILABILITY,domains.list,2025-12-05 03:14:36.440246+00:00
+ebdr3.com,AVAILABILITY,domains.list,2025-12-07 03:19:11.230977+00:00
+delivery.switchadhub.com,AVAILABILITY,domains.list,2025-12-07 03:19:11.527379+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2025-12-07 03:19:22.349751+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2025-12-07 03:19:22.979018+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2025-12-07 03:20:25.718119+00:00
