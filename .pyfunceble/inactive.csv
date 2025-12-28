@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srvpub.com,AVAILABILITY,domains.list,2025-12-27 03:05:36.923494+00:00
-ebdr3.com,AVAILABILITY,domains.list,2025-12-27 03:05:37.201422+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2025-12-27 03:05:47.445330+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2025-12-27 03:05:47.616683+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2025-12-27 03:05:59.639146+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2025-12-27 03:05:59.884143+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2025-12-27 03:06:12.354379+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2025-12-27 03:06:12.777163+00:00
@@ -176,3 +171,8 @@ www.clickterra.net,AVAILABILITY,domains.list,2025-12-27 03:12:06.118257+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2025-12-27 03:12:08.242835+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2025-12-27 03:12:09.185634+00:00
 js.adsonar.com,AVAILABILITY,domains.list,2025-12-27 05:40:54.642125+00:00
+srvpub.com,AVAILABILITY,domains.list,2025-12-28 05:49:03.187160+00:00
+ebdr3.com,AVAILABILITY,domains.list,2025-12-28 05:49:03.534338+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2025-12-28 05:49:14.080094+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2025-12-28 05:49:14.488331+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2025-12-28 05:50:16.592905+00:00
