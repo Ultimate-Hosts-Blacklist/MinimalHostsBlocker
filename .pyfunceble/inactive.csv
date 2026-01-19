@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srvpub.com,AVAILABILITY,domains.list,2026-01-17 04:59:44.708130+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-01-17 04:59:44.914899+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2026-01-17 04:59:55.207515+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-01-17 04:59:55.591328+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-01-17 05:00:01.073679+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-01-17 05:00:01.690104+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-01-17 05:00:16.105295+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-01-17 05:00:16.583537+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-01-17 05:00:27.002182+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-01-17 05:00:28.286907+00:00
@@ -175,3 +168,11 @@ www.clickterra.net,AVAILABILITY,domains.list,2026-01-17 05:07:35.159781+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-01-17 05:07:36.916664+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2026-01-17 05:07:37.657603+00:00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-01-17 05:07:37.929718+00:00
+js.adsonar.com,AVAILABILITY,domains.list,2026-01-19 03:27:58.533018+00:00
+srvpub.com,AVAILABILITY,domains.list,2026-01-19 03:32:25.542342+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-01-19 03:32:25.872620+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2026-01-19 03:32:36.256891+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-01-19 03:32:36.496890+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-01-19 03:32:48.642028+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-01-19 03:32:48.958866+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-01-19 03:33:04.558513+00:00
