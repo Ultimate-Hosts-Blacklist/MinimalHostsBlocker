@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mm.chitika.net,AVAILABILITY,domains.list,2026-01-31 06:07:49.366937+00:00
-srvpub.com,AVAILABILITY,domains.list,2026-01-31 06:07:49.701534+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-01-31 06:07:49.977322+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2026-01-31 06:08:00.397499+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-01-31 06:08:00.791071+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-01-31 06:08:34.279442+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-01-31 06:08:34.629015+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-01-31 06:08:47.673066+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-01-31 06:08:48.302601+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-01-31 06:08:58.764906+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-01-31 06:08:59.270288+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2026-01-31 06:14:05.028200+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2026-01-31 06:14:05.412413+00:00
@@ -174,3 +164,12 @@ www.smartadserver.com,AVAILABILITY,domains.list,2026-01-31 06:20:04.594383+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2026-01-31 06:20:05.157012+00:00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-01-31 06:20:05.513277+00:00
 adkengage.com,AVAILABILITY,domains.list,2026-01-31 06:20:05.901740+00:00
+srvpub.com,AVAILABILITY,domains.list,2026-02-02 05:36:31.140968+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-02-02 05:36:31.590749+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2026-02-02 05:36:41.864809+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-02-02 05:36:42.101100+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-02-02 05:36:47.597118+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-02-02 05:36:48.092201+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-02-02 05:37:07.260661+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-02-02 05:37:07.626963+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-02-02 05:37:18.023269+00:00
