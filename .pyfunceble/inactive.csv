@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-srvpub.com,AVAILABILITY,domains.list,2026-02-09 03:29:30.340666+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-02-09 03:29:30.500525+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2026-02-09 03:29:40.797037+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-02-09 03:29:41.077795+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-02-09 03:29:52.049273+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-02-09 03:29:52.240297+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-02-09 03:30:10.284225+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-02-09 03:30:10.820914+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-02-09 03:30:21.332632+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-02-09 03:30:21.627269+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2026-02-09 03:30:21.875180+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2026-02-09 03:30:22.211219+00:00
@@ -174,3 +165,12 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-02-09 03:36:30.409078+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-02-09 03:36:30.744592+00:00
 adkengage.com,AVAILABILITY,domains.list,2026-02-09 03:36:30.999074+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-02-09 06:07:49.686194+00:00
+srvpub.com,AVAILABILITY,domains.list,2026-02-10 06:16:01.822137+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-02-10 06:16:02.273139+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2026-02-10 06:16:12.562107+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-02-10 06:16:13.006805+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-02-10 06:16:19.595434+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-02-10 06:16:19.857864+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-02-10 06:16:34.800758+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-02-10 06:16:35.134035+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-02-10 06:16:45.724554+00:00
