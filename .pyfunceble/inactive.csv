@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.terrapops.com,AVAILABILITY,domains.list,2026-02-19 07:26:35.231782+00:00
-srvpub.com,AVAILABILITY,domains.list,2026-02-19 07:26:35.488717+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-02-19 07:26:35.739012+00:00
-eclkmpbn.com,AVAILABILITY,domains.list,2026-02-19 07:26:45.980806+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-02-19 07:26:46.208270+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-02-19 07:27:04.243537+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-02-19 07:27:04.513797+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2026-02-19 07:27:34.212171+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-02-19 07:27:35.730892+00:00
@@ -175,3 +169,9 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-02-19 07:34:16.173215+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-02-19 07:34:16.475586+00:00
 adkengage.com,AVAILABILITY,domains.list,2026-02-19 07:34:16.722071+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-02-19 07:34:16.902675+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-02-20 12:08:08.089768+00:00
+srvpub.com,AVAILABILITY,domains.list,2026-02-20 12:08:08.322630+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-02-20 12:08:08.591767+00:00
+eclkmpbn.com,AVAILABILITY,domains.list,2026-02-20 12:08:18.963209+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-02-20 12:08:19.238656+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-02-20 12:08:59.441767+00:00
