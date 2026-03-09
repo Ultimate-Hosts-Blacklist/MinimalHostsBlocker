@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.terrapops.com,AVAILABILITY,domains.list,2026-03-08 10:10:04.945123+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-03-08 10:10:05.346406+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-08 10:10:05.646908+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-03-08 10:10:08.331783+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-08 10:10:08.541683+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-03-08 10:10:09.027382+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-08 10:10:10.435287+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-08 10:10:21.016216+00:00
-activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-08 10:10:21.380098+00:00
-bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-08 10:10:21.749653+00:00
-ds.serving-sys.com,AVAILABILITY,domains.list,2026-03-08 10:10:22.441140+00:00
-tags.bkrtx.com,AVAILABILITY,domains.list,2026-03-08 10:10:22.953904+00:00
-a.adtech.de,AVAILABILITY,domains.list,2026-03-08 10:10:23.284255+00:00
 adserver.adtechus.com,AVAILABILITY,domains.list,2026-03-08 10:10:23.747508+00:00
 js.moatads.com,AVAILABILITY,domains.list,2026-03-08 10:10:23.957400+00:00
 servedby.hrnorth.se,AVAILABILITY,domains.list,2026-03-08 10:10:24.256338+00:00
@@ -172,3 +159,16 @@ www.smartadserver.com,AVAILABILITY,domains.list,2026-03-08 10:16:42.450603+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2026-03-08 10:16:43.026003+00:00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-03-08 10:16:43.262007+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-03-08 10:16:43.462132+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-03-09 10:43:09.686754+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-03-09 10:43:09.952575+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-09 10:43:15.210668+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-03-09 10:43:28.494304+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-09 10:43:28.885059+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-03-09 10:43:29.122633+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-09 10:43:30.310693+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-09 10:43:40.846120+00:00
+activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-09 10:43:41.352446+00:00
+bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-09 10:43:41.556186+00:00
+ds.serving-sys.com,AVAILABILITY,domains.list,2026-03-09 10:43:41.918590+00:00
+tags.bkrtx.com,AVAILABILITY,domains.list,2026-03-09 10:43:42.599709+00:00
+a.adtech.de,AVAILABILITY,domains.list,2026-03-09 10:43:43.132337+00:00
