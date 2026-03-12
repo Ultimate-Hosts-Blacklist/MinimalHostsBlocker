@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.terrapops.com,AVAILABILITY,domains.list,2026-03-10 11:23:01.946277+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-03-10 11:23:02.129536+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-10 11:23:02.386320+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-03-10 11:23:41.088300+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-10 11:23:41.292955+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-03-10 11:23:41.519750+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-10 11:23:42.300628+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-10 11:23:52.853770+00:00
-activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-10 11:23:53.161986+00:00
-bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-10 11:23:53.346686+00:00
-ds.serving-sys.com,AVAILABILITY,domains.list,2026-03-10 11:23:54.063280+00:00
-tags.bkrtx.com,AVAILABILITY,domains.list,2026-03-10 11:23:54.403493+00:00
-a.adtech.de,AVAILABILITY,domains.list,2026-03-10 11:23:54.704250+00:00
-adserver.adtechus.com,AVAILABILITY,domains.list,2026-03-10 11:23:55.401795+00:00
 js.moatads.com,AVAILABILITY,domains.list,2026-03-10 11:23:55.692306+00:00
 servedby.hrnorth.se,AVAILABILITY,domains.list,2026-03-10 11:23:56.179903+00:00
 snap.snapmobile.asia,AVAILABILITY,domains.list,2026-03-10 11:24:09.971484+00:00
@@ -172,3 +158,18 @@ www.smartadserver.com,AVAILABILITY,domains.list,2026-03-10 11:30:28.899091+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2026-03-10 11:30:29.276100+00:00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-03-10 11:30:29.659339+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-03-10 11:30:29.896023+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-03-12 05:23:18.672453+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-03-12 05:31:02.699077+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-03-12 05:31:02.910209+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-12 05:31:03.303303+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-03-12 05:31:09.496342+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-12 05:31:09.764500+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-03-12 05:31:09.982853+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-12 05:31:10.335674+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-12 05:31:20.843525+00:00
+activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-12 05:31:21.116948+00:00
+bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-12 05:31:21.420405+00:00
+ds.serving-sys.com,AVAILABILITY,domains.list,2026-03-12 05:31:21.647818+00:00
+tags.bkrtx.com,AVAILABILITY,domains.list,2026-03-12 05:31:22.065382+00:00
+a.adtech.de,AVAILABILITY,domains.list,2026-03-12 05:31:22.639350+00:00
+adserver.adtechus.com,AVAILABILITY,domains.list,2026-03-12 05:31:23.142654+00:00
