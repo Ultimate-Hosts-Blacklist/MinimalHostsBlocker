@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn.mdotm.com,AVAILABILITY,domains.list,2026-03-16 05:38:46.945931+00:00
-cdn.millennialmedia.com,AVAILABILITY,domains.list,2026-03-16 05:38:47.634272+00:00
-cdn2.cpmstar.com,AVAILABILITY,domains.list,2026-03-16 05:38:47.999961+00:00
-directrev.blob.core.windows.net,AVAILABILITY,domains.list,2026-03-16 05:38:48.211094+00:00
-e.admob.com,AVAILABILITY,domains.list,2026-03-16 05:38:48.496723+00:00
-e2.emediate.se,AVAILABILITY,domains.list,2026-03-16 05:38:49.021982+00:00
-engine.widespace.com,AVAILABILITY,domains.list,2026-03-16 05:39:02.658665+00:00
 go.goroost.com,AVAILABILITY,domains.list,2026-03-16 05:39:03.159982+00:00
 i.tapit.com,AVAILABILITY,domains.list,2026-03-16 05:39:03.869456+00:00
 m.servebom.com,AVAILABILITY,domains.list,2026-03-16 05:39:04.267564+00:00
@@ -174,3 +167,10 @@ cdn.adbrau.com,AVAILABILITY,domains.list,2026-03-17 05:53:23.216522+00:00
 cdn.bidvertiser.com,AVAILABILITY,domains.list,2026-03-17 05:53:23.522352+00:00
 cdn.directrev.com,AVAILABILITY,domains.list,2026-03-17 05:53:23.721424+00:00
 cdn.directtrk.com,AVAILABILITY,domains.list,2026-03-17 05:53:23.957340+00:00
+cdn.mdotm.com,AVAILABILITY,domains.list,2026-03-18 05:29:34.779682+00:00
+cdn.millennialmedia.com,AVAILABILITY,domains.list,2026-03-18 05:29:35.508248+00:00
+cdn2.cpmstar.com,AVAILABILITY,domains.list,2026-03-18 05:29:35.857962+00:00
+directrev.blob.core.windows.net,AVAILABILITY,domains.list,2026-03-18 05:29:36.271408+00:00
+e.admob.com,AVAILABILITY,domains.list,2026-03-18 05:29:36.589471+00:00
+e2.emediate.se,AVAILABILITY,domains.list,2026-03-18 05:29:37.253460+00:00
+engine.widespace.com,AVAILABILITY,domains.list,2026-03-18 05:29:54.993663+00:00
