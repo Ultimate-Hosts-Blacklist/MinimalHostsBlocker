@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mm.chitika.net,AVAILABILITY,domains.list,2026-03-19 05:27:21.900069+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-03-19 05:28:48.984068+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-03-19 05:28:50.361998+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-03-19 05:28:50.664861+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-19 05:28:50.948117+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-03-19 05:28:53.948487+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-19 05:28:54.249601+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-03-19 05:28:54.489637+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-19 05:28:59.546915+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-19 05:29:10.152318+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-19 05:29:10.365642+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-19 05:29:10.622209+00:00
@@ -175,3 +166,12 @@ www.smartadserver.com,AVAILABILITY,domains.list,2026-03-20 05:24:15.170879+00:00
 delivery.switchadhub.com,AVAILABILITY,domains.list,2026-03-20 05:24:15.976168+00:00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-03-20 05:24:16.426925+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-03-20 05:24:16.658499+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-03-21 05:46:25.475451+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-03-21 05:46:25.759198+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-03-21 05:46:26.647643+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-03-21 05:46:26.854627+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-21 05:46:27.088229+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-03-21 05:46:40.527136+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-21 05:46:40.762879+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-03-21 05:46:41.026001+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-21 05:46:41.388277+00:00
