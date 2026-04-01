@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mm.chitika.net,AVAILABILITY,domains.list,2026-03-31 04:22:28.432825+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-03-31 04:22:29.892067+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-03-31 04:22:30.676518+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-03-31 04:22:30.829764+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-03-31 04:22:31.139376+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-03-31 04:22:33.033885+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-03-31 04:22:33.278129+00:00
-go.mobisla.com,AVAILABILITY,domains.list,2026-03-31 04:22:33.483216+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-03-31 04:22:33.947437+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-03-31 04:22:44.420088+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-03-31 04:22:44.758670+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2026-03-31 04:22:45.099621+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2026-03-31 04:22:45.346101+00:00
@@ -173,3 +163,13 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-03-31 04:29:04.045852+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-03-31 04:29:04.463671+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-03-31 04:29:04.705039+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-03-31 04:29:06.244828+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-04-01 10:57:18.330278+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-04-01 10:57:18.854510+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-04-01 10:57:19.787726+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-04-01 10:57:20.070652+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-04-01 10:57:20.357062+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.121926+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.311067+00:00
+go.mobisla.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.520424+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-04-01 10:57:23.263497+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-04-01 10:57:33.753964+00:00
