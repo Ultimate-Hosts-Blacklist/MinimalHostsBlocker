@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mm.chitika.net,AVAILABILITY,domains.list,2026-04-01 10:57:18.330278+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-04-01 10:57:18.854510+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-04-01 10:57:19.787726+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-04-01 10:57:20.070652+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-04-01 10:57:20.357062+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.121926+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.311067+00:00
 go.mobisla.com,AVAILABILITY,domains.list,2026-04-01 10:57:22.520424+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-04-01 10:57:23.263497+00:00
@@ -173,3 +167,9 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-04-01 11:02:31.348284+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-04-01 11:02:31.781847+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-04-01 11:02:31.984678+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-04-01 11:02:34.014725+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-04-03 10:44:27.282752+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-04-03 10:44:27.780240+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-04-03 10:44:28.632327+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-04-03 10:44:28.856308+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-04-03 10:44:29.221122+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-04-03 10:45:04.294180+00:00
