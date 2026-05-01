@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.clickterra.net,AVAILABILITY,domains.list,2026-04-29 06:54:55.058359+00:00
-images.intellitxt.com,AVAILABILITY,domains.list,2026-04-29 06:55:40.827814+00:00
-images.revmob.com,AVAILABILITY,domains.list,2026-04-29 06:55:41.144237+00:00
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2026-04-29 06:55:41.459339+00:00
-adservices.picadmedia.com,AVAILABILITY,domains.list,2026-04-29 06:55:41.710643+00:00
-adshost2.com,AVAILABILITY,domains.list,2026-04-29 06:55:41.900908+00:00
-www.adshost2.com,AVAILABILITY,domains.list,2026-04-29 06:55:42.245457+00:00
-mm.chitika.net,AVAILABILITY,domains.list,2026-04-29 06:55:42.603509+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-04-29 06:55:42.936871+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-04-29 06:55:46.426490+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-04-29 06:55:46.688561+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-04-29 06:55:47.062175+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-04-29 06:55:49.514989+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-04-29 06:55:49.768931+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-04-29 06:55:50.270163+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-04-29 06:56:00.719570+00:00
@@ -178,3 +165,16 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-04-29 07:01:04.275184+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-04-29 07:01:04.562162+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-04-29 07:01:04.800352+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-04-30 04:17:14.180233+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-05-01 04:29:20.191234+00:00
+images.intellitxt.com,AVAILABILITY,domains.list,2026-05-01 04:29:20.469901+00:00
+images.revmob.com,AVAILABILITY,domains.list,2026-05-01 04:29:20.966235+00:00
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2026-05-01 04:29:21.284134+00:00
+adservices.picadmedia.com,AVAILABILITY,domains.list,2026-05-01 04:29:21.544249+00:00
+adshost2.com,AVAILABILITY,domains.list,2026-05-01 04:29:21.799965+00:00
+www.adshost2.com,AVAILABILITY,domains.list,2026-05-01 04:29:22.120075+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-05-01 04:29:22.452579+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-05-01 04:29:22.741899+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-05-01 04:29:23.518184+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-05-01 04:29:23.730306+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-05-01 04:29:23.955236+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-05-01 04:29:59.017522+00:00
