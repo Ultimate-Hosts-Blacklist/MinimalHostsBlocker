@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.terrapops.com,AVAILABILITY,domains.list,2026-05-21 14:07:10.575745+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-05-21 14:07:11.957389+00:00
-images.intellitxt.com,AVAILABILITY,domains.list,2026-05-21 14:07:12.259535+00:00
-images.revmob.com,AVAILABILITY,domains.list,2026-05-21 14:07:12.707500+00:00
-modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2026-05-21 14:07:12.990034+00:00
-mm.chitika.net,AVAILABILITY,domains.list,2026-05-21 14:07:13.356833+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-05-21 14:07:13.634577+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-05-21 14:07:13.972013+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-05-21 14:07:14.284959+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-05-21 14:07:15.765619+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-05-21 14:07:16.058173+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-05-21 14:07:17.740727+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-05-21 14:07:28.403816+00:00
@@ -176,3 +166,13 @@ rcm-images.amazon.com,AVAILABILITY,domains.list,2026-05-21 14:11:45.176669+00:00
 appfly.mobi,AVAILABILITY,domains.list,2026-05-21 14:11:45.845479+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-05-21 14:11:47.434689+00:00
 coinurl.com,AVAILABILITY,domains.list,2026-05-22 10:04:53.493443+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-05-23 06:51:07.353362+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-05-23 06:51:08.275819+00:00
+images.intellitxt.com,AVAILABILITY,domains.list,2026-05-23 06:51:08.635555+00:00
+images.revmob.com,AVAILABILITY,domains.list,2026-05-23 06:51:09.287607+00:00
+modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2026-05-23 06:51:09.515232+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-05-23 06:51:09.784725+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-05-23 06:51:09.985845+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-05-23 06:51:10.236516+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-05-23 06:51:10.607229+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-05-23 06:51:45.815912+00:00
