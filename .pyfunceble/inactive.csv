@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adshost2.com,AVAILABILITY,domains.list,2026-05-27 13:41:40.533511+00:00
-cdn.krxd.net,AVAILABILITY,domains.list,2026-05-27 13:44:05.040176+00:00
-cdn1.rhtag.com,AVAILABILITY,domains.list,2026-05-27 13:45:21.155055+00:00
-prm.europacash.com,AVAILABILITY,domains.list,2026-05-27 13:51:10.598621+00:00
-www.adshost2.com,AVAILABILITY,domains.list,2026-05-27 13:55:54.611845+00:00
-www.terraclicks.com,AVAILABILITY,domains.list,2026-05-27 13:56:06.119718+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-05-27 13:56:45.828496+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-05-27 13:56:46.324527+00:00
-images.intellitxt.com,AVAILABILITY,domains.list,2026-05-27 13:56:46.584312+00:00
 images.revmob.com,AVAILABILITY,domains.list,2026-05-27 13:56:46.911738+00:00
 modmyi.us.intellitxt.com,AVAILABILITY,domains.list,2026-05-27 13:56:47.187544+00:00
 mm.chitika.net,AVAILABILITY,domains.list,2026-05-27 13:56:47.433005+00:00
@@ -181,3 +172,7 @@ app.brightinfo.com,AVAILABILITY,domains.list,2026-05-27 14:01:13.200047+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-05-27 14:01:13.513254+00:00
 appfly.mobi,AVAILABILITY,domains.list,2026-05-27 14:01:14.080040+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-05-27 14:01:14.922255+00:00
+cdn.krxd.net,AVAILABILITY,domains.list,2026-05-28 14:15:43.062492+00:00
+www.terraclicks.com,AVAILABILITY,domains.list,2026-05-28 14:15:44.590933+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-05-28 14:15:45.985566+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-05-28 14:15:46.761223+00:00
