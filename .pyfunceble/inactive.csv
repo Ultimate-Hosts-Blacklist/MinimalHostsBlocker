@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.smartadserver.com,AVAILABILITY,domains.list,2026-06-03 09:02:24.798083+00:00
-cdn.krxd.net,AVAILABILITY,domains.list,2026-06-03 09:02:25.016070+00:00
-www.terraclicks.com,AVAILABILITY,domains.list,2026-06-03 09:02:25.317560+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-06-03 09:02:26.065162+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-06-03 09:02:27.937210+00:00
-images.revmob.com,AVAILABILITY,domains.list,2026-06-03 09:02:28.609360+00:00
-mm.chitika.net,AVAILABILITY,domains.list,2026-06-03 09:02:28.956272+00:00
-delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-06-03 09:02:29.344101+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-06-03 09:02:29.602987+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-06-03 09:02:29.947241+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-06-03 09:02:32.875790+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-06-03 09:02:33.236597+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-06-03 09:02:33.743649+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-06-03 09:02:44.359860+00:00
@@ -175,3 +164,15 @@ delivery.switchadhub.com,AVAILABILITY,domains.list,2026-06-03 09:07:14.227561+00
 app.brightinfo.com,AVAILABILITY,domains.list,2026-06-03 09:07:14.640773+00:00
 rcm-images.amazon.com,AVAILABILITY,domains.list,2026-06-03 09:07:14.915809+00:00
 appfly.mobi,AVAILABILITY,domains.list,2026-06-03 09:07:15.321406+00:00
+js.adsonar.com,AVAILABILITY,domains.list,2026-06-05 08:25:09.350097+00:00
+www.smartadserver.com,AVAILABILITY,domains.list,2026-06-05 08:29:30.396734+00:00
+cdn.krxd.net,AVAILABILITY,domains.list,2026-06-05 08:29:30.628899+00:00
+www.terraclicks.com,AVAILABILITY,domains.list,2026-06-05 08:29:30.954368+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-06-05 08:29:31.358809+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-06-05 08:29:31.842206+00:00
+images.revmob.com,AVAILABILITY,domains.list,2026-06-05 08:29:32.191900+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-06-05 08:29:32.357830+00:00
+delivery.us.myswitchads.com,AVAILABILITY,domains.list,2026-06-05 08:29:32.651869+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-06-05 08:29:32.873873+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-06-05 08:29:33.273920+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-06-05 08:30:09.445573+00:00
