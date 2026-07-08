@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-js.grt02.com,AVAILABILITY,domains.list,2026-07-07 08:30:41.909865+00:00
-cdn3.doubleverify.com,AVAILABILITY,domains.list,2026-07-07 08:30:42.058830+00:00
-cdn.krxd.net,AVAILABILITY,domains.list,2026-07-07 08:30:42.286031+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-07-07 08:30:42.785942+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-07-07 08:30:43.272009+00:00
-images.revmob.com,AVAILABILITY,domains.list,2026-07-07 08:30:43.670030+00:00
-mm.chitika.net,AVAILABILITY,domains.list,2026-07-07 08:30:43.864987+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-07-07 08:30:44.510405+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-07-07 08:30:44.702547+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-07-07 08:30:46.008253+00:00
 cdn.hgdat.com,AVAILABILITY,domains.list,2026-07-07 08:30:46.230618+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2026-07-07 08:30:47.016618+00:00
 ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-07-07 08:30:57.398045+00:00
@@ -179,3 +169,13 @@ ads.addynamix.com,AVAILABILITY,domains.list,2026-07-07 08:34:52.967826+00:00
 appfly.mobi,AVAILABILITY,domains.list,2026-07-07 08:34:53.553475+00:00
 www.smartadserver.com,AVAILABILITY,domains.list,2026-07-07 08:34:54.200023+00:00
 i.po.st,AVAILABILITY,domains.list,2026-07-08 07:25:51.637486+00:00
+js.grt02.com,AVAILABILITY,domains.list,2026-07-08 10:46:40.471660+00:00
+cdn3.doubleverify.com,AVAILABILITY,domains.list,2026-07-08 10:46:41.027776+00:00
+cdn.krxd.net,AVAILABILITY,domains.list,2026-07-08 10:46:41.230593+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-07-08 10:46:41.953569+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-07-08 10:46:43.453017+00:00
+images.revmob.com,AVAILABILITY,domains.list,2026-07-08 10:46:44.038288+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-07-08 10:46:44.284923+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-07-08 10:46:44.546668+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-07-08 10:46:44.766657+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-07-08 10:46:46.418248+00:00
