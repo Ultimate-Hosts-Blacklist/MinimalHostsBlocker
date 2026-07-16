@@ -1,19 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.smartadserver.com,AVAILABILITY,domains.list,2026-07-14 12:58:47.115787+00:00
-i.po.st,AVAILABILITY,domains.list,2026-07-14 12:59:02.178348+00:00
-js.grt02.com,AVAILABILITY,domains.list,2026-07-14 12:59:02.451851+00:00
-cdn3.doubleverify.com,AVAILABILITY,domains.list,2026-07-14 12:59:02.693644+00:00
-cdn.krxd.net,AVAILABILITY,domains.list,2026-07-14 12:59:02.922620+00:00
-www.terrapops.com,AVAILABILITY,domains.list,2026-07-14 12:59:04.283884+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-07-14 12:59:05.432320+00:00
-images.revmob.com,AVAILABILITY,domains.list,2026-07-14 12:59:05.999342+00:00
-mm.chitika.net,AVAILABILITY,domains.list,2026-07-14 12:59:06.404417+00:00
-ebdr3.com,AVAILABILITY,domains.list,2026-07-14 12:59:06.801422+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-07-14 12:59:07.194664+00:00
-yieldmanager.com,AVAILABILITY,domains.list,2026-07-14 12:59:08.385639+00:00
-cdn.hgdat.com,AVAILABILITY,domains.list,2026-07-14 12:59:08.643993+00:00
-adf.send.microad.jp,AVAILABILITY,domains.list,2026-07-14 12:59:09.315215+00:00
-ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-07-14 12:59:19.930797+00:00
 activity.serving-sys.com,AVAILABILITY,domains.list,2026-07-14 12:59:20.342164+00:00
 bs.serving-sys.com,AVAILABILITY,domains.list,2026-07-14 12:59:20.738453+00:00
 ds.serving-sys.com,AVAILABILITY,domains.list,2026-07-14 12:59:21.114987+00:00
@@ -179,3 +164,17 @@ m.admob.com,AVAILABILITY,domains.list,2026-07-14 13:03:56.924534+00:00
 api.unthem.com,AVAILABILITY,domains.list,2026-07-14 13:03:58.227392+00:00
 ads.addynamix.com,AVAILABILITY,domains.list,2026-07-14 13:03:58.701857+00:00
 appfly.mobi,AVAILABILITY,domains.list,2026-07-14 13:03:59.871200+00:00
+i.po.st,AVAILABILITY,domains.list,2026-07-16 13:09:01.742435+00:00
+js.grt02.com,AVAILABILITY,domains.list,2026-07-16 13:09:02.003462+00:00
+cdn3.doubleverify.com,AVAILABILITY,domains.list,2026-07-16 13:09:02.319540+00:00
+cdn.krxd.net,AVAILABILITY,domains.list,2026-07-16 13:09:02.511125+00:00
+www.terrapops.com,AVAILABILITY,domains.list,2026-07-16 13:09:03.541031+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-07-16 13:09:04.725074+00:00
+images.revmob.com,AVAILABILITY,domains.list,2026-07-16 13:09:05.428411+00:00
+mm.chitika.net,AVAILABILITY,domains.list,2026-07-16 13:09:05.716675+00:00
+ebdr3.com,AVAILABILITY,domains.list,2026-07-16 13:09:05.979678+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-07-16 13:09:06.319935+00:00
+yieldmanager.com,AVAILABILITY,domains.list,2026-07-16 13:09:07.872149+00:00
+cdn.hgdat.com,AVAILABILITY,domains.list,2026-07-16 13:09:08.190574+00:00
+adf.send.microad.jp,AVAILABILITY,domains.list,2026-07-16 13:09:08.471924+00:00
+ad.ams.mcdstorage.com,AVAILABILITY,domains.list,2026-07-16 13:09:18.925636+00:00
