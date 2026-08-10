@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 1,
-    "end_datetime": "2026-08-09T08:37:45.929813",
-    "end_epoch": 1786264665.929813,
+    "end_datetime": "2026-08-10T09:24:24.801311",
+    "end_epoch": 1786353864.801311,
     "issue_link": "https://github.com/ReddestDream/reddestdream.github.io/issues/new",
     "link": "https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
     "name": "MinimalHostsBlocker",
