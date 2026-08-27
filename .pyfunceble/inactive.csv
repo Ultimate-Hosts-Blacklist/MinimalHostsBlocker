@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c2.popads.net,AVAILABILITY,domains.list,2026-08-26 06:08:48.627664+00:00
-p22.atemda.com,AVAILABILITY,domains.list,2026-08-26 06:08:57.622259+00:00
-2912a.v.fwmrm.net,AVAILABILITY,domains.list,2026-08-26 06:08:57.807673+00:00
-a.visualrevenue.com,AVAILABILITY,domains.list,2026-08-26 06:08:58.066863+00:00
-ad.directrev.com,AVAILABILITY,domains.list,2026-08-26 06:08:58.314945+00:00
-ad.leadbolt.net,AVAILABILITY,domains.list,2026-08-26 06:09:10.764408+00:00
 ad.yieldmanager.com,AVAILABILITY,domains.list,2026-08-26 06:09:17.458049+00:00
 ad1.emediate.dk,AVAILABILITY,domains.list,2026-08-26 06:09:18.200353+00:00
 adb.nikkei.co.jp,AVAILABILITY,domains.list,2026-08-26 06:09:18.698294+00:00
@@ -175,3 +169,10 @@ jsn.dt07.net,AVAILABILITY,domains.list,2026-08-26 06:12:13.855757+00:00
 traffic.trafficposse.com,AVAILABILITY,domains.list,2026-08-26 06:12:14.452679+00:00
 ad.adtoma.com,AVAILABILITY,domains.list,2026-08-26 06:12:14.696798+00:00
 adcreative.naver.com,AVAILABILITY,domains.list,2026-08-26 06:12:15.949478+00:00
+www.smartadserver.com,AVAILABILITY,domains.list,2026-08-27 13:18:43.124943+00:00
+c2.popads.net,AVAILABILITY,domains.list,2026-08-27 13:18:53.513674+00:00
+p22.atemda.com,AVAILABILITY,domains.list,2026-08-27 13:19:05.616918+00:00
+2912a.v.fwmrm.net,AVAILABILITY,domains.list,2026-08-27 13:19:05.764792+00:00
+a.visualrevenue.com,AVAILABILITY,domains.list,2026-08-27 13:19:05.979508+00:00
+ad.directrev.com,AVAILABILITY,domains.list,2026-08-27 13:19:06.369795+00:00
+ad.leadbolt.net,AVAILABILITY,domains.list,2026-08-27 13:19:24.594232+00:00
