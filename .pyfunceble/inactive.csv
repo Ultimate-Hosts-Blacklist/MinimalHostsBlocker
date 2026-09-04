@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.smartadserver.com,AVAILABILITY,domains.list,2026-09-03 06:52:29.405454+00:00
-c2.popads.net,AVAILABILITY,domains.list,2026-09-03 06:52:46.899874+00:00
-p22.atemda.com,AVAILABILITY,domains.list,2026-09-03 06:52:59.146413+00:00
 2912a.v.fwmrm.net,AVAILABILITY,domains.list,2026-09-03 06:52:59.336476+00:00
 a.visualrevenue.com,AVAILABILITY,domains.list,2026-09-03 06:52:59.584709+00:00
 ad.directrev.com,AVAILABILITY,domains.list,2026-09-03 06:52:59.928871+00:00
@@ -176,3 +173,5 @@ jsn.dt07.net,AVAILABILITY,domains.list,2026-09-03 06:57:00.804668+00:00
 traffic.trafficposse.com,AVAILABILITY,domains.list,2026-09-03 06:57:01.272862+00:00
 ad.adtoma.com,AVAILABILITY,domains.list,2026-09-03 06:57:02.048556+00:00
 adcreative.naver.com,AVAILABILITY,domains.list,2026-09-03 06:57:02.948081+00:00
+c2.popads.net,AVAILABILITY,domains.list,2026-09-04 08:28:13.934601+00:00
+p22.atemda.com,AVAILABILITY,domains.list,2026-09-04 08:28:28.776448+00:00
