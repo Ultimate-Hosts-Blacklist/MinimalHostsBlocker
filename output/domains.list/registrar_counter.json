@@ -1,6 +1,5 @@
 {
     "counter": {
-        "Cloudflare, Inc.": 2,
         "GoDaddy.com, LLC": 4,
         "MARKMONITOR Inc.": 2,
         "MarkMonitor Inc.": 8,
@@ -11,26 +10,23 @@
         "NameSilo, LLC": 2,
         "OVH": 2,
         "REGRU-RU": 2,
-        "SAFEBRANDS": 2,
         "URL Solutions, Inc.": 2,
         "Whois Corp.(http://whois.co.kr)": 4,
-        "total": 40
+        "total": 36
     },
     "percentage": {
-        "Cloudflare, Inc.": 5.0,
-        "GoDaddy.com, LLC": 10.0,
-        "MARKMONITOR Inc.": 5.0,
-        "MarkMonitor Inc.": 20.0,
-        "MarkMonitor, Inc.": 5.0,
-        "MarkMonitor. Inc": 5.0,
-        "Markmonitor, Inc.": 5.0,
-        "NameCheap, Inc.": 10.0,
-        "NameSilo, LLC": 5.0,
-        "OVH": 5.0,
-        "REGRU-RU": 5.0,
-        "SAFEBRANDS": 5.0,
-        "URL Solutions, Inc.": 5.0,
-        "Whois Corp.(http://whois.co.kr)": 10.0,
-        "total": 100.0
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "MARKMONITOR Inc.": 5.555555555555555,
+        "MarkMonitor Inc.": 22.22222222222222,
+        "MarkMonitor, Inc.": 5.555555555555555,
+        "MarkMonitor. Inc": 5.555555555555555,
+        "Markmonitor, Inc.": 5.555555555555555,
+        "NameCheap, Inc.": 11.11111111111111,
+        "NameSilo, LLC": 5.555555555555555,
+        "OVH": 5.555555555555555,
+        "REGRU-RU": 5.555555555555555,
+        "URL Solutions, Inc.": 5.555555555555555,
+        "Whois Corp.(http://whois.co.kr)": 11.11111111111111,
+        "total": 100.00000000000001
     }
 }
