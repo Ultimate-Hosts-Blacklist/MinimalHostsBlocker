@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.burstnet.com,AVAILABILITY,domains.list,2026-11-15 17:13:18.707396+00:00
-www.smartadserver.com,AVAILABILITY,domains.list,2026-11-15 17:14:57.924577+00:00
-ads.heyzap.com,AVAILABILITY,domains.list,2026-11-15 17:14:58.279224+00:00
-au-01.adtomafusion.com,AVAILABILITY,domains.list,2026-11-15 17:14:58.963793+00:00
-bn-01.adtomafusion.com,AVAILABILITY,domains.list,2026-11-15 17:15:01.186103+00:00
-cdn.merchenta.com,AVAILABILITY,domains.list,2026-11-15 17:15:01.515236+00:00
-imads.integral-marketing.com,AVAILABILITY,domains.list,2026-11-15 17:15:01.923617+00:00
-integral-marketing.com,AVAILABILITY,domains.list,2026-11-15 17:15:02.265137+00:00
-jsc.marketgid.com,AVAILABILITY,domains.list,2026-11-15 17:15:02.632803+00:00
-www.clickterra.net,AVAILABILITY,domains.list,2026-11-15 17:15:03.859441+00:00
-c2.popads.net,AVAILABILITY,domains.list,2026-11-15 17:15:04.459798+00:00
 p22.atemda.com,AVAILABILITY,domains.list,2026-11-15 17:15:18.533262+00:00
 2912a.v.fwmrm.net,AVAILABILITY,domains.list,2026-11-15 17:15:18.804268+00:00
 a.visualrevenue.com,AVAILABILITY,domains.list,2026-11-15 17:15:19.210094+00:00
@@ -178,3 +167,13 @@ jsn.dt07.net,AVAILABILITY,domains.list,2026-11-15 17:19:47.146985+00:00
 traffic.trafficposse.com,AVAILABILITY,domains.list,2026-11-15 17:19:47.521369+00:00
 ad.adtoma.com,AVAILABILITY,domains.list,2026-11-15 17:19:47.855594+00:00
 adcreative.naver.com,AVAILABILITY,domains.list,2026-11-15 17:19:49.022789+00:00
+www.burstnet.com,AVAILABILITY,domains.list,2026-11-16 20:33:51.320819+00:00
+ads.heyzap.com,AVAILABILITY,domains.list,2026-11-16 20:33:51.967573+00:00
+au-01.adtomafusion.com,AVAILABILITY,domains.list,2026-11-16 20:33:57.101368+00:00
+bn-01.adtomafusion.com,AVAILABILITY,domains.list,2026-11-16 20:33:57.531974+00:00
+cdn.merchenta.com,AVAILABILITY,domains.list,2026-11-16 20:33:57.815246+00:00
+imads.integral-marketing.com,AVAILABILITY,domains.list,2026-11-16 20:33:58.142755+00:00
+integral-marketing.com,AVAILABILITY,domains.list,2026-11-16 20:33:58.429146+00:00
+jsc.marketgid.com,AVAILABILITY,domains.list,2026-11-16 20:33:58.759448+00:00
+www.clickterra.net,AVAILABILITY,domains.list,2026-11-16 20:33:59.922799+00:00
+c2.popads.net,AVAILABILITY,domains.list,2026-11-16 20:34:00.291631+00:00
